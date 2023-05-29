@@ -6,7 +6,7 @@ O projeto ainda está em desenvolvimento.
 
 ## Estrutura do Projeto
 
-Construindo Sistemas com uma Arquitetura Limpa
+Construindo Sistemas com Arquitetura Limpa
 
 `config` - configurações de bibliotecas externas, como por exemplo, autenticação, upload, email, etc.
 
