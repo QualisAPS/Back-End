@@ -4,6 +4,7 @@ import RegiaoAdmin from 'App/Models/RegiaoAdmin'
 
 export default class RegiaoAdminController {
   public async index() {
+    
     // const data = await RegiaoAdmin.all()
     // return data
 

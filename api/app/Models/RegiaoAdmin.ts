@@ -1,8 +1,9 @@
 import { DateTime } from 'luxon'
-import { BaseModel,belongsTo,BelongsTo, column } from '@ioc:Adonis/Lucid/Orm'
+import { BaseModel,belongsTo,BelongsTo, column, hasMany,HasMany } from '@ioc:Adonis/Lucid/Orm'
 import RegiaoSaude from './RegiaoSaude'
+import Gsap from './Gsap'
 
-export default class RegiaoAdmin extends BaseModel {
+export default class  RegiaoAdmin extends BaseModel {
 
   public static table = 'regiao_admin'
 
@@ -17,4 +18,9 @@ export default class RegiaoAdmin extends BaseModel {
 
   @belongsTo(() => RegiaoSaude)
   public regiao_saude: BelongsTo<typeof RegiaoSaude>
+
+  @hasMany(() => Gsap,{
+    foreignKey: 'id',
+  })
+  public gsaps: HasMany<typeof Gsap>
 }
