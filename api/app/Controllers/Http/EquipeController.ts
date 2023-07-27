@@ -1,17 +1,14 @@
 import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 
-import UBS from 'App/Models/UBS'
+import Equipe from 'App/Models/equipe'
 
-export default class UBSController {
+export default class EquipeController {
   public async index() {
 
     // const data = await UBS.all()
     // return data
 
-    const data = await UBS
-    .query()
-    .preload('gsap')
-
+    const data = await Equipe.all()
     return data
     
   }

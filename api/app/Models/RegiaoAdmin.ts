@@ -19,8 +19,6 @@ export default class  RegiaoAdmin extends BaseModel {
   @belongsTo(() => RegiaoSaude)
   public regiao_saude: BelongsTo<typeof RegiaoSaude>
 
-  @hasMany(() => Gsap,{
-    foreignKey: 'id',
-  })
+  @hasMany(() => Gsap)
   public gsaps: HasMany<typeof Gsap>
 }
