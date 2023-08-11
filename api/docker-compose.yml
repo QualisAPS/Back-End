@@ -1,18 +1,16 @@
 version: '3'
 services:
   postgres:
-    build:
-      context: .  # Diretório onde o Dockerfile está localizado
-      dockerfile: Dockerfile
-    container_name: meu-postgres
+    image: postgres:latest
+    container_name: postgres-container
     environment:
-      POSTGRES_DB: nome_do_banco
-      POSTGRES_USER: usuario_do_banco
-      POSTGRES_PASSWORD: senha_secreta
-    volumes:
-      - pg_data:/var/lib/postgresql/data  # Salvar dados em um volume
+      POSTGRES_DB: qualis
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: senha
     ports:
-      - "5432:5432"  # Mapear porta do host para porta do contêiner
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
 
 volumes:
-  pg_data:  # Volume para persistência dos dados
+  postgres-data:
