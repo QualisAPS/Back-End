@@ -1,0 +1,120 @@
+idopcoes_questoes,nome,id_consulta_questoes
+1,concordo,1
+2,concordo parcialmente,1
+3,discordo,1
+4,concordo,2
+5,concordo parcialmente,2
+6,discordo,2
+7,concordo,3
+8,concordo parcialmente,3
+9,discordo,3
+10,concordo,4
+11,concordo parcialmente,4
+12,discordo,4
+13,concordo,5
+14,concordo parcialmente,5
+15,discordo,5
+16,concordo,6
+17,concordo parcialmente,6
+18,discordo,6
+19,concordo,7
+20,concordo parcialmente,7
+21,discordo,7
+22,concordo,8
+23,concordo parcialmente,8
+24,discordo,8
+25,concordo,9
+26,concordo parcialmente,9
+27,discordo,9
+28,concordo,10
+29,concordo parcialmente,10
+30,discordo,10
+31,concordo,11
+32,concordo parcialmente,11
+33,discordo,11
+34,concordo,12
+35,concordo parcialmente,12
+36,discordo,12
+37,concordo,13
+38,concordo parcialmente,13
+39,discordo,13
+40,concordo,14
+41,concordo parcialmente,14
+42,discordo,14
+43,concordo,15
+44,concordo parcialmente,15
+45,discordo,15
+46,concordo,16
+47,concordo parcialmente,16
+48,discordo,16
+49,concordo,17
+50,concordo parcialmente,17
+51,discordo,17
+61,Sim,21
+62,Não,21
+63,"Já fiz parte, mas não vi resultados",21
+73,Fechamento da empresa,25
+74,Redução das atividades da empresa com demissão de colaboradores,25
+75,Alteração do portfólio de produtos e serviços,25
+76,Sim,26
+77,Tentei mas não consegui,26
+78,Não tentei,26
+79,Sim e consegui,27
+80,Sim e não consegui,27
+103,"Capacitação em vendas-online, melhoria de gestão empresarial",35
+115,Sim,39
+116,Não,39
+117,Não tenho conhecimento,39
+118,Inalterado,40
+119,Redução de até 30%,40
+120,Redução acima de 30% e abaixo de 50%,40
+134,Redução acima de 50% e abaixo de 80%,40
+135,Redução acima de 80%,40
+139,Federação,46
+140,Associação Comercial,46
+142,aberta,47
+145,aberta,48
+148,aberta,49
+151,aberta,50
+157,Redução da mensalidade,52
+158,Suspensão das mensalidades,52
+159,Redução dos valores dos serviços,52
+160,informativo da entidade,53
+161,campanha de divulgação,53
+162,nenhuma,53
+163,sim,54
+164,não,54
+166,sim,55
+167,não,55
+169,sim,56
+170,não,56
+172,aberta,57
+175,aberta,58
+178,aberta,59
+181,aberta,60
+184,não,61
+185,"houve solicitações de desfiliação, porém os procedimentos não foram efetivados ",61
+186,"sim, até 20% ",61
+187,sim,62
+188,não,62
+190,Apoio às medidas restritivas do governo,63
+191,A favor da abertura dos negócios e contra as medidas restritivas do governo,63
+192,A entidade não se posiciona e avalia que compete aos órgãos vinculados à saúde e à vigilância sanitária tomarem as medidas corretas,63
+193,sim,64
+194,estamos discutindo,64
+195,não,64
+198,Operação sem alterações,25
+199,Não tentei,27
+203,Marketing digital,35
+204,Gestão de clientes,35
+205,"Apoio  para incorporar novas tecnologias (software, hardware, aplicações)",35
+206,Outras (use o campo de comentário para indicar outras formas como o EMPREENDER poderia ajudar a empresa),35
+208,Reuniões por teleconfêrencia,52
+209,Nenhuma ,52
+210,Outras (indique no campo de comentário),52
+211,outras (indique no campo de comentário),53
+212,"sim, até 50% ",61
+213,"sim, acima de  50%",61
+214,"A entidade tem discutido com o governo a abertura gradual dos empreendimentos, atenta à segurança do cidadão e às diretrizes dos orgãos de saúde",63
+215,aberta,65
+218,aberta,66

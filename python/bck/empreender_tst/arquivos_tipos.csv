@@ -1,0 +1,24 @@
+id,tipo,obrigatorio,descricao,usuario_modificacao,data_inclusao,vencimento_obrigatorio
+4,Norma Sebrae,false,Normas do Sebrae do interesse do Sistema CACB,22895523053,2022-05-19 11:03:05.068485,false
+8,Balanço Patrimonial,obrigatorio,Balanço Patrimonial do exercício anterior,83392190144,2022-05-24 15:23:56.253567,nao_aplica
+7,Ata de eleição,obrigatorio,Ata de eleição ou ato de designação das pessoas habilitadas a representar a pessoa jurídica,83392190144,2022-05-24 15:22:16.483059,obrigatorio
+12,Certidão Negativa de Débitos - Tributos federais e à Dívida ativa da união,obrigatorio,Certidão Negativa de débitos relativos aos tributos federais e à dívida ativa da união (Receita Federal),83392190144,2022-05-24 15:41:48.926805,obrigatorio
+6,Estatuto Social,obrigatorio,"Estatuto social, com alterações posteriores consolidadas, registrados nos órgãos competentes",05897281130,2022-05-24 15:17:55.274232,nao_aplica
+15,Certidão Negativa de Débitos Trabalhistas,obrigatorio,Certidão Negativa de Débitos Trabalhistas,83392190144,2022-05-25 10:09:13.866437,obrigatorio
+13,Certificado de Regularidade do FGTS - CRF,obrigatorio,Certificado de Regularidade do FGTS - CRF,83392190144,2022-05-24 15:43:15.095081,obrigatorio
+11,Documento de identidade dos representantes legais da entidade e da inscrição no CPF,obrigatorio,Documento de identidade dos representantes legais da entidade e da inscrição no CPF ou de documento equivalente válido.,83392190144,2022-05-24 15:34:30.609682,nao_aplica
+17,Certidão SEBRAE,obrigatorio,Certidão(Declaração do SEBRAE UF) de ausência de pendências do proponente junto ao Sistema Sebrae.,83392190144,2022-05-26 13:39:54.2477,nao_aplica
+5,Cartão CNPJ,obrigatorio,Certificado de inscrição no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda,83392190144,2022-05-24 14:40:15.257365,nao_aplica
+16,Certidão Negativa de Débito Municipal,obrigatorio,"Certidão Negativa de Débito Municipal, do domicílio ou da sede do proponente ou outra equivalente na forma da lei. Na sua falta, deverá ser apresentada declaração do proponente, assinada pelos representantes legais ou pelo seu contador, informando que possui isenção tributária e se responsabiliza pela informação prestada.",83392190144,2022-05-25 10:11:00.170198,obrigatorio
+14,Certidão Negativa de Débito Estadual,obrigatorio,Certidão Negativa de Débito Estadual,83392190144,2022-05-24 15:45:39.242278,obrigatorio
+10,Balancete,obrigatorio,Balancete atualizado pelo menos até o trimestre anterior à habilitação,83392190144,2022-05-24 15:26:36.338742,nao_aplica
+2,Diversos,nao_aplica,Arquivos gerais sem um tipo específico,22895523053,2022-05-16 09:27:35.276726,nao_aplica
+18,Resumo do Projeto Assinado,obrigatorio,,05897281130,2023-02-02 16:56:23.25655,nao_aplica
+19,Designação do Gestor da Entidade Proponente,obrigatorio,,05897281130,2023-02-02 16:57:01.680581,nao_aplica
+20,Documentação Técnica,obrigatorio,,05897281130,2023-02-02 16:57:44.279305,nao_aplica
+21,Extrato Zerado da Conta Projeto,obrigatorio,,05897281130,2023-02-02 16:59:42.711987,nao_aplica
+22,Ofício/Declaração,obrigatorio,,05897281130,2023-02-27 11:54:02.644633,nao_aplica
+23,Contrato-empresa,opcional,Destinado aos contratos dos quais as empresas cadastradas participa.,22895523053,2023-02-27 12:36:52.881397,obrigatorio
+56,Parecer Técnico e Financeiro - CACB,nao_aplica,Parecer Técnico e Financeiro - CACB,05897281130,2023-03-03 11:11:45.215965,nao_aplica
+57,Comunicação Eletrônica,obrigatorio,,05897281130,2023-03-21 17:23:41.949857,nao_aplica
+58,Doc-contratação,opcional,Documentos relativos a contratos com a empresa,70633372110,2023-02-02 00:00:00,nao_aplica

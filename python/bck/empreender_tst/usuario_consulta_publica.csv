@@ -1,0 +1,1399 @@
+idusuario_consulta,nmusuario,nucpf,uf,cidade,email,vinculo,dssenha,data_criacao,data_atualizacao,sexo,ip
+1,Gabriel Lima,04473535193,DF,Brasília,gabrieltomazlima@hotmail.com,Outro,e10adc3949ba59abbe56e057f20f883e,2020-02-04 21:36:36,2020-02-04 21:36:36,M,
+2,Renato Rossi,22895523053,DF,Brasília,renato.rossi@outlook.com,Consultor,f844b20a39653b2e1bc3ac4a94646181,2020-02-06 08:46:39,2020-02-06 08:46:39,M,
+3,CARLOS REZENDE,46705171634,DF,Brasília,carlos.rezende@uol.com.br,Dirigente de Entidade,bb66874c3bafd39eb2a7b2b4c06b33cb,2020-02-12 10:22:02,2020-02-12 10:22:02,M,
+4,Joana,04174744157,DF,Brasília,joana.albuquerque@cacb.org.br,Outro,17439deacb65436fa6fd15da223edfe2,2020-02-13 15:28:23,2020-02-13 15:28:23,F,
+6,RODRIGO MAIA MARCELO PIRANI,56270852153,MS,Campo Grande,rodrigo.maia@ms.sebrae.com.br,Coordenador Estadual/Regional,607465a91068ba2ff9568722e3fe234c,2020-02-18 16:24:30,2020-02-18 16:24:30,M,
+7,Josiani Billig,01263795056,RS,Caxias do Sul,consultorgrupos@microempa.com.br,Consultor,1715dce5dbc4a42f9bcf1c47859655fe,2020-02-18 16:44:33,2020-02-18 16:44:33,F,
+8,Josane,03648218921,PR,Maringá,empreender2@acim.com.br,Consultor,23ad4b004074cdc5d1804f6e6f3d51d6,2020-02-18 17:00:43,2020-02-18 17:00:43,F,
+9,Alina Mendes Gomes de Freitas,70384258620,MG,Alem Paraiba,alina@aceap.com.br,Consultor,834bb7008bd1aaac887ffa69a7e86885,2020-02-18 17:22:47,2020-02-18 17:22:47,F,
+10,Jovenil Vitt Lima,36616559068,RS,Caxias do Sul,jovenilvlima@gmail.com,Empresário,09876465dc6c7b5290981d5e42de0b6b,2020-02-18 17:26:51,2020-02-18 17:26:51,M,
+11,Lauro Jorge Costa Cordeiro,27841910363,MA,Pinheiro,laurojorgecordeiro@bol.com.br,Empresário,a48ecf39c095cbf06bb22f7dd1995626,2020-02-18 17:30:55,2020-02-18 17:30:55,F,
+12,Janaina Lemos,11035584638,MG,Uberlândia,janaina@empreenderuberlandia.com.br,Consultor,5ce9fd3f0b4fdbec4fec8eda8e2f984a,2020-02-18 17:31:36,2020-02-18 17:31:36,F,
+13,Osmarina,10619131632,MG,Uberlândia,osmarina@empreenderuberlandia.com.br,Consultor,7199336674a37cb50b3797187bc6a0d9,2020-02-18 17:31:51,2020-02-18 17:31:51,F,
+14,Angelica Minasi,65208269015,RS,Rio Grande,controladoriaangelica@gmail.com,Empresário,a21fd7ab3caad45d0d3f30841bbb757a,2020-02-18 17:37:31,2020-02-18 17:37:31,F,
+15,Renata Silva,04329076969,PR,Umuarama,renatacris8@hotmail.com,Coordenador Estadual/Regional,b6af3f19458ec8e6faff8ee1e0440ecb,2020-02-18 17:48:07,2020-02-18 17:48:07,F,
+16,Fabiola firmino matos,36010766249,AC,Rio Branco,fabiola.firmino.matos@gmail.com,Empresário,dc5b84d13a3d594990647feaf0f95d4f,2020-02-18 18:06:23,2020-02-18 18:06:23,F,
+17,jordi castan,68389841991,SC,Joinville,llangardaix1@gmail.com,Consultor,c5e4b1f689b7045980072a00a057a9fb,2020-02-18 18:59:53,2020-02-18 18:59:53,M,
+18,Elizete de Arruda Delgado,81828160334,MA,Barra do Corda,elizetesine@hotmail.com,Dirigente de Entidade,cd499adddf5841fefeecc065a45c4742,2020-02-18 19:06:46,2020-02-18 19:06:46,F,
+19,Tatiane Amaral,96925787553,BA,Feira de Santana,tatyfeira@gmail.com,Consultor,fa1a0c408d24aa93c7b064c368a4d2ac,2020-02-18 19:26:29,2020-02-18 19:26:29,F,
+20,Nagylla Nária Fernandes de Oliveira Firmo,10994325703,RS,Rio Grande,nagylla.naria@gmail.com,Empresário,80b1a7b623e9caad49a0172c203292cb,2020-02-18 19:48:41,2020-02-18 19:48:41,F,
+21,marcia lima,96298545549,BA,Santo Antônio de Jesus,escolasegredodemulher@gmail.com,Empresário,3c0855b189d8d38ba9c235bdbb6b30ab,2020-02-18 20:07:06,2020-02-18 20:07:06,F,
+22,clayton ferreira leao,48540544253,MT,Cuiabá,professor.leao@yahoo.com.br,Consultor,3b4bd807cae643c423c608a75030d728,2020-02-18 20:12:20,2020-02-18 20:12:20,M,
+23,Valeria Baierle,61208892053,RS,Santo Antônio da Patrulha,valbaier@terra.com.br,Consultor,ed46740cbcdee5291bf2128714b8e331,2020-02-18 20:20:39,2020-02-18 20:20:39,F,
+24,Maria Beatriz Marques,26899876000,RS,Santo Antônio da Patrulha,beatrizmarques@acisap.com.br,Outro,d57587b0f5bbb0c3fe9d8cb16e97b0fe,2020-02-18 21:00:07,2020-02-18 21:00:07,F,
+25,Marilia Ferreira Vargas,00304147095,RS,Osório,marilia_vargas@hotmail.com,Consultor,63d5b0fdf1131f296dc5e62699ca02f5,2020-02-18 21:10:43,2020-02-18 21:10:43,F,
+26,ELVES MARIA GOMES GAVIOLI,21703183053,RS,Santiago,elvesgg@gmail.com,Empresário,267c7114096454a2c64044fded697434,2020-02-18 21:11:06,2020-02-18 21:11:06,F,
+27,ANA CLAUDIA BITENCOURT CLAUDINO,51315300087,RS,Porto Alegre,diretoria@yesagencia.com.br,Empresário,bb8cbd038fe0a48da0f8f1502979ae51,2020-02-18 22:23:07,2020-02-18 22:23:07,F,
+28,Lorilene Correa Quevedo,71792813015,RS,Porto Alegre,lqcorrea@yahoo.com.br,Empresário,b003a17345a2f87b38482a362549a4ee,2020-02-18 22:27:08,2020-02-18 22:27:08,F,
+29,cristina MARTELETTI,53387937091,RS,Alvorada,cristina.marteletti@gmail.com,Consultor,c109cd75a15de85a62dd73f0d85d04d9,2020-02-18 22:36:36,2020-02-18 22:36:36,F,
+30,Karine Fialho barreto,64824772087,RS,Santo Antônio da Patrulha,Planetacalcados2010@hotmail.com,Empresário,35309226eb45ec366ca86a4329a2b7c3,2020-02-18 22:51:34,2020-02-18 22:51:34,F,
+31,Liane Silva,70873224000,RS,Cachoeirinha,comercial@proverservico.com.br,Empresário,f3a0ce3a06c76f34e36f6a91f898c05f,2020-02-18 23:53:43,2020-02-18 23:53:43,F,
+32,ELOÁ QUEVEDO HSU,50885430000,RS,Rio Grande,secretariaexecutiva@camaradecomercio.com.br,Outro,2119eb59afc81b22cf8a4298047f9723,2020-02-19 09:45:53,2020-02-19 09:45:53,F,
+33,Ana Lúcia Pinheiro Israel,97165077049,RS,Bagé,anapinheiroisrael@gmail.com,Técnico do Sebrae,e69e45c23f82878e29376e9a5072bd60,2020-02-19 17:04:39,2020-02-19 17:04:39,F,
+34,Mariane Kempf,42531020004,RS,Feliz,administrativo@acisfe.com.br,Consultor,27482d345affc99a2963ae32c4764920,2020-02-19 17:24:05,2020-02-19 17:24:05,F,
+35,ERALDO VASCONCELOS DE SOUZA,32385749068,RS,Caçapava do Sul,souza@eraldovasconcelos.com.br,Empresário,a58f222ddf278134fec573f93eaec3cd,2020-02-19 17:48:56,2020-02-19 17:48:56,M,
+36,Diego França Romeiro de Melo,06240695408,AL,Maceió,consulte_diego@hotmail.com,Consultor,26a28386eeb29892ba195814bd2f0e14,2020-02-19 19:53:19,2020-02-19 19:53:19,M,
+37,Tammy Nunes Ribeiro,07407871604,MG,Pouso Alegre,tatharibeiro@yahoo.com.br,Consultor,18d80ee20610a17d5ca473fa51f43341,2020-02-19 21:22:47,2020-02-19 21:22:47,F,
+38,Beatriz Dalariva Cunha,04434378660,MG,Patrocínio,beatriz.dacunha@hotmail.com,Empresário,f02b88d9632a8d69525d85bc00b755de,2020-02-20 07:49:50,2020-02-20 07:49:50,F,
+39,Ricardo Alves,16991358860,SP,Guarulhos,ricardoalves@esferacontabil.com.br,Consultor,09fe779acea0bb463ce86907f64baa3d,2020-02-20 11:09:59,2020-02-20 11:09:59,F,
+40,Audrey schafer,72726210015,RS,Porto Alegre,audreyschafer@hotmail.com,Outro,baed96996a8318b5d37467d44f529ca4,2020-02-20 13:22:40,2020-02-20 13:22:40,F,
+41,Clea  Maria Carvalho Mascarenhas,51489953434,AL,Palmeira dos Indios,clea_mascarenhas@hotmail.com,Coordenador Estadual/Regional,e7d17bd076856de8037e08bc976d9bc9,2020-02-20 14:11:12,2020-02-20 14:11:12,F,
+42,Kelly Regina Scherer,71572120053,RS,Porto Alegre,kelly@frapperconsultoria.com.br,Empresário,243e3e18c38f2e1ea59387faa66b53fa,2020-02-20 15:49:24,2020-02-20 15:49:24,F,
+43,Vanessa Dantas,05849235469,AL,Maceió,vanessadantas12@gmail.com,Consultor,59b1e2cce58f126046c2b18e217aa486,2020-02-20 22:54:03,2020-02-20 22:54:03,F,
+44,Jaqueline,72565454015,RS,Canoas,fonojaquemoretto@gmail.com,Empresário,d01a3d7f45830555297edb410d41239f,2020-02-21 05:38:35,2020-02-21 05:38:35,F,
+45,Maria Regina Ronchetti,36636967072,RS,Canoas,mariarron2@gmail.com,Empresário,69a5b5995110b36a9a347898d97a610e,2020-02-21 06:31:59,2020-02-21 06:31:59,F,
+46,Ewerton,08543979498,AL,Maceió,riolargo@federalagoas.com.br,Consultor,36f8c9fc95b2ded6f819a9174c465f73,2020-02-21 08:28:15,2020-02-21 08:28:15,M,
+47,Andréa Castro de Noronha,18183760244,PA,Belém,andreacastro.noronha@gmail.com,Dirigente de Entidade,49f6586d4cd7c0bbd92d31e85536552b,2020-02-21 10:29:12,2020-02-21 10:29:12,F,
+48,Melissa Ravanello,89644174020,RS,Caxias do Sul,mel@feitoamel.com.br,Empresário,505341598be1efadad05687127061c84,2020-02-21 10:31:40,2020-02-21 10:31:40,F,
+49,Jorge Tadeu de Barros Veneza,51870185153,MS,Campo Grande,jorge.veneza@ms.sebrae.com.br,Técnico do Sebrae,0ff2db2e5c8069f95759ee8fbb487241,2020-02-21 10:32:46,2020-02-21 10:32:46,M,
+50,Luiza Aparecida Colombo Dutra,57459339091,RS,Caxias do Sul,atendimento@armazempaper.com.br,Empresário,bdbdc56ee49d4b25e06c42b8f24e5411,2020-02-21 10:48:11,2020-02-21 10:48:11,F,
+51,Cleide,21873299842,MG,Campanha,cleidebersani@gmail.com,Coordenador Estadual/Regional,063a1f8a718513fe933d0e20fbd27d68,2020-02-21 10:58:14,2020-02-21 10:58:14,F,
+52,Aline Rodrigues,00890187029,RS,Caxias do Sul,allinerds@gmail.com,Consultor,e10adc3949ba59abbe56e057f20f883e,2020-02-21 11:01:46,2020-02-21 11:01:46,F,
+53,FERNANDA PRADO DA SILVA,00696155001,RS,Caxias do Sul,ferprado29@gmail.com,Empresário,69902686bf261cf742df232520f0475f,2020-02-21 11:03:56,2020-02-21 11:03:56,F,
+54,Edegar Bernardo da Silva,34463097053,RS,Caxias do Sul,edegar.s@perfillais.com.br,Empresário,a3b3ea937972b7bdafb88a5905339846,2020-02-21 11:06:53,2020-02-21 11:06:53,M,
+55,Nelly Trevisan Assaiante,56438850934,PR,Colorado,nellytassaiante@hotmail.com,Empresário,d468b054916dc81778dedaaa2f6dfda3,2020-02-21 11:12:47,2020-02-21 11:12:47,F,
+56,Gilvan Gressler,23887656091,RS,Caxias do Sul,Gilvan@neograf.ind.br,Empresário,03ca0d63ce652bb0ba951dda3adfa54d,2020-02-21 11:19:31,2020-02-21 11:19:31,M,
+57,Liliane Giordano,73314854072,RS,Caxias do Sul,lilianegiordano@gmail.com,Empresário,2bca7c4f1e6547d98db7429a4e7512fd,2020-02-21 11:30:29,2020-02-21 11:30:29,F,
+58,Fábio Júnior Cardoso,06564214600,MG,Muzambinho,acefinanceiromuz@gmail.com,Dirigente de Entidade,f423ba7722ca618a82e6efbdfbe85b7d,2020-02-21 11:34:10,2020-02-21 11:34:10,M,
+59,Emili Bordin da Silva,02817270070,RS,Caxias do Sul,emilibordin@gmail.com,Empresário,69de1fff6f59333205cf8d7fcab7c144,2020-02-21 11:46:26,2020-02-21 11:46:26,F,
+60,ALEXANDRE GUERRA PORPINO DIAS JUNIOR,05393783485,RN,Natal,alexandree_guerra@hotmail.com,Coordenador Estadual/Regional,f0742fa66b5c8f53dae2bc93b48373e0,2020-02-21 11:51:16,2020-02-21 11:51:16,M,
+61,Gabriella Pinheiro de Sousa,41118977890,MG,Ouro Preto,empreender@aceop.com.br,Consultor,793f93422bd66e1885c228b29101556f,2020-02-21 11:52:36,2020-02-21 11:52:36,F,
+62,Jenice Ferreira dos Santos,95338284049,RS,Caxias do Sul,jenice@bioplanet.com.br,Empresário,da24fe01a638ba4d5bf322404a85a747,2020-02-21 12:00:27,2020-02-21 12:00:27,F,
+63,Dayvison Costa,04033034609,MG,São João del-Rei,dayvison11@hotmail.com,Consultor,9726965a3fdc9cb9df078311ff60f8a4,2020-02-21 12:04:10,2020-02-21 12:04:10,M,
+64,Ilsa Liamara Andrade Stuermer,43579256068,RS,Caxias do Sul,comunicar.ac@gmail.com,Consultor,38396d6565b91c608d4f069714f77399,2020-02-21 12:34:17,2020-02-21 12:34:17,F,
+65,Enedina Erdmann,25053841004,RS,São Leopoldo,enedina.e@gmail.com,Empresário,82cc75ff78a40a4dcf3aafc62bf98e66,2020-02-21 12:39:30,2020-02-21 12:39:30,F,
+66,Nelson Andujar de Oliveira,03901850864,SP,São Paulo,nelson.andujar@facesp.com.br,Coordenador Estadual/Regional,0115238ce164a786a6e115a74074b158,2020-02-21 12:48:25,2020-02-21 12:48:25,M,
+67,Fabiana Menin Stedile,66698227072,RS,Caxias do Sul,fabims2204@gmail.com,Outro,3566460d6e03afc9bc8853917caefbb1,2020-02-21 12:49:32,2020-02-21 12:49:32,F,
+68,Maurício de Lima Michelon,43175660010,RS,Caxias do Sul,michelon.mauricio@gmail.com,Empresário,4431a234c4a514da50333ec09849cc17,2020-02-21 12:53:17,2020-02-21 12:53:17,F,
+69,Paulo César Ferreira,72624299653,PR,Curitiba,pcpessoal@hotmail.com,Coordenador Estadual/Regional,e6f8ad3b5734c340ae6345657aadc118,2020-02-21 13:00:07,2020-02-21 13:00:07,M,
+70,Andrea Claudia Monteiro,08373934855,PR,Campo Largo,andrea@faciap.org.br,Consultor,f81ad6308a57c568ffd0aa74730448e3,2020-02-21 13:20:45,2020-02-21 13:20:45,F,
+71,Braulio,01788747526,BA,Salvador,braulio@laspalomitas.com.br,Empresário,e1910b1dbdea671e8f689ea1f771ae5d,2020-02-21 13:22:01,2020-02-21 13:22:01,M,
+72,Francisco Wander da Silva,62652818600,DF,Brasília,brazilsocietybrands@gmail.com,Empresário,f3c9b45d6b246a56fe51d6dea03db18b,2020-02-21 13:26:32,2020-02-21 13:26:32,M,
+73,JOÃO LOURENÇO,46822534253,PA,Belém,lourencosjr@gmail.com,Outro,8075babc517dbd1ed49483a01b260754,2020-02-21 13:33:29,2020-02-21 13:33:29,M,
+74,MARCELO MOURA DOS SANTOS,57262250230,PA,Belém,marcelomsantos33@gmail.com,Empresário,ae4aa1f9e6328509ad5f83f290b0009d,2020-02-21 13:35:39,2020-02-21 13:35:39,M,
+75,Ângelo ARTUR MESTRINÉR,22058796004,RS,Caxias do Sul,travaefio@gmail.com,Empresário,a2fcfe06179d2352a2817006af4b5497,2020-02-21 13:36:14,2020-02-21 13:36:14,M,
+76,LUIZ CARLOS TONET,39822702000,RS,Caxias do Sul,luiz@lujetec.com.br,Empresário,dfc467546842de35cf8a210a311b968f,2020-02-21 13:40:40,2020-02-21 13:40:40,M,
+77,Alexandre Gonçalves Machado Magn e Silva,60806400234,PA,Belém,magno.contato@gmail.com,Outro,d75d781c8444ac21c7d62f84750b6894,2020-02-21 13:41:28,2020-02-21 13:41:28,M,
+78,Selma Aparecida dos Santos,62819240968,PR,Almirante Tamandaré,selmaasantos@hotmail.com.br,Consultor,f938c93da3eeabf30a6679828dede59c,2020-02-21 13:45:30,2020-02-21 13:45:30,F,
+79,Frutuosa Maria Regino,30710758120,DF,Brasília,frutuosa@federaleat.com.br,Empresário,3b65ef4729c8cc3aa8fbc0eb73d6ad47,2020-02-21 13:49:34,2020-02-21 13:49:34,F,
+80,FLÁVIA PIRES LACERDA,30068541449,DF,Brasília,flavialacerda55@gmail.com,Empresário,88382058cc3200e6fee5365f12fb9315,2020-02-21 13:56:35,2020-02-21 13:56:35,F,
+81,RENAN,01457899183,TO,Palmas,renan.macedoo@gmail.com,Empresário,5cfb40b391d9e9ae2fa713abaaa2e587,2020-02-21 14:19:39,2020-02-21 14:19:39,M,
+82,JORGE VALDECIR BORGES LOPES,43881530010,RS,Caxias do Sul,jvblopes@gmail.com,Empresário,d347bc65cf354d61c55f6dc1c672eeb5,2020-02-21 14:22:24,2020-02-21 14:22:24,M,
+83,Ana Paula Velasco Ferreira Santos,08966647910,PR,Tapejara,vellasco.acit@gmail.com,Consultor,670f8574bd93dd78bd568dab84c6733a,2020-02-21 14:24:51,2020-02-21 14:24:51,F,
+84,RONAN PIRES NONATO,92696708134,DF,Brasília,facilassessoriadf@gmail.com,Empresário,4353185119b4cbca7657d6268247e80c,2020-02-21 14:27:07,2020-02-21 14:27:07,M,
+85,Lucilene de Fátima Oliveira,51004739915,PR,Ponta Grossa,lucilene@acipg.org.br,Consultor,e0de2b492d51feb1e125eac9b2b25cdf,2020-02-21 14:27:13,2020-02-21 14:27:13,F,
+86,Wanderson Vasconcelos,62404075349,MA,São Luís,wanderson@servirconsultoria.com.br,Consultor,f4cc08fa20e1167cba660c5fae1f2a1a,2020-02-21 14:31:31,2020-02-21 14:31:31,M,
+87,Iraci,73766860968,PR,Medianeira,iraci@faciap.org,Consultor,0461cec0f3f6dedfd97d2f6c564d0775,2020-02-21 14:48:39,2020-02-21 14:48:39,F,
+88,nayhara miranda,60019724357,MA,Imperatriz,nayharamiranda@hotmail.com,Empresário,d3786ec2413a8cd9413bfcb24be95a73,2020-02-21 14:54:40,2020-02-21 14:54:40,F,
+89,Nívea Comparini,22071400836,RS,Caxias do Sul,nivea.comparini@fidem.adm.br,Empresário,518aaa799d25806d2e9d1f27789bbfb3,2020-02-21 14:59:49,2020-02-21 14:59:49,F,
+90,NORMANDES FERREIRA CARVALHO,88669572168,TO,Dianópolis,NORMANDESCONTADOR@HOTMAIL.COM,Empresário,0e31d17c3f0b8e80475c0171e5aa0aac,2020-02-21 15:10:39,2020-02-21 15:10:39,M,
+91,andreia oliveira santos,01552207307,MA,Imperatriz,andreialavest@hotmail.com,Empresário,49a8fa864b5ced7be09f5463d3b35247,2020-02-21 15:13:27,2020-02-21 15:13:27,F,
+92,Adriana Steinamcher,03691604951,PR,Matelândia,empreender@acima.org.br,Consultor,dd36cfa4a498c411cc35116738b96bba,2020-02-21 16:07:12,2020-02-21 16:07:12,F,
+93,Maria Angelica Teixeira Noguez,88402711049,RS,Porto Alegre,angellica@angellicanoguez.com.br,Empresário,2ba3ae45f5ceb3308a8a22e0e7334a6a,2020-02-21 16:58:50,2020-02-21 16:58:50,F,
+94,ISABEL CRISTINA DE CAMPOS,13723853803,SP,Mogi das Cruzes,cris.campos.c@gmail.com,Consultor,4c056542c67278cdf1bf341ede090400,2020-02-21 17:33:33,2020-02-21 17:33:33,F,
+95,Jorge augusto dipp 12/11/1959 12.791.682-9,20552173134,SP,São Paulo,jorge.dipp@hotmail.com,Consultor,906594c8932036d7159f2f2174d0ba42,2020-02-21 17:37:08,2020-02-21 17:37:08,M,
+96,Rosangela Sonda,50300903987,PR,Matelândia,rosangela@settisonda.com.br,Empresário,ee16fa83c0f151ef85e617f5aa3867a6,2020-02-21 18:04:51,2020-02-21 18:04:51,F,
+97,Magnólia Gomes Rolim,45974870344,MA,São Luís,magnolia.rolim@gmail.com,Empresário,56dc0eb744fd3041402924098db64394,2020-02-21 18:28:14,2020-02-21 18:28:14,F,
+98,Karen kristina Lemos de Sousa,01277792216,PA,Ananindeua,karen_kristina_lemos@hotmail.com,Outro,1a05a44e720ac208f72c5d995602e2a4,2020-02-21 18:49:48,2020-02-21 18:49:48,F,
+99,Pedro Celso Dal Moro,27479579004,RS,Caxias do Sul,pedro@dalmoro.ind.br,Empresário,2bed5c142c6e1a503822033e52de3f17,2020-02-21 19:10:47,2020-02-21 19:10:47,M,
+100,JUCINEIDE FERREIRA DE OLIVEIRA,00241419506,BA,Amargosa,jucy.f@hotmail.com,Consultor,3fa6e1540a9e5b94313c5907267a7331,2020-02-21 19:46:25,2020-02-21 19:46:25,F,
+101,Raquel Sampaio,04939776433,PA,Belém,raquel-loureiro@hotmail.com,Empresário,5d3f663f3ed40da937a0e5c9468fdddd,2020-02-22 08:38:49,2020-02-22 08:38:49,F,
+102,Jairo Batista dos Santos,04222936529,BA,Amargosa,jairobatistasantos02@gmail.com,Outro,a6d68c9ccee62fc62dbd4fb648d9dd8b,2020-02-22 12:59:35,2020-02-22 12:59:35,M,
+103,Nara MARIA MÜLLER,26922002091,RS,Tramandaí,naram.muller@gmail.com,Consultor,2a48eaeea6a18f6c19422df5f4407fa4,2020-02-22 17:35:52,2020-02-22 17:35:52,F,
+104,Valéria C M Fabricio,76955001949,PR,Assis Chateaubriand,reabilita@yahoo.com.br,Coordenador Estadual/Regional,f70b2c109b74e4fd37f286e28e8cecf0,2020-02-22 17:49:44,2020-02-22 17:49:44,F,
+105,Diogo Rodrigo Dorigon da Rosa,34903375811,PR,Marechal Cândido Rondon,diogo_kanoff@hotmail.com,Consultor,a674c8fa4f5462bf683b0bf1280507f6,2020-02-22 20:12:42,2020-02-22 20:12:42,M,
+106,Angela,26043378000,RS,Pelotas,restaurante_gourmet@hotmail.com,Empresário,ce211671dfb35411f5e139bb3b8e879c,2020-02-23 09:18:34,2020-02-23 09:18:34,F,
+107,MARIELA PAROLINI,87230232600,MG,Belo Horizonte,mariela@marielaparolini.com,Simpatizante,2e5603f6dc162eec2bdef323142aa1fc,2020-02-23 18:09:05,2020-02-23 18:09:05,F,
+108,Priscila Cazarre Sousa,26587047807,SP,Mogi das Cruzes,priscilacazarre@gmail.com,Empresário,85d57b9bd472514002424281e810df5c,2020-02-23 19:27:50,2020-02-23 19:27:50,F,
+109,José Atílio Tamiosso,21706166087,RS,Santiago,zecabtamiosso@gmail.com,Consultor,f9471ac10bf2d5403c2c29afdfe78309,2020-02-23 21:55:07,2020-02-23 21:55:07,M,
+110,Manuel Gomes,11526556987,MT,Cuiabá,diretor@facmat.org.br,Consultor,854810d434e0dd59c020c50b7dd60b6e,2020-02-25 19:56:14,2020-02-25 19:56:14,M,
+111,claiton derli baiggi,50221353968,PR,Cascavel,claitonbiaggi@yahoo.com.br,Empresário,e6f8ad3b5734c340ae6345657aadc118,2020-02-26 09:48:08,2020-02-26 09:48:08,M,
+112,Eraldo Luiz Pasquini,65098854920,PR,Maringá,eraldo@ideiaassessoria.com,Consultor,373293d60401c06859d326f33455a948,2020-02-26 10:21:39,2020-02-26 10:21:39,M,
+113,Rejane Martins Pires,81337426920,PR,Cascavel,rejane34@gmail.com,Empresário,ceefdab61d50e4e7dc8a8a8df73ff4e9,2020-02-26 11:54:20,2020-02-26 11:54:20,F,
+114,Cristiane Ortolan,03326157908,PR,Cascavel,cristiane@ciaturismo.com.br,Empresário,d2cca31ef78a7a173263919a4ed8a4bb,2020-02-26 13:37:26,2020-02-26 13:37:26,F,
+115,MARCIO PESSOLO,07170692813,SP,Ribeirão Preto,marcio.pessolo@facesp.com.br,Coordenador Estadual/Regional,6a4eac7fe7e754eabdf055385e4f07f2,2020-02-26 14:04:46,2020-02-26 14:04:46,M,
+116,HILDA ARNEIRO BOSCARATO FGUNDES,36804851900,PR,Janiópolis,hildaboscarato@hotmail.com,Empresário,8acbb1141b9e1f232f6a08655e784031,2020-02-26 15:14:47,2020-02-26 15:14:47,F,
+117,Vagner Fabricio,73198382904,PR,Maringá,fabricio@bricio.com.br,Empresário,db092e717eaadabe2da467335e154e66,2020-02-26 17:16:46,2020-02-26 17:16:46,M,
+118,Selma Aparecida Ferreira Hassunuma,59554967934,PR,Ibaiti,selma_hassunuma@hotmail.com,Empresário,26b46bec69aeda311af326bdb576deda,2020-02-26 18:51:56,2020-02-26 18:51:56,F,
+119,lucilene gomes ferrari,62481215087,RS,Osório,lu3520@hotmail.com,Empresário,7bd8238fe35dfacd23825d3712dbc325,2020-02-26 20:16:54,2020-02-26 20:16:54,F,
+120,Marina Muner,00411652095,RS,Caxias do Sul,mmuner@hotmail.com,Empresário,e2ef0e6724add7c66a42b3f900e456fd,2020-02-26 23:35:21,2020-02-26 23:35:21,F,
+121,Cristiane Ziliotto,00435986929,PR,Cascavel,crisziliotto@gmail.com,Empresário,d83fe11545516167446fccc95f96f9b4,2020-02-27 09:26:08,2020-02-27 09:26:08,F,
+122,Nara Regiane Reinheimer Pick,95408118053,PR,Cascavel,nararegiane@hotmail.com,Empresário,4c2d85c82ad799f55a42c25a3fae0a61,2020-02-27 09:31:31,2020-02-27 09:31:31,F,
+123,Vivian Guazzelli Lisbôa,00612919005,RS,Osório,comercial@vg.inf.br,Empresário,fcbe9fa164f54a2fe3df579f24927744,2020-02-27 10:17:03,2020-02-27 10:17:03,F,
+124,Eneida de Mello Goss,45452539972,SC,Florianópolis,eneidamgoss@gmail.com,Empresário,0cbb4f9abfc468b25c20e6a9abd586c0,2020-02-27 10:24:06,2020-02-27 10:24:06,F,
+125,Antonio Roberto Bueno de Souza,72859709991,PR,Cascavel,booenosouza@gmail.com,Empresário,7bcecaf0fc25842f265c04812885e845,2020-02-27 11:08:12,2020-02-27 11:08:12,M,
+126,Julio Cesar Trindade Ferreira,53378946920,SC,Florianópolis,julio@fortgroupseguros.com.br,Empresário,8bc6715470ab1a22a37cfb76f8dcfb65,2020-02-27 12:59:13,2020-02-27 12:59:13,M,
+127,Grace Helena Duarte Bettin,17298407104,RS,Canguçu,grace.helena@terra.com.br,Empresário,302271f0aa9aaecd5cfea15ced020ad6,2020-02-27 13:25:02,2020-02-27 13:25:02,F,
+128,Kellin Rodrigues,00044160070,RS,Osório,estecontab@gmail.com,Empresário,02ff1fa35bacc1643287baab70d1ce52,2020-02-27 15:13:15,2020-02-27 15:13:15,F,
+129,TATIANE EMANUELE DA SILVA ZIETEK,06035363601,PR,São Mateus do Sul,tatianesilvaengcivil@gmail.com,Consultor,89ad31f0dc05f8a98a39699ee07fd986,2020-02-27 15:16:55,2020-02-27 15:16:55,F,
+130,Esther Matos Sena,01515149501,BA,Seabra,esthersena@gmail.com,Consultor,004090f2c0903b2eaed3902ae1c87569,2020-02-28 11:49:55,2020-02-28 11:49:55,F,
+131,Celestino Bento de Oliveira,42062160291,AC,Rio Branco,oliveiracelestino266@gmail.com,Empresário,78520998e62bfda22681e101eaa54afe,2020-02-28 11:59:52,2020-02-28 11:59:52,M,
+132,José Mauricio Batista do Prado,66307821868,AC,Rio Branco,mauricio.b.prado@gmail.com,Empresário,4e6bab7d83ef2bf1d0b0d5e704cc79e0,2020-02-28 12:00:11,2020-02-28 12:00:11,M,
+133,clovis vanderlei consoli,65686446920,AC,Rio Branco,clovisconsoli@gmail.com,Consultor,aaa9cd84f246d7c7a1c7cbaf8f3599cf,2020-02-28 12:10:13,2020-02-28 12:10:13,M,
+134,Pedro Ferreira e Silva,53171047187,AC,Rio Branco,superintendencia@acisaac.org.br,Consultor,8e8350c457e1551bac790fccfbe645d8,2020-02-28 12:42:44,2020-02-28 12:42:44,M,
+135,Elaís,06250020918,SC,Fraiburgo,nucleos@aciaf.com.br,Consultor,bdb0be819a74b2f1e7be65feadf147fe,2020-02-28 13:52:16,2020-02-28 13:52:16,F,
+136,Danieli Staroscky,06033736907,SC,Rio do Sul,consultoria2@acirs.com.br,Consultor,e8aa4106fc47e718e4abc8eb12e65898,2020-02-28 14:19:15,2020-02-28 14:19:15,F,
+137,Ilda Cardoso Ribeiro Spiandorello,61797901087,RS,Caxias do Sul,spiandorelloilda@gmail.com,Simpatizante,792866a3a3d006c4a2f15d34f5c7b362,2020-02-28 14:33:05,2020-02-28 14:33:05,F,
+138,Rivelino Luís Hanauer,57469903020,SC,Florianópolis,sindico@mirantecond.com.br,Empresário,66a79fda46ccb4579347a26b3b6b4d7f,2020-02-28 15:04:26,2020-02-28 15:04:26,M,
+139,Ricardo da Silva sardá,01549315943,SC,São José,ricardorunnersteam@hotmail.com,Empresário,317714fe5f5eada9628cf1e6d4c092ce,2020-02-28 15:10:20,2020-02-28 15:10:20,M,
+140,Paola Costa,07139507902,SC,Florianópolis,paola.mcostaa@gmail.com,Empresário,9005888660786d587c615144a84a9d33,2020-02-28 15:13:18,2020-02-28 15:13:18,F,
+141,Renato Sá,04336805989,SC,Florianópolis,renato.affonso@gmail.com,Empresário,4a27bb3710606469e537578e4079138c,2020-02-28 15:15:20,2020-02-28 15:15:20,M,
+142,Cristiano Santos,05263812728,PR,Cascavel,csantos.consultoria@gmail.com,Consultor,ac0988b7133ee42f72fc3f2103e791fd,2020-02-28 15:39:37,2020-02-28 15:39:37,M,
+143,Daniel Saka,38678655828,SC,Florianópolis,danielsaka@gmail.com,Empresário,13c3cae746b0f8ce59db751fc3fd463d,2020-02-28 16:17:12,2020-02-28 16:17:12,M,
+144,Paula de Medeiros Winter,02233429044,RS,Osório,paula.demedeiroswinter@gmail.com,Empresário,997183b21d5c0ee45b9449d671d9c750,2020-02-28 16:22:56,2020-02-28 16:22:56,F,
+145,MARCOS DOMINGOS BORGO MOREIRA,02795298805,PR,Maringá,marcos@redeoutdoor.com.br,Empresário,f4eb83e434c4c3d0c0d19c44489fc5e1,2020-02-29 11:54:45,2020-02-29 11:54:45,M,
+146,Yonara Medeiros,00873650905,PR,Foz do Iguaçu,yomedeiros@yahoo.com.br,Técnico do Sebrae,4462aeaa990060f304cf9ad73c1ccac3,2020-03-01 16:51:03,2020-03-01 16:51:03,F,
+147,Gil Monteiro Goulart,00490559093,SC,Florianópolis,gil@facisc.org.br,Outro,e6f8ad3b5734c340ae6345657aadc118,2020-03-01 21:06:53,2020-03-01 21:06:53,M,
+148,Amanda Ferreira,39837838809,SP,Palestina,acipalestina@gmail.com,Outro,4a4c4a94dd824f3db270f2948d783c4f,2020-03-02 10:05:11,2020-03-02 10:05:11,F,
+149,MICHELI DIAS HAMDAN,82410712053,RS,Canoas,michelidh@gmail.com,Empresário,0f4c395156399119bfd5314661fd3bd2,2020-03-02 12:20:40,2020-03-02 12:20:40,F,
+151,AMANDA ALVES LA GAMBA,21818605805,SP,Ribeirão Preto,amanda_lagamba@hotmail.com,Consultor,9f0444f1174ccb5e7ef433645bcb1894,2020-03-02 16:44:54,2020-03-02 16:44:54,F,
+152,Alexandre Luis Mancini,28991019862,SP,Leme,almancini@vimansca.com.br,Dirigente de Entidade,93b02a56e3481e40a370c1794d2a933c,2020-03-02 19:54:13,2020-03-02 19:54:13,M,
+153,Vilce Mara Moreira,00424760975,SC,Jaraguá do Sul,solucoesempresariais@acijs.com.br,Consultor,dabb00727c34a05ed9339ef2e50bc8a4,2020-03-03 07:49:07,2020-03-03 07:49:07,F,
+154,DACIO MAIOCHI ROPER,05647747906,SC,Guaramirim,daciomr@gmail.com,Empresário,1eb9e3b301f49abb41691dbb3faa579e,2020-03-03 08:07:53,2020-03-03 08:07:53,M,
+155,Cintia,17589538884,SC,Jaraguá do Sul,cbuzian@hotmail.com,Empresário,5c4b51c647d3b293c83f942dd72eaf1b,2020-03-03 08:17:29,2020-03-03 08:17:29,F,
+156,NAIARA SANTOS MENDES,04825917577,BA,Seabra,naiaramendes2809@gmail.com,Outro,804f9d1b893fbca28803d2ef79db6630,2020-03-03 09:00:23,2020-03-03 09:00:23,F,
+157,Fernanda Waléria Silva Santos,09888781430,AL,Marechal Deodoro,silvaw.015@gmail.com,Consultor,0f74626d96474f31bb593c251d1637a1,2020-03-03 09:15:52,2020-03-03 09:15:52,F,
+159,everton,02154255965,SC,Jaraguá do Sul,gerencia@hotelnelo.com.br,Outro,65c1f07af9061ef1fe125743a2dbec7c,2020-03-03 10:43:17,2020-03-03 10:43:17,M,
+160,Osvaldo Antônio Mota,82496145934,SC,Chapecó,croeste@yahoo.com.br,Coordenador Estadual/Regional,ce0b43965675febe49d6a0a62b594fc7,2020-03-03 11:12:27,2020-03-03 11:12:27,M,
+162,Gabriele Oliveira,01598894137,DF,Brasília,gabriele.oliveira@cacb.org.br,Simpatizante,43ea2690278d3e1011756aa91e84df63,2020-03-03 11:51:45,2020-03-03 11:51:45,F,
+163,Têisi Colares da Silva,94892695068,RS,Canoas,teisi.mobile@gmail.com,Empresário,d93383547186ec40ce42d44325da2660,2020-03-03 13:11:50,2020-03-03 13:11:50,F,
+164,Elaine Silva de Paula,70152349049,RS,Porto Alegre,elaine.paula@federasul.com.br,Coordenador Estadual/Regional,791e663c03e28aa459a29279a8854bee,2020-03-03 13:22:15,2020-03-03 13:22:15,F,
+165,João Vitor dos Santos Lucas,05822445101,DF,Brasília,joao.lucas@cacb.org.br,Outro,240e87cf5b86db1f46b38381b968329e,2020-03-03 14:16:46,2020-03-03 14:16:46,M,
+166,Duda Torres,05339590631,MG,Belo Horizonte,duda@federaminas.com.br,Coordenador Estadual/Regional,287302f63aa7ef5a38e8af4c481fd471,2020-03-03 14:18:38,2020-03-03 14:18:38,F,
+167,WLADIMIR SOARES DE ANDRADE WANDERLEY,87963868515,BA,Jequié,wladimirsaw@gmail.com,Consultor,1d302f7c1989dd42cd403b15bb1683a0,2020-03-03 14:47:36,2020-03-03 14:47:36,M,
+168,Joao Batista Guimaraes,47051035134,GO,Pontalina,guimaraesjb10@yahoo.com.br,Consultor,4c266afd42904acff1a4901e6046f864,2020-03-03 14:50:53,2020-03-03 14:50:53,M,
+169,Simone Klunk,05787016939,SC,Iporã do Oeste,ipora@facisc.org.br,Consultor,c26d483dd7cb0179994e7ed88fe8c7d4,2020-03-03 15:12:36,2020-03-03 15:12:36,F,
+170,Giane Finger,09800331956,SC,São João do Oeste,acisjo@saojoao.sc.gov.br,Consultor,2312f2841b3ecb9c50f3141bdbd8d396,2020-03-03 15:15:49,2020-03-03 15:15:49,F,
+171,NICE FOLLMANN,03033253997,SC,Itapiranga,assemit1@assemit.com.br,Consultor,d55aeefc9353634af2ff3570d2ac647d,2020-03-03 15:47:37,2020-03-03 15:47:37,F,
+173,Joao Porto Guimaraes,00002712334,CE,Fortaleza,joaoportoguimaraes@hotmail.com,Empresário,a8fd14fbb6d10183d153341331334a1d,2020-03-03 16:23:22,2020-03-03 16:23:22,M,
+174,Sandro Teixeira de Paula,05534147989,PR,Paula Freitas,brfurgoes@gmail.com,Dirigente de Entidade,f8b897ddaeb9e8b6f7c3feac406140f5,2020-03-03 16:28:04,2020-03-03 16:28:04,M,
+175,Renata Teresa Mattia,07769186994,SC,Maravilha,remattiacoaching@gmail.com,Consultor,b51cb69612fb8eb856164cf2ef666f00,2020-03-03 16:48:44,2020-03-03 16:48:44,F,
+176,Mônica dos Santos,09223105994,SC,Palmitos,comercial@palmitos.cdl-sc.org.br,Consultor,5a89cb23159278e2860b739b8b17ccbf,2020-03-03 16:57:57,2020-03-03 16:57:57,F,
+177,CARLOS HUMBERTO DE MELO SANTOS,14016745420,AL,Maceió,humbertomelo@gmail.com,Outro,26a28386eeb29892ba195814bd2f0e14,2020-03-03 17:00:31,2020-03-03 17:00:31,M,
+178,MARIJANE REGINATTO MANTELI,07521122798,SC,Palma Sola,mantelimarijane@gmail.com,Consultor,a6d241cca42aee19293526e76ebabea5,2020-03-03 17:00:46,2020-03-03 17:00:46,F,
+179,TACIANE OESTERREICH,08258452975,SC,Cunha Porã,nucleo.cdlacisa@outlook.com,Consultor,821930680eacd08007b631c686afd962,2020-03-03 17:05:36,2020-03-03 17:05:36,F,
+180,Kaciele,04117756931,SC,Descanso,executivo@descanso.cdl-sc.org.br,Consultor,e6dc6fe09121425a06e81c4bad3d4eb0,2020-03-03 17:08:55,2020-03-03 17:08:55,F,
+181,Geisilaine,09483469902,SC,Santa Helena,geisi.dp@gmail.com,Consultor,6102fc1c3e310e2dee61649c79a83c68,2020-03-03 18:56:25,2020-03-03 18:56:25,F,
+182,Sandro Alves,03675460789,RJ,Cachoeiras de Macacu,hombri2005@hotmail.com,Consultor,54dd1d5704f717eee42b99c146b88628,2020-03-03 19:34:57,2020-03-03 19:34:57,M,
+183,Geisa Cristina Bruniera,02013197993,PR,Maringá,geisabruniera@gmail.com,Empresário,7af7c8af75fe880a3a8befb7b420d7b6,2020-03-03 20:25:53,2020-03-03 20:25:53,F,
+184,Josinete Araújo de Seixas Santos,44537255404,AL,Maceió,totafashionhair_sb@hotmail.com,Empresário,0ee8ce27be07e114eb39dd79b723439d,2020-03-04 11:36:11,2020-03-04 11:36:11,F,
+185,RENALDO ALVES RODRIGUES,91280796987,SC,Jaraguá do Sul,brunore.buffet@gmail.com,Empresário,26e5a5e0337affc3529a7a41cf24988a,2020-03-04 11:38:03,2020-03-04 11:38:03,M,
+186,simone cristina de almeida,04207601481,AL,Maceió,simonecristinarh@gmail.com,Empresário,4badaee57fed5610012a296273158f5f,2020-03-04 11:41:58,2020-03-04 11:41:58,F,
+187,Latoya Brum,02432547098,RS,Caxias do Sul,toya92.lb@gmail.com,Empresário,c19bd8c38e2593000abc34ed59fdc863,2020-03-04 13:52:06,2020-03-04 13:52:06,F,
+188,SERGIO LUIZ MATTE,52628973987,SC,Pinhalzinho,sergio@clarice.com.br,Dirigente de Entidade,c34ce181c67099303095be6cf1f237d8,2020-03-04 14:34:34,2020-03-04 14:34:34,M,
+189,Maiara Fangueiro,01678306002,RS,São Leopoldo,gerencia@acistsl.com.br,Consultor,0c93f541ef39d8ce5c01484a7e236ec8,2020-03-04 15:55:03,2020-03-04 15:55:03,F,
+190,Vera Lucia Berri Wilhelm,47118938904,SC,Jaraguá do Sul,diretoria@hotelitajara.com.br,Empresário,4ae0bae41bdb3000405182dae143e714,2020-03-04 16:40:31,2020-03-04 16:40:31,F,
+191,ODAIR,89331001991,SC,Jaraguá do Sul,abf@mecanicaabf.com.br,Empresário,f888782cbdc8c8cad62044b2150782dc,2020-03-04 16:48:21,2020-03-04 16:48:21,M,
+192,Janayne Nunes dos Reis,05633918630,MG,Uberlândia,projetos@aciub.com.br,Consultor,fc958c4cc6fc00b8041e836c17b92f30,2020-03-04 16:54:38,2020-03-04 16:54:38,F,
+193,PAULO SÉRGIO BARBOSA DE SOUSA,72850582115,TO,Paraíso do Tocantins,prevadvocacia@gmail.com,Dirigente de Entidade,25d53c754dfe645bc7307601835b4e49,2020-03-04 17:22:29,2020-03-04 17:22:29,M,
+194,Daniela,07140235902,SC,Campo Erê,acice@smo.com.br,Consultor,0f1499af3906cff81a207b39a1122192,2020-03-04 17:43:39,2020-03-04 17:43:39,F,
+195,ANDRESSA SOUZA DOS SANTOS,07749819975,SC,Dionísio Cerqueira,nucleos@ascoagrin.com.br,Consultor,870e4f6ba198311956a7e79c94e45664,2020-03-04 18:03:22,2020-03-04 18:03:22,F,
+196,Ricardo André dos Santos,03198599911,PR,Quedas do Iguaçu,ric092018@yahoo.com,Consultor,025209c7a6d83568dedf5d6257cfcac5,2020-03-04 21:01:29,2020-03-04 21:01:29,F,
+197,Angelica Rotta Castilho,71294244949,PR,Toledo,empreender@acit.org.br,Consultor,760937c4b19dbaffc310460d67fb61d4,2020-03-05 08:20:53,2020-03-05 08:20:53,F,
+198,Anderson Estrada,03667914946,PR,Maringá,empreender4@acim.com.br,Consultor,e0ddfb5cf028a90306c5ec002954ebf2,2020-03-05 09:14:29,2020-03-05 09:14:29,M,
+199,Maria Solange Ricci,65530519849,SP,Barra Bonita,sorricci@gmail.com,Consultor,fb7a0b0117185ff520edd8bf701d4dcf,2020-03-05 09:31:05,2020-03-05 09:31:05,F,
+200,Ademir Gasparetto,08597867817,SP,Santo André,superintendente@acisa.com.br,Outro,dc68bf854211c6d6a637005ea19e91c7,2020-03-05 09:55:33,2020-03-05 09:55:33,M,
+201,Marcelo Nunes da Silva,08958545895,SP,São Paulo,marcelo.nunes@facesp.com.br,Coordenador Estadual/Regional,f28a7eb3edbd3874cf62c2b0f0ba840d,2020-03-05 10:55:54,2020-03-05 10:55:54,M,
+202,Cristiane Francisconi Almeida,26807377843,SP,Socorro,cristiane@ace-socorro.com.br,Consultor,fee68ebad5d91fb9ed56edca7b881eb7,2020-03-05 11:37:01,2020-03-05 11:37:01,F,
+203,Alessandra Soares Pinto,02174404443,AL,Rio Largo,soaresecosta@bol.com.br,Dirigente de Entidade,e1d8b1def13ea731ae4879b7b9dce5f4,2020-03-05 12:37:59,2020-03-05 12:37:59,F,
+204,Eliane Aparecida da Silva Guilherme,35101712841,SP,Socorro,guilhermeeliane1@gmail.com,Empresário,dd4a65c66d03ecd54c3db76c132e5262,2020-03-05 12:53:35,2020-03-05 12:53:35,F,
+205,Maria de Lourdes de Oliveira Dal Piaz,13404180020,SC,Concórdia,lu8@concordia.psi.br,Dirigente de Entidade,be18e78b57a54184f5ca37bff048c67b,2020-03-05 13:54:54,2020-03-05 13:54:54,F,
+206,Paulo Cesar Nogueira,31372975837,SP,Ribeirão Preto,empreender@acirp.com.br,Consultor,12fd789f212cdc45869aea6336c7a5ed,2020-03-05 14:50:11,2020-03-05 14:50:11,M,
+207,ROSEMARA APARECIDA BOZER,10270714812,SP,Socorro,rosebozer@hotmail.com,Outro,7709825e7d5d2554c6e6b018fd04f038,2020-03-05 14:52:08,2020-03-05 14:52:08,F,
+208,RAFAEL DOS SANTOS BRUNELLO,31260162869,SP,Ribeirão Preto,empreender2@acirp.com.br,Consultor,593b7b9c061726da447812d0066806d0,2020-03-05 14:54:46,2020-03-05 14:54:46,M,
+209,Leni Jane Seabra Lazarini,25026496849,SP,Marília,lenijane@terra.com.br,Consultor,a0c217d6f466732a182a01eace16f8c5,2020-03-05 17:25:39,2020-03-05 17:25:39,F,
+210,Paulo Giovani Manfrini,75148994991,SC,Jaraguá do Sul,paulogmanfrini@gmail.com,Empresário,88620a1a9c4a342b5cece9eca1aae7db,2020-03-05 21:46:57,2020-03-05 21:46:57,M,
+211,Alessandra Augusta Flesch,80149685068,RS,Rolante,executiva@acisarolante.com.br,Consultor,d6521ba138a633cf1921ec4848aadc0c,2020-03-06 14:48:37,2020-03-06 14:48:37,F,
+212,Maria Letícia Machado,06636986697,MG,Carmopolis de Minas,gerencia@ascincarcdl.com.br,Dirigente de Entidade,131dc783507d47329f567bf1539fd180,2020-03-06 15:13:17,2020-03-06 15:13:17,F,
+213,Hérica,01688086412,RN,Natal,facern@facern.org.br,Outro,e52041008a55f2dfd2b7a56afaaa59aa,2020-03-06 15:49:41,2020-03-06 15:49:41,F,
+214,Maria de fatima silva,01425806430,RN,Pau dos ferros,fatimabeleza6@gmail.com,Outro,329e6581efbc90bd92a1f22c4ba2103d,2020-03-06 16:07:18,2020-03-06 16:07:18,F,
+215,Maria Margarida de Aquino Oliveira,81404573453,RN,Marcelino Vieira,guidamaria355@gmail.com,Empresário,4a360f021696cc76f3b8251db0b1dd05,2020-03-06 16:10:41,2020-03-06 16:10:41,F,
+216,evelys paiva feitosa silva,01229795405,RN,Marcelino Vieira,evelys_paiva@hotmail.com,Empresário,c9d6ba84119f0dd6993b46aa2e002a42,2020-03-06 16:13:37,2020-03-06 16:13:37,F,
+217,Ana cristina,00967155452,RN,São Francisco do Oeste,crismodasvariedades@hotmail.com,Empresário,d4917cd4cedae16417cfddb3ce292e45,2020-03-06 16:14:14,2020-03-06 16:14:14,F,
+218,Soraya Adryana Fonseca Rolla,87077574687,MG,Coronel Fabriciano,gerencia@acicelcdl.com.br,Outro,0c69ffce251818edb0bdce9b166a7ffd,2020-03-06 16:27:48,2020-03-06 16:27:48,F,
+219,Camila Galvani Bulbov,36091171844,MG,Arceburgo,camilagalvani88@gmail.com,Consultor,e10adc3949ba59abbe56e057f20f883e,2020-03-06 16:31:47,2020-03-06 16:31:47,F,
+220,Hemilly Karoline Paiva de Oliveira,08800181430,RN,Santo Antônio,hemillykaroline@hotmail.com,Consultor,4a60b18f4efa78b555bf0e3c5857a785,2020-03-06 16:34:36,2020-03-06 16:34:36,F,
+221,Cinara Costa,02347988905,SC,Jaraguá do Sul,consultor2@acijs.com.br,Consultor,caa1b7083489b60629896b7fd86ffe37,2020-03-06 16:54:11,2020-03-06 16:54:11,F,
+222,María da luz Pacheco,67143806404,RN,Currais Novos-RN,mariadaluzpacheco5@gmail.com,Outro,bc563b6509f97f72bf7551e198a09669,2020-03-06 17:00:18,2020-03-06 17:00:18,F,
+223,Maria Mikarla Silveira Queiroga,07664383412,RN,São Francisco do Oeste,mikarlasilveira@hotmail.com,Outro,b8cd4d9307193b73f571fe6096744c3e,2020-03-06 17:20:18,2020-03-06 17:20:18,F,
+224,Maria Ireuda Batista de Almeida,66448263420,RN,Pau dos ferros,ireuda.batista@hotmail.com,Outro,4c144c47ecba6f8318128703ca9e2601,2020-03-06 17:46:42,2020-03-06 17:46:42,F,
+225,Maicom michel da Silva,00788590936,SC,Jaraguá do Sul,maicomtrator@gmail.com,Empresário,32ac0d65789b77ec3e145605beacf82e,2020-03-06 17:49:34,2020-03-06 17:49:34,M,
+226,Marcos Aurelio Costa Junior,00739993690,MG,Coronel Fabriciano,cfcelida@gmail.com,Empresário,ed3f01f9f56b982a896c2f757cebefe6,2020-03-06 18:11:57,2020-03-06 18:11:57,M,
+227,Micarla Alves Mariano Souza Silva,07895663461,RN,Marcelino Vieira,alvesmicarla8@gmail.com,Empresário,e3cc7c352990379e6439e459b38cf23e,2020-03-06 18:29:09,2020-03-06 18:29:09,F,
+228,Carlos Alberto Apolinário,85344060653,MG,Patrocínio,carloszix@hotmail.com,Dirigente de Entidade,f56bb99f5cfae6e1f8ac54d019c02b44,2020-03-06 18:30:42,2020-03-06 18:30:42,M,
+229,Elder Ramos Lima,10108810607,MG,Uberlândia,elderrlima@hotmail.com,Técnico do Sebrae,41550ba0fdb21720f31cd72caf1eba11,2020-03-06 18:35:32,2020-03-06 18:35:32,M,
+230,Eduardo Torres,06763333463,RN,Pau dos ferros,du.jr10@hotmail.com,Empresário,ea5a486c712a91e48443cd802642223d,2020-03-06 19:02:51,2020-03-06 19:02:51,M,
+231,Anna Heloise,08116076400,RN,Santa Cruz,aninha_heloise@hotmail.com,Consultor,e10adc3949ba59abbe56e057f20f883e,2020-03-06 19:18:53,2020-03-06 19:18:53,F,
+232,Luíz gonzaga neto,08256414464,MG,Pau dos ferros,lulamotos@live.com,Empresário,45008d6f85a9d15ab0d5a0b78301a058,2020-03-06 19:37:16,2020-03-06 19:37:16,M,
+233,antonio lindenbergue da silva,04217156421,RN,Pau dos ferros,jloficinamecanica2@gmail.com,Empresário,1b1da426d5297b7844ee448529fb7c42,2020-03-06 19:37:45,2020-03-06 19:37:45,M,
+234,Márcia Cleide dos Santos,06999922497,AL,São Miguel dos Campos,brilhonovo21mar@gmail.com,Empresário,3ea0440b5120572ebbd1db78f57d6241,2020-03-06 20:01:01,2020-03-06 20:01:01,F,
+235,Maria Dilma Vieira Costa,81323433449,RN,São Francisco do Oeste,dilma1937@hotmail.com,Empresário,b70b89878e429ed3a2fcac3a21797f2a,2020-03-06 20:27:55,2020-03-06 20:27:55,F,
+236,Ana Luiza Bento da Costa de Oliveira Lima,06570516400,RN,Pau dos ferros,luy.ana@hotmail.com,Empresário,350a9400151bf6fa4574dd56a6200a5c,2020-03-06 20:42:29,2020-03-06 20:42:29,F,
+237,Acacia frança Rêgo leite,05528000408,RN,São Francisco do Oeste,acacia.franca@hotmail.com,Outro,831f28c2dff35144f16c0f67dbec9f52,2020-03-07 08:02:12,2020-03-07 08:02:12,F,
+238,Antônia Barreto Da silva,13578906808,RN,São Francisco do Oeste,cowartecalcados@hotmail.com,Empresário,01cfcd4f6b8770febfb40cb906715822,2020-03-07 08:42:27,2020-03-07 08:42:27,F,
+239,Maria de Fátima silva,59788283420,RN,São Francisco do Oeste,ms.fatima2009@hotmail.com,Empresário,827ccb0eea8a706c4c34a16891f84e7b,2020-03-07 09:00:53,2020-03-07 09:00:53,F,
+240,Vinícius,10969571674,MG,Patrocínio,vinicius-romao@hotmail.com,Outro,bd04c20c39eb01f7261c13d24b001b8d,2020-03-07 11:52:47,2020-03-07 11:52:47,M,
+241,Evandro Carlos Rodrigues da Silva,30882026852,RN,Marcelino Vieira,evandro.tecmotos@hotmail.com,Empresário,5c9ac4e36e0a776e51b3cf7dfc5bbba0,2020-03-07 13:27:22,2020-03-07 13:27:22,M,
+242,Cleide Regina Câmara,81237790468,RN,Apodi,regynac@hotmail.com,Consultor,b901af02a5bf29f761dc84ed04b87dd8,2020-03-07 15:31:57,2020-03-07 15:31:57,F,
+243,Patricio,02802417479,RN,Apodi,churrascariadobom1@gmail.com,Empresário,4adc6c5732bb3e7cf4dde85ca420c562,2020-03-07 15:40:42,2020-03-07 15:40:42,M,
+244,Edjanilson Morais,03824374463,RN,Apodi,edjanilsonm@hotmail.com,Empresário,57eee595ac28d9df07bb500d7a7be730,2020-03-07 15:41:09,2020-03-07 15:41:09,M,
+245,Francisco De Assis Ângelo da costa,08251571456,RN,Apodi,nuninhomotos@hotmail.com,Empresário,e5f76b3e06da6a3a9c376054049501c1,2020-03-07 15:46:35,2020-03-07 15:46:35,M,
+246,Flávio de Carvalho,96847182415,RN,Apodi,flavioapodi@hotmail.com,Empresário,e5da9f527f0655126ddf61bce71681b4,2020-03-07 15:56:48,2020-03-07 15:56:48,M,
+247,Francisco Erinaldo de Souza Aquino,04428750455,RN,Marcelino Vieira,erinaldosouza11@gmail.com,Consultor,25f9e794323b453885f5181f1b624d0b,2020-03-08 15:23:56,2020-03-08 15:23:56,M,
+248,Caline Maria Tavares,72264268468,RN,Assú,calinetavares@gmail.com,Consultor,274ed00eaec4744291eeaaf2aa370f4e,2020-03-08 16:47:13,2020-03-08 16:47:13,F,
+249,Antônia Etelvina da Silva,00876126409,RN,São Francisco do Oeste,gracinhafernandes92@hotmail.com,Empresário,a6addf0d28785acb6500ed6d565c3f3f,2020-03-09 09:10:12,2020-03-09 09:10:12,F,
+250,Juliana Ribeiro da Silva,01791808603,MG,Passa Quatro,acipap4@gmail.com,Consultor,179575c87a8ac7a66447b8da5cdacc8f,2020-03-09 09:43:52,2020-03-09 09:43:52,F,
+251,FABIANO INOCENCIO FREIRIA,40832189839,SP,Franca,fabiano.freiria@acifranca.com.br,Consultor,15321210e3c13d60e0bfca14754cf108,2020-03-09 10:42:38,2020-03-09 10:42:38,M,
+252,Jaider Alexandre da Silva,25136377801,SP,Franca,jaider@acifranca.com.br,Outro,33d3bbb94cafd8af31690a02e2481cf4,2020-03-09 10:42:42,2020-03-09 10:42:42,M,
+253,darci antonio da silva,77578350110,MS,Iguatemi,atacksistem@hotmail.com,Dirigente de Entidade,3391b2dd2a8692228d3d2388f0a6d11e,2020-03-09 14:10:51,2020-03-09 14:10:51,M,
+254,Maria Pinheiro da Conceição,06347872412,RN,São Francisco do Oeste,pinheirosoneide9@gmail.com,Empresário,25f9e794323b453885f5181f1b624d0b,2020-03-09 14:21:25,2020-03-09 14:21:25,F,
+255,Alessandra,14943839851,SP,Santo André,alessandra.certificado@acisa.com.br,Outro,e19716a4413ef3096efac853c95b73b6,2020-03-09 14:34:20,2020-03-09 14:34:20,F,
+256,MARIA ELIZABETE DOS SANTOS,03315982481,AL,São Miguel dos Campos,mariaelizabete20155@outlook.com,Empresário,a85248037699045aded990ddc470de32,2020-03-09 20:16:58,2020-03-09 20:16:58,F,
+257,Pauline Reis,07707997441,AL,Maceió,paulinemreis@gmail.com,Técnico do Sebrae,539f99046ee60288e7e2d5877e17686a,2020-03-09 22:16:22,2020-03-09 22:16:22,F,
+258,Mateus Ferrari Ananias,34497263827,SP,São João da Boa Vista,mateus@acesaojoao.com.br,Outro,0c8106f0456a8d30420f8a914f2c31b5,2020-03-10 09:06:36,2020-03-10 09:06:36,M,
+259,Camila Viana Ciancalio,38269555878,SP,São João da Boa Vista,empreender@acesaojoao.com.br,Consultor,fce7423c3662013b55921ecfac763891,2020-03-10 09:16:19,2020-03-10 09:16:19,F,
+260,DEBORA,32094265897,SP,José Bonifácio,debora.cezario@acejb.com.br,Outro,a8d6c68e720a78fc49e5edf2a850dd62,2020-03-10 09:18:37,2020-03-10 09:18:37,F,
+261,MARIA JOSÉ CROTTI BERTÁGLIQA,12770725823,SP,São Manuel,ace.saomanuel@gmail.com,Outro,2c23b276f744f7214917b35c559420df,2020-03-10 09:47:59,2020-03-10 09:47:59,F,
+262,Isauro oliveira filho,90164679804,SP,Cerquilho,isolifi@msn.com,Dirigente de Entidade,b20b46d3d28db1e19f89c9b0487c6973,2020-03-10 10:25:59,2020-03-10 10:25:59,M,
+263,Melissa Pires,28168067827,SP,Limeira,empreender@acillimeira.com.br,Outro,d5033d795d2128b251bbeadb8125fcad,2020-03-10 11:01:37,2020-03-10 11:01:37,M,
+264,ALENE DE MATOS SANTOS,83304592504,BA,Santo Antônio de Jesus,alene.mattos@gmail.com,Consultor,8265a43c0e6f9c3db78b93e2f83b2fd2,2020-03-10 12:55:01,2020-03-10 12:55:01,F,
+265,Cleide Ribeiro da Costa Araujo,96671726604,MG,Patrocínio,acip@acip.org.br,Outro,134d569e5fab0367d7b1be298bc1b8ed,2020-03-10 13:33:41,2020-03-10 13:33:41,F,
+266,Kelinice Maria de Almeida,05863955635,MG,Três Marias,adetres@acecdl3m.com.br,Consultor,7895ff0f58ada65a52d82d7f539107d1,2020-03-10 13:47:43,2020-03-10 13:47:43,F,
+267,Jonas custodio nunes,49018116653,MG,Belo Horizonte,jonascustodio@acenovalima.com.br,Consultor,6ef38e8d39e2a86b3bb069ac588d7aab,2020-03-10 13:48:27,2020-03-10 13:48:27,M,
+268,José JanuárioChaves,62654764672,MG,Bambuí,januariochaves@yahoo.com.br,Dirigente de Entidade,285f89b802bcb2651801455c86d78f2a,2020-03-10 13:49:49,2020-03-10 13:49:49,M,
+269,Bernardete Rissi,70497311020,RS,Encantado,executivo@acie.com.br,Consultor,03c52118a0db013d18c60a26b77b50ff,2020-03-10 14:18:04,2020-03-10 14:18:04,F,
+270,Ieda Teresinha Bavaresco Machado,46682406053,RS,Santa Cruz do Sul,machado.ieda@yahoo.com.br,Empresário,94c5e28ab99b966549260085bdf403f0,2020-03-10 14:30:34,2020-03-10 14:30:34,F,
+271,Ralph Juliano Cavalcanti Monteiro,06923789443,RN,Natal,ralph@rn.sebrae.com.br,Técnico do Sebrae,c6006df1682e6d8625e3303416562373,2020-03-10 14:42:56,2020-03-10 14:42:56,M,
+272,maria eugenia c leandro,20636884864,SP,Presidente Prudente,eugenia@acipp.com.br,Consultor,911524025825b8bd50816e6c9336edc4,2020-03-10 15:07:57,2020-03-10 15:07:57,F,
+273,Josiane Zoto,01378372085,RS,Flores da Cunha,camaras@centroempresarialfc.com.br,Dirigente de Entidade,12d261297c2b3b768a2e648feb2eb0a7,2020-03-10 15:12:55,2020-03-10 15:12:55,F,
+274,DEISI R. POLONIO,45412405053,RS,Esteio,acise@acise.com.br,Outro,d4211e280474e7786208a13bf83a5eab,2020-03-10 15:13:39,2020-03-10 15:13:39,F,
+275,Simone Vigolo Paviani,62437585087,RS,Flores da Cunha,simonevigolopaviani@gmail.com,Consultor,04df4d434d481c5bb723be1b6df1ee65,2020-03-10 15:32:01,2020-03-10 15:32:01,F,
+276,sandra,05182527950,RS,Encantado,winck6@hotmail.com,Empresário,3b3416309325f1ec9d6f0d6b6d0b020e,2020-03-10 15:42:59,2020-03-10 15:42:59,F,
+277,Priscila Kieling Pontin,02995132030,RS,Canoas,kielingpriscila@gmail.com,Consultor,8ff10e45085f3240633d9fa99e1bc3da,2020-03-10 15:48:21,2020-03-10 15:48:21,F,
+278,Marisete Manica,96103191068,RS,Encantado,manicamarisete062@gmail.com,Empresário,50dd7100bcbd98c41b1179143a2325a4,2020-03-10 15:56:27,2020-03-10 15:56:27,F,
+279,Josiane,98778153034,RS,Caxias do Sul,consultorgrupos2@microempa.com.br,Consultor,503f959f3b29018bd7dcc419bb4cd080,2020-03-10 15:56:38,2020-03-10 15:56:38,F,
+280,Roberta Monteiro,95858938000,RS,Passo Fundo,roberta@consolides.com.br,Consultor,d57587b0f5bbb0c3fe9d8cb16e97b0fe,2020-03-10 16:10:54,2020-03-10 16:10:54,F,
+281,Fatima Aguiar,36414468487,AL,Maceió,fatima.aguiar@al.sebrae.com.br,Técnico do Sebrae,2c172a0b6fef911b13197306eaa87959,2020-03-10 16:50:27,2020-03-10 16:50:27,F,
+282,Sinandro Debona,00675396026,RS,Encantado,clinicaabrace@gmail.com,Empresário,7f7b146dc0d443715eb91115d89a79d6,2020-03-10 17:17:32,2020-03-10 17:17:32,M,
+283,Francisco de Assis morais de Freitas,05830334402,RN,Apodi,morais.moto@gmail.com,Dirigente de Entidade,6ff696b18c488182c1cd29444f5e2077,2020-03-10 18:18:55,2020-03-10 18:18:55,M,
+284,Clayton j. Silva,05170578407,PR,Pato Branco,financeiro@acepb.com.br,Outro,eb9fc349601c69352c859c1faa287874,2020-03-10 20:07:00,2020-03-10 20:07:00,M,
+285,Maria Rita Azevedo,50900390620,MG,São Gonçalo do Sapucaí,acisgon2004@yahoo.com,Dirigente de Entidade,7a89d4072b60645827493bd1ad81fda7,2020-03-10 22:48:46,2020-03-10 22:48:46,F,
+286,Nilton Alves de Brito,02170830995,PR,Campo Largo,brituus@gmail.com,Simpatizante,e2677d25555fee2cfa334aaebb9d27a5,2020-03-11 00:18:13,2020-03-11 00:18:13,M,
+287,Edson Braga da Silva,74145207904,PR,Cascavel,esilva@pr.sebrae.com.br,Consultor,1a9f7a4b1fe7dc1bac1c8e71b755419b,2020-03-11 08:31:45,2020-03-11 08:31:45,M,
+288,Moisés Antonio Leite,00196407818,SP,Echaporã,planejamento@echapora.sp.gov.br,Dirigente de Entidade,d03a1a0788489a815f236bb19c6fd502,2020-03-11 09:21:56,2020-03-11 09:21:56,M,
+289,Nilmar,93627335953,SC,Gaspar,nilmar.consultor@gmail.com,Técnico do Sebrae,5fe4ce3bbf5b90d997852baedf3a0e56,2020-03-11 09:41:42,2020-03-11 09:41:42,M,
+290,scheila raquel mazurek,00342439928,SC,Itajaí,scheila.mazurek@gmail.com,Consultor,c33367701511b4f6020ec61ded352059,2020-03-11 12:19:03,2020-03-11 12:19:03,F,
+291,Marcio Adriano Bocchio,25164184850,MG,Uberlândia,bocchio@bocchioadvogados.com.br,Dirigente de Entidade,779abf46f865ab4826cfa70c6b9e50d4,2020-03-11 12:41:04,2020-03-11 12:41:04,M,
+292,Alessandra Costa,91736153587,CE,Fortaleza,literalconsultoria@gmail.com,Consultor,d6f169701ce019bd00b98aa2da85eb68,2020-03-11 14:02:26,2020-03-11 14:02:26,F,
+293,Letícia Coeli Simões,11347859683,MG,Bambuí,leticia_coeli@hotmail.com,Consultor,d82ece274d2858a3189ae7e5404942b2,2020-03-11 17:33:35,2020-03-11 17:33:35,F,
+294,José Antonio da Silva,10870166654,MG,Juruaia,aciju@aciju.com.br,Dirigente de Entidade,f69d9c14d759afeb66030ea3137ac64b,2020-03-12 07:20:11,2020-03-12 07:20:11,M,
+295,Andreliano Damasceno,05874982698,MG,Barroso,dluxbarroso@hotmail.com,Dirigente de Entidade,191ebb1931b72c2c64b6e4c6080d7d05,2020-03-12 07:28:17,2020-03-12 07:28:17,M,
+296,Baldonedo Arthur Napoleao filho,94673411668,MG,Barroso,juninhonapoleao@gmail.com,Empresário,bd6c1aa37adb94433b09ecadbc52c01f,2020-03-12 07:31:40,2020-03-12 07:31:40,M,
+297,Rosana A M Marques,44889950630,MG,Juruaia,rosana@ouseuse.com.br,Empresário,5f00338ff7675408011cad6373d604a6,2020-03-12 07:33:05,2020-03-12 07:33:05,F,
+298,RONILSON MARCIO PEREIRA,59992409649,MG,Itau de Minas,ronilson.lazzomari@gmail.com,Consultor,b9b99b25bf1f39cddc731f32eba29748,2020-03-12 08:03:11,2020-03-12 08:03:11,M,
+299,Heloísa Diniz Frois,74333313600,MG,Sete Lagoas,administrativo@acisel.com.br,Dirigente de Entidade,c8cf42ff3a95b7bebc6b4cc7d703796a,2020-03-12 08:10:13,2020-03-12 08:10:13,F,
+300,Katia Gonzales de Lima Gonçalves,05097859642,MG,Varginha,katiagglima@hotmail.com,Outro,bf6fdde5f52a8cfcaf6183b0336d8b09,2020-03-12 08:18:16,2020-03-12 08:18:16,F,
+301,Marilane Santos,70536201668,MG,Ipatinga,marilanesilva@yahoo.com.br,Empresário,d33a091c46111e9313dce0f456c76ce2,2020-03-12 08:21:23,2020-03-12 08:21:23,F,
+302,MARISE HELENA DE ANDRADE TEIXEIRA,08751892880,SP,Andradina,comercial-2@acandradina.com.br,Outro,b1eed77bd5340af2bc0eeeab1cc36d99,2020-03-12 08:29:15,2020-03-12 08:29:15,F,
+303,VALERIA VILACA COSTA BAX,81683960653,MG,Belo Horizonte,valeria.bax@gmail.com,Empresário,09984976637aabc3fb28096f9b535c3f,2020-03-12 08:40:59,2020-03-12 08:40:59,F,
+304,María Christina Ribeiro de Barros,44126395687,MG,Passa Quatro,mcrbarrosp4@yahoo.com.br,Empresário,04a28c3aa13699ec41a8c03d3a0525ec,2020-03-12 08:44:23,2020-03-12 08:44:23,F,
+305,Eremita Martins Sobrinha,43057462634,MG,Unaí,eremita@cafeunai.com.br,Empresário,87d5c4e0b67b1c72d3328fe65d8fb3a9,2020-03-12 08:46:02,2020-03-12 08:46:02,F,
+306,Marillia,09916889619,MG,Unaí,marillia@acecdlunai.com,Outro,7fabb65904b5d3ce3170262bb8f5e288,2020-03-12 08:52:18,2020-03-12 08:52:18,F,
+307,Marco Antônio Dias,34590897687,MG,Pouso Alegre,marco@hoteldias.com.br,Empresário,ea33b4fd0fc1ea0a40344be8a8641123,2020-03-12 08:53:32,2020-03-12 08:53:32,M,
+308,LAURA MOURA DANTAS AZEVEDO,08461999630,MG,Unaí,dinamica.unai@hotmail.com,Empresário,661924a8cc7d1ccd6783b58884088699,2020-03-12 09:01:46,2020-03-12 09:01:46,F,
+309,JULIANO CESAR SANTOS,05179951666,MG,Patrocínio,juliano.tdm@gmail.com,Empresário,3feefbae08994a0407c387d526860372,2020-03-12 09:03:17,2020-03-12 09:03:17,M,
+310,Edicleudo santos de souza,03050069597,MG,Patrocínio,cleudo.baiano@gmail.com,Empresário,629fd5ec232ca396493471a3bcc35c04,2020-03-12 09:04:30,2020-03-12 09:04:30,M,
+311,Felipe Halphen Siqueira e Silva,28001437892,MG,Passa Quatro,hostelserrafina@gmail.com,Empresário,983346d65de8c114c6c8c9019ceac78b,2020-03-12 09:06:10,2020-03-12 09:06:10,M,
+312,LUIZ CARLOS DA SILVA,88867340697,MG,Patrocínio,luiz@onnetmais.com.br,Outro,960eda8c557da4d7790956368fd5d07f,2020-03-12 09:07:27,2020-03-12 09:07:27,M,
+313,Rafael Marcato Ribeiro,03683698624,MG,Patrocínio,manfortindustria@hotmail.com,Empresário,690bb330e5e7e3e07867fafc4d32ec82,2020-03-12 09:10:06,2020-03-12 09:10:06,M,
+314,SILEM TARSIS ALVES DE SOUZA,04023888605,MG,Patrocínio,silemsouza2000@hotmail.com,Empresário,bb0df74f98767541281d656b8267b772,2020-03-12 09:13:07,2020-03-12 09:13:07,F,
+315,Cezar Reis,59352310691,MG,Patrocínio,cezar@redenhac.com.br,Empresário,7312cb7e32e817db8152148af4b39e33,2020-03-12 09:14:09,2020-03-12 09:14:09,M,
+316,Gioconda GRECA da Silva,46140590663,MG,Passa Quatro,gioconda1961@yahoo.com.br,Empresário,3f69a58b56a9f4f03e19bb9368afcb1b,2020-03-12 09:15:38,2020-03-12 09:15:38,F,
+317,Ana Paula Nunes Hooper,08989145660,MG,Patrocínio,anapaula.hooper@hotmail.com,Empresário,77fab95de2c362ba0ad0b1b27a9f058a,2020-03-12 09:18:33,2020-03-12 09:18:33,F,
+318,SAMUEL BRANDAO,07008963688,MG,Patrocínio,samuelbrandao@live.com,Empresário,45910963dbbc0e171830ab58ccebcdb4,2020-03-12 09:20:03,2020-03-12 09:20:03,M,
+319,Paulo Rubens franco da Rosa,98461370600,MG,Passa Quatro,paulinhofranco2008@yahoo.com.br,Empresário,fbc503be270062e4637e285cc14149a2,2020-03-12 09:24:03,2020-03-12 09:24:03,M,
+320,RITA GRAZIELA ALVES DE SOUZA,05408309681,MG,Patrocínio,ritaaserra@hotmail.com,Empresário,bb0df74f98767541281d656b8267b772,2020-03-12 09:37:30,2020-03-12 09:37:30,F,
+321,Maria Regina Brandao de Brito,67029167600,MG,Coronel Fabriciano,reginabbrito@hotmail.com,Empresário,75e0dac3291cbac9a8e8fe89b4cc6912,2020-03-12 09:43:26,2020-03-12 09:43:26,F,
+322,Victor Hugo Moraes Lemgruber,63459345772,MG,Passa Quatro,vhlemgruber@gmail.com,Empresário,b2ccdcecc1d43171ae6079ccaee0871c,2020-03-12 09:46:45,2020-03-12 09:46:45,M,
+323,Camila Nayara,09483939631,MG,Patrocínio,empreender@acip.org.br,Consultor,acf1d5ec66710f9ed277aa7c0bc6b6a9,2020-03-12 09:52:54,2020-03-12 09:52:54,F,
+324,Maria Auxiliadora Maciel de Oliveira Sousa,87529220810,MG,Pompéu,mauxiliadoramos@hotmail.com,Dirigente de Entidade,df9d368f1b819aad3fe2ce523726a7c9,2020-03-12 10:01:22,2020-03-12 10:01:22,F,
+325,Josiana de Souza Coutinho,91879957604,MG,Pouso Alegre,josy.coutinho.pa@hotmail.com,Outro,ed0f45a738f418090c7324cb2da56096,2020-03-12 10:19:55,2020-03-12 10:19:55,F,
+326,kenya patricia souza rosa silva,03831629633,MG,Patrocínio,trairasltda@hotmail.com,Empresário,88a609996193fa07442c3c9e0df0b7f9,2020-03-12 10:20:07,2020-03-12 10:20:07,F,
+327,flaviana mara da silva,06958628632,MG,Pouso Alegre,falecomflaviana@yahoo.com.br,Empresário,8bfa4fdad16968510925c8d0b1829929,2020-03-12 10:22:24,2020-03-12 10:22:24,F,
+328,Marco Tulio lamounier Alves,51415925615,MG,Coronel Fabriciano,marcotulio.lamounier@gmail.com,Empresário,3ea52058d5782c67312a2d95ac8a0314,2020-03-12 10:35:24,2020-03-12 10:35:24,M,
+329,Mateus Henrique da Cunha,09467178699,MG,Guimarania,mateus@mhcinformatica.com,Empresário,ff9803e40a2c1698d50b5602fad0695f,2020-03-12 10:39:31,2020-03-12 10:39:31,M,
+330,Marlene Hirsch,04472521946,SC,Mondaí,acimcdlmondai@gmail.com,Consultor,9d052476260c5648dbdda8ebd10a4735,2020-03-12 10:39:53,2020-03-12 10:39:53,F,
+331,Carlos rozimir,04434465635,MG,Pouso Alegre,solangelopes33@hotmail.com,Outro,358c811ef60b3e28bb49e910f55ff473,2020-03-12 11:15:19,2020-03-12 11:15:19,M,
+332,Mariane Rocha Franco,09175906600,MG,Pouso Alegre,marianerfranco@gmail.com,Simpatizante,0292f9ba6f4dffff4e4c4bf66328163a,2020-03-12 11:24:32,2020-03-12 11:24:32,F,
+333,silas ribeiro silva,00114814635,MG,Patrocínio,silas@silascontabilidade.com,Empresário,5802d720b2b65612d1a529bec39a99ab,2020-03-12 11:30:40,2020-03-12 11:30:40,M,
+334,Vivian Andraus Agel,24851477600,MG,Uberlândia,talentos@aciub.com.br,Outro,cec430a6ef4fa23b5fb18e366b9c4d1c,2020-03-12 11:36:38,2020-03-12 11:36:38,F,
+335,Renilma Aparecida Alves Gonçalves,02839566664,MG,Piumhi,renilmaalves@hotmail.com,Dirigente de Entidade,f8f235136f525e39e94f401424954c3a,2020-03-12 12:10:45,2020-03-12 12:10:45,F,
+336,Maria Celia Santana dos Dantos,64437850530,BA,Camacari,celiasantana_s@yahoo.com.br,Consultor,4b8f7a518c79bfbc92818a6ce480c944,2020-03-12 12:12:18,2020-03-12 12:12:18,F,
+337,Gilson Leandro Fernandes,03352061661,MG,Patrocínio,gilsonleandrofernandes@gmail.com,Empresário,5e3d8b706a30eb12fb03ed4b81007c49,2020-03-12 12:16:58,2020-03-12 12:16:58,M,
+338,JOSE DE ARIMATHEA BARCELLOS,13836516802,SP,Santo André,jjaabb@uol.com.br,Empresário,f9b172b880e8eb084d13b60829af655f,2020-03-12 12:26:26,2020-03-12 12:26:26,M,
+339,Valdirene de Cassia Silva Cardim,71370218672,MG,Pouso Alegre,artmanhapa@uol.com.br,Empresário,838e8afb1ca34354ac209f53d90c3a43,2020-03-12 12:41:30,2020-03-12 12:41:30,F,
+340,Francisca  Nunes,94913668668,MG,Pouso Alegre,contato@franciscacorretora.com.br,Outro,515ab26c135e92ed8bf3a594d67e4ade,2020-03-12 12:58:06,2020-03-12 12:58:06,F,
+341,Adilson rivelini,06165642870,MG,Patrocínio,marrucobar@outlook.com,Empresário,cd360dd2e023c91c4018eabb1fe66b7b,2020-03-12 13:26:27,2020-03-12 13:26:27,M,
+342,Herriette Cedraz,94051062520,BA,Feira de Santana,herriettec@yahoo.com.br,Coordenador Estadual/Regional,892d47997e72d8d65faa127d7dd8ed33,2020-03-12 14:16:26,2020-03-12 14:16:26,F,
+343,RODRIGO BUSANA,00467267995,SC,Florianópolis,rodrigo@facisc.org.br,Dirigente de Entidade,e10adc3949ba59abbe56e057f20f883e,2020-03-12 14:49:38,2020-03-12 14:49:38,M,
+344,FERNANDO PEREIRA MIRANDA,90012259187,DF,Brasília,miranfernando@gmail.com,Outro,638c5505982fa85ec7702ebea9fca94e,2020-03-12 15:14:12,2020-03-12 15:14:12,M,
+345,Camila Ornelas Iglesias Damasceno,07346130677,MG,São Gonçalo do Sapucaí,ca-luz-ornelas@hotmail.com,Simpatizante,addafd1873fe6aabc718200a9558555c,2020-03-12 15:22:15,2020-03-12 15:22:15,F,
+346,Anderson Machado de Faria,06614732609,MG,Pouso Alegre,anderson.faria@sebraemg.com.br,Técnico do Sebrae,a3a26b6a0528eca12c2bf24fe0cddc74,2020-03-12 18:24:55,2020-03-12 18:24:55,M,
+347,Lucimara de Cassia Azevedo Ferreira,77906624653,MG,São Gonçalo do Sapucaí,elisioeugenios@gmail.com,Empresário,cd39910ec54267058272ad9ca77a8195,2020-03-12 18:35:13,2020-03-12 18:35:13,F,
+348,Hilda hiroko Utumi Rizzatti,54216389015,MG,Patrocínio,bemmenos.bemmenos@gmail.com,Empresário,ee65a773f6a76a0647798471e7b8f53e,2020-03-12 18:36:45,2020-03-12 18:36:45,F,
+349,Akilan nicollas Alves Matias,10885660650,MG,Patrocínio,akilannicollas@gmail.com,Empresário,77ca9f112cc92c15130924784ec1b298,2020-03-12 18:59:03,2020-03-12 18:59:03,M,
+350,Sérgio Marcus Ribeiro Gomes,37571494672,MG,Passa Quatro,sergiomarcusrgomes@hotmail.com,Empresário,4cba4ccdd6198d243ffb4bc4d43984d3,2020-03-12 19:47:35,2020-03-12 19:47:35,M,
+351,Nicolle Abolafio Rosa Alves,08840293604,MG,Pouso Alegre,nicolle.pratica@gmail.com,Empresário,f89e1065d77ad401116a2c98ac805305,2020-03-12 20:12:04,2020-03-12 20:12:04,F,
+352,Alex Fonseca,05126471600,MG,Pouso Alegre,alex82fonseca@gmail.com,Empresário,392581a954134246067a2b53bd13f241,2020-03-12 20:21:20,2020-03-12 20:21:20,M,
+353,Patrícia de Paula Inácio,03991203600,MG,Pouso Alegre,pattydepaula9@gmail.com,Empresário,7a575d6b14dc2ae9f20d2feffe3a89b9,2020-03-12 21:02:07,2020-03-12 21:02:07,F,
+354,ANDERSON MOTTA,57140693668,MG,Pouso Alegre,andermotta@uol.com.br,Empresário,1ee0c326021514fb8b73715d3cf90dfa,2020-03-12 21:10:29,2020-03-12 21:10:29,M,
+355,Ana Paula Barcellos,27893220821,MG,Carmopolis de Minas,anapaulabarcellossanches@hotmail.com,Consultor,66caa69d83d0764b0cc6149e63ec3bc0,2020-03-12 21:15:10,2020-03-12 21:15:10,F,
+356,Ana Lúcia Pereira,09338003639,MG,Pouso Alegre,annalupereira2015@gmail.com,Empresário,b6a4da7c42d8767ae7c433a314d615e2,2020-03-12 21:22:45,2020-03-12 21:22:45,F,
+357,Luana Magda Alves Guedes Tosta,10051096641,MG,Pouso Alegre,lua-mag@hotmail.com,Empresário,f38796aac0b284fc165143720577b492,2020-03-12 21:23:28,2020-03-12 21:23:28,F,
+358,Jose Aparecido Ferraz,03807374698,MG,Pouso Alegre,zmpa.jose@gmail.com,Empresário,45e8880fa38cab588a237123db012b25,2020-03-12 22:35:12,2020-03-12 22:35:12,M,
+359,Edmundo de Almeida Mota,13539197818,MG,Pouso Alegre,contato.destak@yahoo.com.bt,Empresário,d7deb419b8f9942aee523a1acf2b4899,2020-03-12 23:27:53,2020-03-12 23:27:53,M,
+360,Marciany Rabelo,04009080698,MG,São Gonçalo do Sapucaí,attitude.modas@yahoo.com.br,Empresário,9ea9c1aed8d016af1885938f38e643f9,2020-03-13 03:17:05,2020-03-13 03:17:05,F,
+361,Elida Candido,02981434616,MG,Coronel Fabriciano,cfcelida@yahoo.com.br,Empresário,ea3bba7e2b0217c95813129aec385bb0,2020-03-13 06:32:20,2020-03-13 06:32:20,F,
+362,Maria Rosa de Fátima Sales Fonseca,24218154600,MG,Ipatinga,fatimasallesf@gmail.com,Empresário,03c800dae55f756baf0c033e9944a9aa,2020-03-13 07:05:16,2020-03-13 07:05:16,F,
+363,Vinícius Graciano Romualdo,10133888606,MG,Pouso Alegre,viniciussaude@yahoo.com.br,Empresário,c5cdaae46c6589a689515ce0f52483b4,2020-03-13 07:34:42,2020-03-13 07:34:42,M,
+364,Nayara Cristina da Silva,10092599621,MG,Pouso Alegre,naysilvacris24@gmail.com,Empresário,7d31843d45722729b57265ae03aecb22,2020-03-13 08:58:42,2020-03-13 08:58:42,F,
+365,Cândido Aparecido Santos,00686694619,MG,Diamantina,casdtna@hotmail.com,Empresário,ad879f69f086f41e2eea699f8f428604,2020-03-13 09:01:43,2020-03-13 09:01:43,M,
+366,Daniela Marques de Oliveira Abdala,13088265830,SP,Sorocaba,danielamoa@sebraesp.com.br,Consultor,76c4a038afee497f6b3a3c31e896b169,2020-03-13 10:19:34,2020-03-13 10:19:34,F,
+367,Marcia Regina Barbosa Rodrigues,02469092698,MG,Pouso Alegre,marciareginarb@hotmail.com,Empresário,4a8423d5e91fda00bb7e46540e2b0cf1,2020-03-13 10:25:05,2020-03-13 10:25:05,F,
+368,Valmir Rodrigues da Silva,01104120607,MG,Alfenas,valmir@q21.com.br,Dirigente de Entidade,4a8c79ddddd6109289084e80aa41cdf2,2020-03-13 11:04:45,2020-03-13 11:04:45,M,
+369,Luana Cordeiro,01431316644,MG,Belo Horizonte,lojaversatilbh@gmail.com,Empresário,9af49de582870af5e7027eab49005c19,2020-03-13 11:13:13,2020-03-13 11:13:13,F,
+370,Izabel Cristina Pieroni Nunes,46188088615,MG,Bambuí,izabcrist@gmail.com,Empresário,50e40d2122a45a8ee21b0b6ec6dfa99c,2020-03-13 11:17:43,2020-03-13 11:17:43,F,
+371,Loja Multipreços,83803327687,MG,Bambuí,alexandra.tavaresteles@gmail.com,Empresário,1601678e15c310822acffe479d13680d,2020-03-13 11:19:50,2020-03-13 11:19:50,F,
+372,Andresa Joviana de Freitas,08349966696,MG,São Gonçalo do Rio abaixo,morenachic@hotmail.com.br,Empresário,f86669d80f5b46b2cfa9d2ec6e446411,2020-03-13 11:21:31,2020-03-13 11:21:31,F,
+373,Lupércio Alaor Moreira,04809101622,MG,Bambuí,lupercioalaor@gmail.com,Empresário,04bd78235d34300dcc101994cea2957f,2020-03-13 11:22:35,2020-03-13 11:22:35,M,
+374,Lidia Martins Santos Gandra,03694878696,MG,Capelinha,lidiagandr@hotmail.com,Empresário,3281d64d71abcf40e862001e6a5e7c58,2020-03-13 11:25:22,2020-03-13 11:25:22,F,
+375,CARLOS AUGUSTO LOPES PINTO COELHO,03859662619,MG,São Gonçalo do Rio abaixo,carlospintocoelho@hotmail.com,Dirigente de Entidade,6cb8587aef1b069f4697632fb62c48a8,2020-03-13 11:28:38,2020-03-13 11:28:38,M,
+376,Eliza Soares Pereira,36314854687,MG,Capitólio,elizaprofa3@yahoo.com.br,Empresário,684dfe09908aa433e0b317d7b2b97a1c,2020-03-13 11:32:06,2020-03-13 11:32:06,F,
+377,Manoel Ignácio Mendes Costa,93518838687,MG,Belo Horizonte,mimcmendes@hotmail.com,Empresário,31477fbb4de236363e964e3d5b9a36ec,2020-03-13 11:38:39,2020-03-13 11:38:39,M,
+378,Pedro,65845195039,MG,Belo Horizonte,pedrobhz@gmail.com,Simpatizante,d4233a280cd8d32abd97708883ffd3b2,2020-03-13 11:41:01,2020-03-13 11:41:01,M,
+379,ALINE NAIARA FONSECA,08675748604,MG,Santa Bárbara,alinefonsecaarq@gmail.com,Empresário,7247610351fefb79b38024ccf4f3f138,2020-03-13 11:43:29,2020-03-13 11:43:29,F,
+380,Juan Lopes,41990362885,MG,Patrocínio,juan_twoli@yahoo.com.br,Empresário,6718c81dc0a9ef6aadd669bdc1651771,2020-03-13 11:46:10,2020-03-13 11:46:10,M,
+381,Francisco Farias da Silva,04035595616,MG,Patrocínio,thieskao@hotmail.com,Empresário,c5ac6a9632dbfe8e15f226a7a60ea1ec,2020-03-13 11:47:12,2020-03-13 11:47:12,M,
+382,César Augusthus Ferreira Marques,06265671650,MG,Patrocínio,falecom@augusthus.com.br,Empresário,6d65ffa058fb152bb970a131f90bc633,2020-03-13 11:58:12,2020-03-13 11:58:12,M,
+383,Algarro modas,95581197687,MG,Bambuí,rosilene.lasmar@gmail.com,Empresário,14395f8d077d1aee0437a95501e9da79,2020-03-13 12:05:18,2020-03-13 12:05:18,M,
+384,Abdallas de Paula Ortiz,10303573660,MG,Juruaia,abdallaspu@hotmail.com,Empresário,ca36ecda0c421ead6446c206002420ff,2020-03-13 12:15:00,2020-03-13 12:15:00,M,
+385,Patricia Camila Gonçalves,04450863607,MG,Patrocínio,patricia-camila@bol.com.br,Empresário,241dae0cb6870019038f31009bb16f86,2020-03-13 12:18:06,2020-03-13 12:18:06,F,
+386,Tatiana Torres de Carvalho Vargas,06517932623,MG,Bambuí,tatitorrescarvalho@gmail.com,Empresário,a3efdaa03d27e86a9badb47474aaf301,2020-03-13 12:20:20,2020-03-13 12:20:20,F,
+387,Cleiber Henrique Batista,07187897685,MG,Patrocínio,kleyber360@gmail.com,Empresário,109c11ff14beeaf99779ddf14704df27,2020-03-13 12:23:25,2020-03-13 12:23:25,M,
+388,Willer de Carvalho Arantes,08927828623,MG,São Gonçalo do Sapucaí,willerarantes@hotmail.com,Empresário,8b6950b80a0967f53ff2f9c766760956,2020-03-13 12:28:40,2020-03-13 12:28:40,M,
+389,Poliana Aparecida Marques,07170810603,MG,Patrocínio,polianamarquesptc@gmail.com,Outro,bbd93c2257f5314ea96e4a80e54600c5,2020-03-13 12:43:44,2020-03-13 12:43:44,F,
+390,Gislene Lasmar Silveira Marques,55772196634,MG,Bambuí,calcadoslasmar@hotmail.com,Empresário,28dc6b0e1b33769b4b94685e4f4d1e5c,2020-03-13 12:55:23,2020-03-13 12:55:23,F,
+391,Maria Helena Chaves,39014690606,MG,Bambuí,mh534967@gmail.com,Empresário,b59708406a3ac3b7b0919f4408336f36,2020-03-13 12:55:57,2020-03-13 12:55:57,F,
+392,Stephanyepower Galgane de Assis Sampaio,01674143648,MG,Capitólio,stephanye-p@outlook.com,Consultor,320ded3804bf705aeab02b69bd896c87,2020-03-13 13:18:32,2020-03-13 13:18:32,M,
+393,Juliana,33043097807,MG,Bambuí,juligeromel@hotmail.com,Empresário,103e8602efe9ea75e2c10a847ef42f02,2020-03-13 13:31:00,2020-03-13 13:31:00,F,
+394,sandra regina paniago miranda,30534240291,MG,Bambuí,s.paniago@yahoo.com.br,Empresário,958c6086d7fff979a6cd876608360d3f,2020-03-13 13:37:44,2020-03-13 13:37:44,F,
+395,Cassia F S Ribeiro,04344999606,MG,Juruaia,cassiafsribeiro@gmail.com,Empresário,1f04e25d0d84526c7c364b7396aa88b9,2020-03-13 13:39:34,2020-03-13 13:39:34,F,
+396,Denise Coronado,84790814653,MG,Divinópolis,denise@portalacid.com.br,Outro,2fbc9518d93e331eec1623b1e5919e97,2020-03-13 13:49:36,2020-03-13 13:49:36,F,
+397,ANA MARIA DELGADO DE SOUZA MASCARO,00743383826,SP,Santo André,anamaria_mascaro@hotmail.com,Empresário,980c4a25da64fbb0ca2cf6e6e4bbbe84,2020-03-13 13:53:18,2020-03-13 13:53:18,F,
+398,Nelson Barbosa Junior,00521146941,PR,Maringá,junior@ingaville.com.br,Empresário,d0c41c805eb241f9fc7a2bce53300166,2020-03-13 14:08:37,2020-03-13 14:08:37,M,
+399,Tarciane Jiulkowski,08174391967,SC,São Miguel do Oeste,tarcianelm@gmail.com,Consultor,cdcfe1fe7505e11bb11cdfe9713a09c8,2020-03-13 14:29:03,2020-03-13 14:29:03,F,
+400,Diony Hercules Caixeta,74460692600,MG,Patrocínio,dionycaixeta@grupo-regional.com,Outro,ebe4d1cd81c5f0b239a777a9a3260be7,2020-03-13 14:31:36,2020-03-13 14:31:36,M,
+401,Sandra Ferraz,85414107653,MG,Bambuí,sandraferrazsoares@gmail.com,Empresário,486ad77074d489e79b4974dbf55c54a0,2020-03-13 15:07:25,2020-03-13 15:07:25,F,
+402,Helena Cristina Novaes Bastos,67575358668,MG,Nova Lima,helenacnbastos@gmail.com,Empresário,3e24fbf89fed1d3b3d3851dbfc083300,2020-03-13 15:31:31,2020-03-13 15:31:31,F,
+403,Maria Aparecida da Costa,49640780600,MG,São Roque de Minas,madacony@hotmail.com,Dirigente de Entidade,96cd002c233cf57c1227ec83e1035ba6,2020-03-13 15:32:35,2020-03-13 15:32:35,F,
+404,neusa maria magalhaes reis de figueiredo,13138766668,MG,Bambuí,neusamfigueiredo@hotmail.com,Empresário,eb0a73bce578567a215b9254ae315500,2020-03-13 15:40:20,2020-03-13 15:40:20,F,
+405,Jéssica da Silva,09315466640,MG,Juruaia,jessjuruaia@hotmail.com,Empresário,d426fd4252d36357adaff79ce79595b2,2020-03-13 15:42:38,2020-03-13 15:42:38,F,
+406,Gerson Miotto,48696943953,PR,Pato Branco,gersonmiotto@hotmail.com,Consultor,e7510c2ba4fdddf9112c2a8faa2165ad,2020-03-13 15:50:49,2020-03-13 15:50:49,M,
+407,Tânia Maria Carvalho,54329515687,MG,Bambuí,taniamaria.carvalho@hotmail.com,Empresário,53f0d7c537d99b3824f0f99d62ea2428,2020-03-13 17:25:07,2020-03-13 17:25:07,F,
+408,celiomar camargos,02697965688,MG,Bambuí,destacmodas@yahoo.com.br,Empresário,e5fd3fdb47fcb5767e0825a09e3e0b6e,2020-03-13 17:33:46,2020-03-13 17:33:46,F,
+409,Kelly Cristina Torres Mendes Campelo,80257062300,PI,Teresina,kelly.cristina@pi.sebrae.com.br,Técnico do Sebrae,d61a03b23777f517e234b77698e87105,2020-03-13 17:34:48,2020-03-13 17:34:48,F,
+410,Maria Cafisso,41309790949,PR,Maringá,macafisso@hotmail.com,Empresário,99371008e78acd01ebe564001c28c7cd,2020-03-13 20:01:29,2020-03-13 20:01:29,F,
+411,Jose Tadeu Pereira de Carvalho,58677070672,MG,Pouso Alegre,jtpcarvalho@yahoo.com.br,Empresário,6f8c5196e05b3b6353768e1fb6677d2b,2020-03-13 21:26:36,2020-03-13 21:26:36,M,
+412,Aline Kely Souza Fernandes,10518120627,MG,Belo Oriente,alinekf19@hotmail.com,Dirigente de Entidade,bb2296ea6bd1fc3c06c1538490f45151,2020-03-13 21:41:13,2020-03-13 21:41:13,F,
+413,Ana Paula Möller,70636249034,RS,Cachoeirinha,apfmoller@gmail.com,Empresário,3766fe23a027a8d593f98a85f29f1672,2020-03-13 21:48:22,2020-03-13 21:48:22,F,
+414,Maria Helena da Costa,57443696604,MG,Belo Oriente,helenahomeopatia@gmail.com,Empresário,6d71070d9476ffc1534c28245e18e134,2020-03-13 22:12:25,2020-03-13 22:12:25,F,
+415,Rafael Costa Bowen,10349702675,MG,Belo Oriente,rafael.bowen@ymail.com,Empresário,3946536f3ee5f853c1d6cd174e2b7468,2020-03-13 22:12:50,2020-03-13 22:12:50,M,
+416,Edison da Conceição,98425404720,MG,Belo Oriente,edison.nit@hotmail.com,Empresário,324468185e7ecaaaf7c020846785b8a3,2020-03-13 22:14:20,2020-03-13 22:14:20,M,
+417,Maria Izabel Pinto,78220300604,MG,Belo Oriente,lj.sonhomeumodas@hotmail.com,Empresário,324468185e7ecaaaf7c020846785b8a3,2020-03-13 22:58:14,2020-03-13 22:58:14,F,
+422,Rosangela da Silva Borges,01001713540,BA,Amargosa,ro.sinha.borges@hotmail.com,Dirigente de Entidade,949651cd95087886339b234bd7db4dc8,2020-03-14 13:45:57,2020-03-14 13:45:57,F,
+423,VANDA DOS SANTOS rocha,76940446591,BA,Amargosa,vanda_rch@hotmail.com,Empresário,b0eaae29b11784223530e517f842a155,2020-03-14 15:27:56,2020-03-14 15:27:56,F,
+424,Elenita Márcia Couto Pessoa,37806734600,MG,Nova Lima,elenitamarcia@oi.com.br,Empresário,d95fb6f4dcff41e9c5de58669b494048,2020-03-15 09:29:11,2020-03-15 09:29:11,F,
+425,Michela Martins Uliana Farina,28659161890,SP,Jundiai,michelamuf@gmail.com,Empresário,19895d0c0214831b0874f7de8ffe64fa,2020-03-16 07:54:45,2020-03-16 07:54:45,F,
+458,PzNy4AsSS0,74580867229,DF,Brasília,,empresario,,2020-04-14 15:35:48,2020-04-14 15:35:48,,
+459,vacmM5gAjj,41580491759,DF,Brasília,,empresario,,2020-04-14 15:54:23,2020-04-14 15:54:23,,
+460,gjRXav7D8s,80154897086,DF,Brasília,,empresario,,2020-04-14 16:39:50,2020-04-14 16:39:50,,
+461,EjAtOyd3x2,66843287283,Île-de-France,Paris,,,,2020-04-15 02:21:25,2020-04-15 02:21:25,,
+462,P5edqStGAC,11928446129,Virginia,Ashburn,,,,2020-04-15 08:44:53,2020-04-15 08:44:53,,
+463,Opga3Xcmhi,51552044157,Virginia,Ashburn,,,,2020-04-15 08:44:55,2020-04-15 08:44:55,,
+464,k3QNQKndQC,86205814275,Virginia,Ashburn,,,,2020-04-15 08:44:56,2020-04-15 08:44:56,,
+465,4R43AzIf7R,74603399629,Virginia,Ashburn,,,,2020-04-15 08:44:58,2020-04-15 08:44:58,,
+466,Rf9EeT1hoA,13674043053,Virginia,Ashburn,,,,2020-04-15 08:45:00,2020-04-15 08:45:00,,
+467,GH2KaReZ0F,20994315575,Virginia,Ashburn,,,,2020-04-15 08:45:01,2020-04-15 08:45:01,,
+468,H9rraq9Kqg,48822477264,Virginia,Ashburn,,,,2020-04-15 08:45:02,2020-04-15 08:45:02,,
+469,3M1cMCynFW,13107615620,DF,Brasília,,empresario,,2020-04-15 09:34:23,2020-04-15 09:34:23,,189.6.33.52
+470,BLmeHhsMMZ,35105300024,DF,Brasília,,dirigente,,2020-04-15 09:42:04,2020-04-15 09:42:04,,189.6.33.52
+471,pQWZQjNtZi,95612223935,DF,Brasília,,dirigente,,2020-04-15 10:07:53,2020-04-15 10:07:53,,177.235.30.157
+472,FqquYl0pbf,11390461050,Washington,Quincy,,,,2020-04-15 19:17:53,2020-04-15 19:17:53,,207.46.13.234
+473,eGw5USY2ww,50244022184,Washington,Quincy,,,,2020-04-15 19:17:54,2020-04-15 19:17:54,,207.46.13.234
+474,05YlUk2exr,14003035728,Virginia,Ashburn,,,,2020-04-15 19:19:39,2020-04-15 19:19:39,,46.229.168.129
+475,VgYcO67DfI,26551605723,Virginia,Ashburn,,,,2020-04-15 19:19:40,2020-04-15 19:19:40,,46.229.168.152
+476,kCN6D0Tfyg,93503234963,Virginia,Ashburn,,,,2020-04-15 19:19:42,2020-04-15 19:19:42,,46.229.168.139
+477,ZziZCEixNT,73157244687,Virginia,Ashburn,,,,2020-04-15 19:19:43,2020-04-15 19:19:43,,46.229.168.131
+478,mBuHl20IdM,24578286572,Virginia,Ashburn,,,,2020-04-15 19:19:44,2020-04-15 19:19:44,,46.229.168.134
+479,4IB6R2Qj2t,83641035975,Virginia,Ashburn,,,,2020-04-15 19:19:46,2020-04-15 19:19:46,,46.229.168.131
+480,KCK5jsJ8Y3,95979461893,Virginia,Ashburn,,,,2020-04-15 19:19:47,2020-04-15 19:19:47,,46.229.168.152
+481,cbt2EnJtVR,33348827161,DF,Brasília,,dirigente,,2020-04-16 05:53:14,2020-04-16 05:53:14,,177.235.30.157
+482,sNvA0X7JCg,29365045963,Île-de-France,Paris,,,,2020-04-16 08:16:03,2020-04-16 08:16:03,,54.36.150.92
+483,fHFy9B24Ik,70136840045,DF,Brasília,,empresario,,2020-04-16 08:39:40,2020-04-16 08:39:40,,177.235.30.157
+484,IzCdf0nHav,33443401139,Île-de-France,Paris,,,,2020-04-16 12:56:50,2020-04-16 12:56:50,,54.36.150.84
+485,xn5aQyeeaH,79965601945,DF,Brasília,,empresario,,2020-04-16 18:24:22,2020-04-16 18:24:22,,45.224.199.41
+486,5TctwSDCAo,69475714876,California,Mountain View,,,,2020-04-16 20:25:24,2020-04-16 20:25:24,,66.249.75.102
+487,A6Tn3rYPiy,31548458943,California,Mountain View,,,,2020-04-16 20:25:25,2020-04-16 20:25:25,,66.249.75.104
+488,rvJ0od7cyd,16361216376,MG,Bambuí,,,,2020-04-16 22:00:17,2020-04-16 22:00:17,,177.37.110.92
+489,3rsBoM5lD3,10444984678,California,Mountain View,,,,2020-04-17 04:24:37,2020-04-17 04:24:37,,66.249.75.104
+490,F2h6x1sWTU,61102813156,California,Mountain View,,,,2020-04-17 05:24:37,2020-04-17 05:24:37,,66.249.75.104
+491,vwGCJDeP7O,84314589244,California,Mountain View,,,,2020-04-17 13:24:48,2020-04-17 13:24:48,,66.249.75.100
+492,NIPnzpc6GK,96616620183,Berlin,Berlin,,,,2020-04-17 20:35:54,2020-04-17 20:35:54,,94.130.237.168
+493,JfBjW9dv9U,61159579805,California,Mountain View,,,,2020-04-17 22:24:51,2020-04-17 22:24:51,,66.249.66.68
+494,w44tf3IciK,26364903189,Washington,Quincy,,,,2020-04-19 03:19:50,2020-04-19 03:19:50,,207.46.13.247
+495,3zVHCSODIQ,27994265495,Washington,Quincy,,,,2020-04-19 03:19:51,2020-04-19 03:19:51,,207.46.13.247
+496,jCg7YPpFyM,96974625601,DF,Brasília,,,,2020-04-19 12:43:50,2020-04-19 12:43:50,,177.73.70.140
+497,ipssfoj1Nl,89468546654,Île-de-France,Paris,,,,2020-04-20 08:00:04,2020-04-20 08:00:04,,54.36.150.183
+498,H5MXPOkwnL,77187056406,DF,Brasília,,empresario,,2020-04-20 10:02:29,2020-04-20 10:02:29,,189.6.17.179
+499,5Ex5sHmcSH,93896353053,Île-de-France,Paris,,,,2020-04-21 00:51:34,2020-04-21 00:51:34,,54.36.150.88
+500,rBLbRCsQO4,40957464519,MG,Passa Quatro,,,,2020-04-21 07:06:39,2020-04-21 07:06:39,,179.109.2.10
+501,gCy1QtRaca,94005911359,PR,Dois Vizinhos,,dirigente,,2020-04-21 13:27:49,2020-04-21 13:27:49,,190.124.191.92
+502,lilXlSxgcz,40530764544,Virginia,Ashburn,,,,2020-04-21 13:30:32,2020-04-21 13:30:32,,46.229.168.152
+503,TVBycU0WX1,49236095435,Virginia,Ashburn,,,,2020-04-21 13:30:34,2020-04-21 13:30:34,,46.229.168.149
+504,fBM3KMqBER,29055524785,Virginia,Ashburn,,,,2020-04-21 13:30:35,2020-04-21 13:30:35,,46.229.168.146
+505,IHanW3NjFB,80881576533,Virginia,Ashburn,,,,2020-04-21 13:30:36,2020-04-21 13:30:36,,46.229.168.162
+506,9JAhQeSYgZ,33303846600,Virginia,Ashburn,,,,2020-04-21 13:30:37,2020-04-21 13:30:37,,46.229.168.153
+507,W8ykCVBiKI,86619222313,Virginia,Ashburn,,,,2020-04-21 13:30:38,2020-04-21 13:30:38,,46.229.168.162
+508,prq9sHrcna,51880603195,Virginia,Ashburn,,,,2020-04-21 13:30:40,2020-04-21 13:30:40,,46.229.168.145
+509,p2beIs5ePs,67627147026,RJ,Cachoeiras de Macacu,,dirigente,,2020-04-21 14:15:56,2020-04-21 14:15:56,,138.99.9.81
+510,llRva5vTG8,31129572996,PR,Cascavel,,empresario,,2020-04-21 14:34:20,2020-04-21 14:34:20,,45.176.214.154
+511,0ItehiJkKp,59093068432,PR,Cascavel,,empresario,,2020-04-21 14:41:38,2020-04-21 14:41:38,,45.176.214.154
+512,tNV2nAdlWe,96707812775,PR,Cascavel,,empresario,,2020-04-21 14:42:09,2020-04-21 14:42:09,,45.176.214.154
+513,YwfpV17pR3,56680709384,BA,Jequié,,empresario,,2020-04-21 14:50:04,2020-04-21 14:50:04,,187.109.212.223
+514,R0KX4uEJh8,97611472420,PR,Cascavel,,dirigente,,2020-04-21 14:51:40,2020-04-21 14:51:40,,45.176.214.154
+515,Gx7lLVWR27,61916153938,PR,Palotina,,dirigente,,2020-04-21 15:49:05,2020-04-21 15:49:05,,177.39.211.29
+516,RwGZ4M2l70,29698859322,MG,Belo Horizonte,,empresario,,2020-04-21 16:39:21,2020-04-21 16:39:21,,179.186.161.56
+517,VEXqUbauR9,11113603520,BA,Amargosa,,empresario,,2020-04-21 17:11:02,2020-04-21 17:11:02,,192.141.205.73
+518,fOZRWgVLXi,51993958838,PR,Ponta Grossa,,dirigente,,2020-04-21 17:20:00,2020-04-21 17:20:00,,177.40.61.53
+519,CoYMIOlb3Y,35372358732,MG,Juruaia,,empresario,,2020-04-21 17:52:57,2020-04-21 17:52:57,,177.136.231.214
+520,6yW8GmZJSR,77535205543,MG,Guaranésia,,empresario,,2020-04-21 18:07:05,2020-04-21 18:07:05,,186.233.72.183
+521,jsoAx2jl77,13447183114,MG,Ipatinga,,empresario,,2020-04-21 18:12:33,2020-04-21 18:12:33,,186.242.69.26
+522,ggkdquNp3J,76026178910,PR,Cascavel,,dirigente,,2020-04-21 18:16:59,2020-04-21 18:16:59,,179.187.133.142
+523,NuUlwRSnqI,56163649349,MG,Juruaia,,empresario,,2020-04-21 18:32:13,2020-04-21 18:32:13,,168.195.49.212
+524,nZnyzQsh5c,12821921301,SP,São Paulo,,empresario,,2020-04-21 18:41:06,2020-04-21 18:41:06,,168.195.49.212
+525,uroID7kOjb,90043104491,SP,São Paulo,,empresario,,2020-04-21 18:41:07,2020-04-21 18:41:07,,168.195.49.212
+526,MriLQx7tEL,99252291782,SP,São Paulo,,empresario,,2020-04-21 18:41:07,2020-04-21 18:41:07,,168.195.49.212
+527,HZ2ksdaRJK,25047756717,SP,São Paulo,,empresario,,2020-04-21 18:41:08,2020-04-21 18:41:08,,168.195.49.212
+528,CkN6R8BQDm,25318661043,SP,São Paulo,,empresario,,2020-04-21 18:41:08,2020-04-21 18:41:08,,168.195.49.212
+529,Gw0s2HbVov,14293617033,SP,São Paulo,,empresario,,2020-04-21 18:41:08,2020-04-21 18:41:08,,168.195.49.212
+530,5VwtX13MYG,84216191652,SP,São Paulo,,empresario,,2020-04-21 18:41:09,2020-04-21 18:41:09,,168.195.49.212
+531,ZthpltKpVP,37675549066,SP,São Paulo,,empresario,,2020-04-21 18:41:09,2020-04-21 18:41:09,,168.195.49.212
+532,NV3Iry6LRr,80131616685,SP,São Paulo,,empresario,,2020-04-21 18:41:09,2020-04-21 18:41:09,,168.195.49.212
+533,63yRbj01Sd,10835923305,SP,São Paulo,,empresario,,2020-04-21 18:41:09,2020-04-21 18:41:09,,168.195.49.212
+534,BKq82ruyQl,35004857876,SP,São Paulo,,empresario,,2020-04-21 18:41:10,2020-04-21 18:41:10,,168.195.49.212
+535,AWDwZrgzFF,72471840707,SP,São Paulo,,empresario,,2020-04-21 18:41:10,2020-04-21 18:41:10,,168.195.49.212
+536,1XBX2aFM2u,32893132423,SP,São Paulo,,empresario,,2020-04-21 18:41:11,2020-04-21 18:41:11,,168.195.49.212
+537,2yYYT8chnE,10893076485,SP,São Paulo,,empresario,,2020-04-21 18:41:11,2020-04-21 18:41:11,,168.195.49.212
+538,P74DiY0yxU,54601624906,SP,São Paulo,,empresario,,2020-04-21 18:41:11,2020-04-21 18:41:11,,168.195.49.212
+539,GPXR2XWjo6,52230717386,SP,São Paulo,,empresario,,2020-04-21 18:41:11,2020-04-21 18:41:11,,168.195.49.212
+540,hL9QfiF9sV,79821300483,SP,São Paulo,,empresario,,2020-04-21 18:41:12,2020-04-21 18:41:12,,168.195.49.212
+541,mF1tMUQc6A,88060544752,MG,Guaxupé,,dirigente,,2020-04-21 18:44:03,2020-04-21 18:44:03,,177.136.232.2
+542,9sH4tD1v4r,58750149770,SP,São Paulo,,empresario,,2020-04-21 18:48:02,2020-04-21 18:48:02,,168.195.49.212
+543,CPP7uyoCxk,34631620068,MG,Juruaia,,empresario,,2020-04-21 19:18:40,2020-04-21 19:18:40,,168.194.93.68
+544,uKbGVFx4GE,67216630703,RO,Vilhena,,dirigente,,2020-04-21 19:31:44,2020-04-21 19:31:44,,177.93.65.193
+545,9ZkFo1wcAk,18079940709,PR,Bandeirantes,,dirigente,,2020-04-21 19:47:11,2020-04-21 19:47:11,,177.201.222.193
+546,sT1YYOaxGC,23668854814,RO,Cerejeiras,,empresario,,2020-04-21 19:52:00,2020-04-21 19:52:00,,177.93.65.193
+547,tYQwGa2Zen,36364771332,PR,Dois Vizinhos,,,,2020-04-21 21:27:04,2020-04-21 21:27:04,,190.124.191.92
+548,LVbUwCVaZk,63551727612,PR,Ponta Grossa,,dirigente,,2020-04-21 21:54:47,2020-04-21 21:54:47,,179.216.32.46
+549,l9WFF9RA4W,13615130553,MG,Guaranésia,,empresario,,2020-04-21 22:42:31,2020-04-21 22:42:31,,189.107.33.244
+550,9yjJOWuot5,74626492317,MG,Guaxupé,,empresario,,2020-04-21 22:48:43,2020-04-21 22:48:43,,189.107.33.244
+551,AtxZOGq2jP,67673597941,PR,Cascavel,,dirigente,,2020-04-21 23:07:44,2020-04-21 23:07:44,,179.187.133.142
+552,dwqHew0RKY,70732804718,DF,Brasília,,dirigente,,2020-04-22 06:43:00,2020-04-22 06:43:00,,177.235.30.157
+553,AkDsSUFsfg,45807930566,Île-de-France,Paris,,,,2020-04-22 07:16:27,2020-04-22 07:16:27,,54.36.150.124
+554,0XCuOMGZIG,73409926756,DF,Brasília,,empresario,,2020-04-22 07:25:14,2020-04-22 07:25:14,,177.235.30.157
+555,Co5aI4CT1j,74728538594,Local não Identificado,,,dirigente,,2020-04-22 08:02:47,2020-04-22 08:02:47,,192.168.1.79
+556,sO14gSSkdF,32865122114,PR,Ibaiti,,dirigente,,2020-04-22 08:18:47,2020-04-22 08:18:47,,177.53.9.109
+557,C4kAJjxITn,54270341540,Local não Identificado,,,dirigente,,2020-04-22 08:36:21,2020-04-22 08:36:21,,192.168.0.186
+558,ELKNL39A9D,45132855311,MG,Belo Horizonte,,dirigente,,2020-04-22 08:38:16,2020-04-22 08:38:16,,177.25.232.187
+559,SNnk3XZJEs,73399503105,MG,Nova Lima,,empresario,,2020-04-22 08:41:12,2020-04-22 08:41:12,,201.17.157.228
+560,5FMFT7B84H,15480453073,MG,Muzambinho,,dirigente,,2020-04-22 08:42:19,2020-04-22 08:42:19,,187.120.250.174
+561,nMpKN3ZCFg,86802213592,BA,Camaçari,,empresario,,2020-04-22 08:45:42,2020-04-22 08:45:42,,179.186.64.248
+562,S0mzk3tMFz,85397175992,MG,Belo Horizonte,,empresario,,2020-04-22 08:49:03,2020-04-22 08:49:03,,201.17.157.228
+563,rftA0nosrg,39580145161,PR,Ibaiti,,empresario,,2020-04-22 09:13:52,2020-04-22 09:13:52,,177.53.9.109
+564,brPGufpAPQ,54203506968,DF,Brasília,,dirigente,,2020-04-22 09:40:43,2020-04-22 09:40:43,,179.95.38.15
+565,0jI3RfXerX,73493309007,DF,Brasília,,dirigente,,2020-04-22 09:43:24,2020-04-22 09:43:24,,179.95.38.15
+566,ZnBWwCjgPl,30868233889,RS,Tramandaí,,empresario,,2020-04-22 09:46:16,2020-04-22 09:46:16,,143.0.228.162
+567,In3c7s8WLu,65998048163,SP,Itápolis,,dirigente,,2020-04-22 09:54:18,2020-04-22 09:54:18,,177.52.29.154
+568,ZaLW75ldyy,76743597611,RS,Encantado,,empresario,,2020-04-22 09:54:43,2020-04-22 09:54:43,,186.225.196.68
+569,GyAijGJJ9O,45850934674,CE,São Gonçalo do Amarante,,empresario,,2020-04-22 09:56:34,2020-04-22 09:56:34,,191.6.8.185
+570,Ba0CdNBUCf,71362158576,DF,Brasília,,empresario,,2020-04-22 10:03:24,2020-04-22 10:03:24,,177.235.56.42
+571,goGOvsGWf8,84706218037,RS,Joinville,,dirigente,,2020-04-22 10:12:18,2020-04-22 10:12:18,,177.204.93.184
+572,YgYvhPgfvS,68336664945,MG,Ouro Preto,,dirigente,,2020-04-22 10:17:47,2020-04-22 10:17:47,,138.255.24.7
+573,s0fZ04Fr6Z,33717708433,RS,Porto Alegre,,empresario,,2020-04-22 10:26:35,2020-04-22 10:26:35,,201.37.161.54
+574,B2mGFfHYYH,23680696054,SC,Gaspar,,empresario,,2020-04-22 10:27:12,2020-04-22 10:27:12,,179.185.218.5
+575,qq7nWJGdz1,50032411566,RS,Porto Alegre,,empresario,,2020-04-22 10:29:08,2020-04-22 10:29:08,,189.27.250.100
+576,g7O5imMVve,76340589923,SP,Marília,,dirigente,,2020-04-22 10:32:19,2020-04-22 10:32:19,,187.66.156.115
+577,gFgIKvyd8o,40376599677,RS,Gravataí,,empresario,,2020-04-22 10:35:37,2020-04-22 10:35:37,,138.185.129.68
+578,bYCyMpTXMu,73879705942,PR,Pato Branco,,dirigente,,2020-04-22 10:36:07,2020-04-22 10:36:07,,192.168.100.10
+579,KiprQJPNF9,49770113276,DF,Brasília,,empresario,,2020-04-22 10:39:30,2020-04-22 10:39:30,,189.6.34.223
+580,ypnRZXvQ3q,44414846147,RS,Gravataí,,empresario,,2020-04-22 10:40:34,2020-04-22 10:40:34,,201.34.94.252
+581,wjZobkCRzS,33355951025,RS,Gravataí,,empresario,,2020-04-22 10:45:54,2020-04-22 10:45:54,,201.34.94.252
+583,2U1Is5o6J2,89961699405,RS,Sapucaia do Sul,,empresario,,2020-04-22 10:50:57,2020-04-22 10:50:57,,189.63.162.140
+584,hScJWQqWfQ,45385993649,RS,Porto Alegre,,dirigente,,2020-04-22 11:10:24,2020-04-22 11:10:24,,177.79.77.60
+585,dq1xr2pE3z,28660536818,RS,Gravataí,,dirigente,,2020-04-22 11:38:08,2020-04-22 11:38:08,,128.201.166.39
+586,A0cOhb4AkW,20941517716,PR,Curitiba,,empresario,,2020-04-22 11:49:27,2020-04-22 11:49:27,,168.181.49.241
+587,31F7TiVpMz,12302892399,PB,Catolé do Rocha,,empresario,,2020-04-22 11:55:49,2020-04-22 11:55:49,,191.253.86.15
+588,NKpZpurPt4,25622915118,RS,Porto Alegre,,empresario,,2020-04-22 11:57:12,2020-04-22 11:57:12,,191.245.225.91
+589,ZkrGz2XL5L,29875669912,RN,Tenente Ananias,,empresario,,2020-04-22 12:04:09,2020-04-22 12:04:09,,177.75.21.182
+590,0kICjLgM3i,12905629691,RS,Cachoeirinha,,empresario,,2020-04-22 12:04:29,2020-04-22 12:04:29,,189.114.135.170
+591,0VbNYxUZKp,48840390983,SP,São Paulo,,empresario,,2020-04-22 12:05:02,2020-04-22 12:05:02,,177.84.194.68
+592,2Mkax6Ae2P,86685532890,RN,Marcelino Vieira,,empresario,,2020-04-22 12:05:14,2020-04-22 12:05:14,,191.253.86.63
+593,IBTBD5vXgU,81723223128,RN,Tenente Ananias,,empresario,,2020-04-22 12:05:46,2020-04-22 12:05:46,,191.37.208.123
+594,JL3jvoaJuc,69031243631,RN,Marcelino Vieira,,empresario,,2020-04-22 12:12:34,2020-04-22 12:12:34,,187.19.150.110
+595,HKHJjcQCAT,34165879073,PB,Pombal,,empresario,,2020-04-22 12:12:35,2020-04-22 12:12:35,,177.75.21.182
+596,nj1jNpNS7G,90807340899,PB,Pombal,,empresario,,2020-04-22 12:12:47,2020-04-22 12:12:47,,177.75.21.182
+597,RSPEvbkk22,38263416737,CE,Jaguaribe,,empresario,,2020-04-22 12:20:06,2020-04-22 12:20:06,,187.19.150.110
+598,GTRog3hYZJ,30140735656,RN,São Francisco do Oeste,,empresario,,2020-04-22 12:25:13,2020-04-22 12:25:13,,177.84.194.1
+599,dnHGoa8ah5,38037852137,PB,Catolé do Rocha,,empresario,,2020-04-22 12:26:40,2020-04-22 12:26:40,,191.253.86.63
+600,ufexI1ciRq,75173029536,PB,Catolé do Rocha,,empresario,,2020-04-22 12:27:21,2020-04-22 12:27:21,,191.253.86.63
+601,n3rqc2AQqF,56093349740,RN,Marcelino Vieira,,empresario,,2020-04-22 12:29:04,2020-04-22 12:29:04,,191.253.86.226
+602,vU7Bjdkl6o,44107091035,PR,Dois Vizinhos,,dirigente,,2020-04-22 12:31:54,2020-04-22 12:31:54,,177.155.125.7
+603,6J5eT4zytA,17875777580,PR,Dois Vizinhos,,dirigente,,2020-04-22 12:32:25,2020-04-22 12:32:25,,177.155.125.7
+604,xhCNAPWC2i,96712094210,RN,Pau dos Ferros,,empresario,,2020-04-22 12:34:42,2020-04-22 12:34:42,,177.84.194.57
+605,c1Db2cJWGT,45624326486,PB,Catolé do Rocha,,empresario,,2020-04-22 12:35:30,2020-04-22 12:35:30,,191.253.86.226
+606,clpkWxpEB0,84186055231,PB,Catolé do Rocha,,empresario,,2020-04-22 12:36:14,2020-04-22 12:36:14,,191.253.86.226
+607,bUYuEje4Rv,85080922259,RN,Marcelino Vieira,,empresario,,2020-04-22 12:38:53,2020-04-22 12:38:53,,191.253.86.113
+608,MFHOEdz7pX,46500530494,MG,Uberlândia,,dirigente,,2020-04-22 12:49:17,2020-04-22 12:49:17,,186.210.219.19
+609,tjeQHGiY1Y,57620909600,RN,Apodi,,empresario,,2020-04-22 12:54:05,2020-04-22 12:54:05,,177.73.9.74
+610,XLw6KTH72p,84437738931,RN,Apodi,,empresario,,2020-04-22 12:55:00,2020-04-22 12:55:00,,177.73.9.17
+611,jIlWIm3YGi,81165381195,RN,Marcelino Vieira,,empresario,,2020-04-22 12:55:18,2020-04-22 12:55:18,,187.19.150.110
+612,cNMgB5VdRY,99003510987,RN,Marcelino Vieira,,empresario,,2020-04-22 12:58:29,2020-04-22 12:58:29,,177.84.194.6
+613,GaJW6uTpXw,75979660018,RN,Apodi,,empresario,,2020-04-22 13:00:33,2020-04-22 13:00:33,,177.73.15.189
+614,BhQi0zsPY8,75323161240,SP,São Paulo,,empresario,,2020-04-22 13:02:39,2020-04-22 13:02:39,,177.73.9.17
+615,QpWL1ewK5d,35074321725,CE,Jaguaribe,,empresario,,2020-04-22 13:04:32,2020-04-22 13:04:32,,187.19.150.110
+616,gHLJnHYwxf,68758049537,PB,Uiraúna,,empresario,,2020-04-22 13:05:38,2020-04-22 13:05:38,,191.37.208.123
+617,llXH7SclCJ,69558315598,RN,Apodi,,empresario,,2020-04-22 13:15:33,2020-04-22 13:15:33,,177.73.9.145
+618,GbpLgkEp09,43550091776,RN,Apodi,,empresario,,2020-04-22 13:18:21,2020-04-22 13:18:21,,177.73.15.173
+619,L54wRJXUfo,40007634628,RN,Apodi,,empresario,,2020-04-22 13:19:10,2020-04-22 13:19:10,,131.161.135.17
+620,PxZTOYSxcl,86878017638,RN,Tenente Ananias,,empresario,,2020-04-22 13:19:50,2020-04-22 13:19:50,,191.37.215.239
+621,CD3peX1uEp,58439183216,MG,Uberlândia,,empresario,,2020-04-22 13:20:12,2020-04-22 13:20:12,,200.225.220.164
+622,JDgPYunwel,80458307061,SP,São Paulo,,empresario,,2020-04-22 13:24:39,2020-04-22 13:24:39,,177.73.9.145
+623,SXaVnOZW1m,33794431472,RN,Marcelino Vieira,,empresario,,2020-04-22 13:25:34,2020-04-22 13:25:34,,177.84.194.6
+624,2G4suWAaQ4,47829590584,SP,São Paulo,,empresario,,2020-04-22 13:25:51,2020-04-22 13:25:51,,177.73.9.145
+625,QEtlbqIbst,27893267124,RN,Apodi,,empresario,,2020-04-22 13:27:21,2020-04-22 13:27:21,,177.87.237.87
+626,GjlNl3gEYH,22124914200,RN,Apodi,,empresario,,2020-04-22 13:27:34,2020-04-22 13:27:34,,177.73.14.144
+627,nLg6ruGtVG,82930596005,SP,São Paulo,,empresario,,2020-04-22 13:29:55,2020-04-22 13:29:55,,177.87.237.87
+628,0Wo8oc5s9J,50401971982,RN,Apodi,,empresario,,2020-04-22 13:30:43,2020-04-22 13:30:43,,45.174.234.59
+629,NRWaHGsJl4,20905892113,RN,Apodi,,dirigente,,2020-04-22 13:36:06,2020-04-22 13:36:06,,177.73.9.184
+630,c9wjJKlzBj,40426702420,SP,São Paulo,,empresario,,2020-04-22 13:36:15,2020-04-22 13:36:15,,45.174.234.59
+631,kRQ8c2bbjc,21476223124,SP,São Paulo,,dirigente,,2020-04-22 13:43:11,2020-04-22 13:43:11,,177.73.9.184
+632,LDBTfrxBBQ,39171243067,PR,Foz do Iguaçu,,empresario,,2020-04-22 13:53:47,2020-04-22 13:53:47,,177.66.73.200
+633,C8QWKIwDYN,40727753937,RN,Pau dos Ferros,,empresario,,2020-04-22 13:57:02,2020-04-22 13:57:02,,177.37.191.121
+634,1m5j1fMX1M,92431854107,RN,Pau dos Ferros,,empresario,,2020-04-22 13:58:10,2020-04-22 13:58:10,,177.37.188.46
+635,JwJrvfYKUj,18283209321,RS,Rio Grande,,empresario,,2020-04-22 14:00:05,2020-04-22 14:00:05,,179.189.135.138
+636,5QK8qAz66M,50808923062,RN,Pau dos Ferros,,empresario,,2020-04-22 14:01:27,2020-04-22 14:01:27,,187.19.255.207
+637,vZoG2nUqFu,78234655288,MG,Uberlândia,,empresario,,2020-04-22 14:02:39,2020-04-22 14:02:39,,186.210.219.19
+638,K66qgY0kU3,29593739234,PB,Santa Rita,,empresario,,2020-04-22 14:04:26,2020-04-22 14:04:26,,177.37.188.46
+639,cCKD6jtrAF,89782199566,PB,Santa Rita,,empresario,,2020-04-22 14:04:56,2020-04-22 14:04:56,,177.37.188.46
+640,plnFLYuBtF,63299271184,RN,Marcelino Vieira,,empresario,,2020-04-22 14:13:34,2020-04-22 14:13:34,,191.253.86.82
+641,4nLhxD1hNI,13543154983,RN,Marcelino Vieira,,empresario,,2020-04-22 14:15:46,2020-04-22 14:15:46,,191.253.86.15
+642,5B86OrYf9R,29299420733,RN,Apodi,,empresario,,2020-04-22 14:16:01,2020-04-22 14:16:01,,177.73.9.25
+643,TN8Zj1Frge,86335792532,SP,São Paulo,,empresario,,2020-04-22 14:17:25,2020-04-22 14:17:25,,187.19.255.207
+644,TCs5OMiVtD,51855479236,PR,Joaquim Távora,,dirigente,,2020-04-22 14:18:07,2020-04-22 14:18:07,,170.80.219.76
+645,n5srgUiiij,12135268584,RS,Caxias do Sul,,dirigente,,2020-04-22 14:18:42,2020-04-22 14:18:42,,189.35.222.112
+646,ForTAztXUh,73589159506,PR,Pato Branco,,dirigente,,2020-04-22 14:39:37,2020-04-22 14:39:37,,192.168.103.193
+647,1Qbng2tiDg,76230138903,SP,São Paulo,,empresario,,2020-04-22 14:39:46,2020-04-22 14:39:46,,177.84.194.1
+648,rcy8ux9s4L,76849702992,RS,Cachoeirinha,,empresario,,2020-04-22 14:40:55,2020-04-22 14:40:55,,189.6.237.75
+649,oXR1Zn5qUl,18569325124,Mississippi,Marks,,empresario,,2020-04-22 14:40:55,2020-04-22 14:40:55,,66.249.88.87
+650,Dc0YJERde6,84137031994,Mississippi,Marks,,empresario,,2020-04-22 14:40:55,2020-04-22 14:40:55,,66.249.88.85
+651,KWOsx5dIA1,28871894762,Mississippi,Marks,,empresario,,2020-04-22 14:40:55,2020-04-22 14:40:55,,66.249.88.85
+652,R0dKdzmXeZ,18653570753,Mississippi,Marks,,empresario,,2020-04-22 14:41:06,2020-04-22 14:41:06,,66.249.88.85
+653,19zOzbtroM,90784447910,Mississippi,Marks,,empresario,,2020-04-22 14:41:25,2020-04-22 14:41:25,,66.249.88.87
+654,nMtNk3xKuq,42458164738,RN,Apodi,,empresario,,2020-04-22 14:41:28,2020-04-22 14:41:28,,177.73.9.110
+655,kNA8Mxa9Nd,85190338115,Mississippi,Marks,,empresario,,2020-04-22 14:41:35,2020-04-22 14:41:35,,66.249.88.85
+656,cR327jyZX9,13273032899,Mississippi,Marks,,empresario,,2020-04-22 14:41:46,2020-04-22 14:41:46,,66.249.88.85
+657,DhJqXI8Dqk,60015292023,Mississippi,Marks,,empresario,,2020-04-22 14:42:05,2020-04-22 14:42:05,,66.249.88.87
+658,RFkOfvFjVK,93494956661,Mississippi,Marks,,empresario,,2020-04-22 14:42:30,2020-04-22 14:42:30,,66.249.88.83
+659,unJmg7MYDP,57558950404,Mississippi,Marks,,empresario,,2020-04-22 14:43:14,2020-04-22 14:43:14,,66.249.88.87
+660,03dsfqJInP,50569893019,Mississippi,Marks,,empresario,,2020-04-22 14:43:24,2020-04-22 14:43:24,,66.249.88.85
+661,Dj7pzTtSVe,96953433426,Mississippi,Marks,,empresario,,2020-04-22 14:44:03,2020-04-22 14:44:03,,66.249.88.87
+662,0LPKJK085n,90887857461,Mississippi,Marks,,empresario,,2020-04-22 14:44:52,2020-04-22 14:44:52,,66.249.88.83
+663,vrmHiYicf9,17387618850,Mississippi,Marks,,empresario,,2020-04-22 14:45:11,2020-04-22 14:45:11,,66.249.88.87
+664,7txCuO2UAu,92960292240,SP,São Paulo,,empresario,,2020-04-22 14:46:42,2020-04-22 14:46:42,,177.73.9.110
+665,kg7OHWiL7h,18779292721,RS,Porto Alegre,,dirigente,,2020-04-22 14:46:56,2020-04-22 14:46:56,,189.6.237.75
+666,a4QGC4O0o1,13089062864,Mississippi,Marks,,dirigente,,2020-04-22 14:46:57,2020-04-22 14:46:57,,66.249.88.85
+667,MnqOGMWOOz,11614187499,Mississippi,Marks,,dirigente,,2020-04-22 14:46:57,2020-04-22 14:46:57,,66.249.88.83
+668,4OAf9Uicdm,61879610056,Mississippi,Marks,,dirigente,,2020-04-22 14:46:57,2020-04-22 14:46:57,,66.249.88.87
+669,WvaIN6crzz,57864593109,Mississippi,Marks,,dirigente,,2020-04-22 14:47:03,2020-04-22 14:47:03,,66.249.88.83
+670,mtWc4WtQjJ,99998741834,Mississippi,Marks,,dirigente,,2020-04-22 14:47:12,2020-04-22 14:47:12,,66.249.88.83
+671,7p517c4x2h,40188483367,Mississippi,Marks,,dirigente,,2020-04-22 14:47:28,2020-04-22 14:47:28,,66.249.88.83
+672,73pMHqdU60,63050692477,Mississippi,Marks,,dirigente,,2020-04-22 14:47:44,2020-04-22 14:47:44,,66.249.88.83
+673,OOf2nmslLi,99149582330,Mississippi,Marks,,dirigente,,2020-04-22 14:50:51,2020-04-22 14:50:51,,66.249.88.83
+674,QuWVan1aDM,51480622338,Mississippi,Marks,,dirigente,,2020-04-22 14:51:19,2020-04-22 14:51:19,,66.249.88.83
+675,D6PBBGF24d,38391683199,Mississippi,Marks,,dirigente,,2020-04-22 14:51:28,2020-04-22 14:51:28,,66.249.88.87
+676,mulQaPLRDp,24986840900,RS,Rio Grande,,dirigente,,2020-04-22 14:52:19,2020-04-22 14:52:19,,179.189.153.159
+677,U3KuwzsFii,27828658493,RS,Rio Grande,,dirigente,,2020-04-22 14:52:20,2020-04-22 14:52:20,,179.189.153.159
+678,zYFBVqGHEm,18572444450,RS,Rio Grande,,dirigente,,2020-04-22 14:52:20,2020-04-22 14:52:20,,179.189.153.159
+679,2d4eX0VQoj,82105060350,RS,Rio Grande,,dirigente,,2020-04-22 14:52:20,2020-04-22 14:52:20,,179.189.153.159
+680,W1zt938U2L,99531304049,RS,Rio Grande,,dirigente,,2020-04-22 14:52:21,2020-04-22 14:52:21,,179.189.153.159
+681,BNqJZH6EIQ,64152791374,RS,Rio Grande,,dirigente,,2020-04-22 14:52:21,2020-04-22 14:52:21,,179.189.153.159
+682,ZE7CFpqorV,84985112831,RS,Rio Grande,,dirigente,,2020-04-22 14:52:21,2020-04-22 14:52:21,,179.189.153.159
+683,2eiM46rdxz,71240292913,RS,Rio Grande,,dirigente,,2020-04-22 14:52:21,2020-04-22 14:52:21,,179.189.153.159
+684,pOdJ2hAy7C,91715145772,RS,Rio Grande,,dirigente,,2020-04-22 14:52:22,2020-04-22 14:52:22,,179.189.153.159
+685,G9SLFxrFxx,26417975262,RS,Rio Grande,,dirigente,,2020-04-22 14:52:22,2020-04-22 14:52:22,,179.189.153.159
+686,Lvh4rGQ0HA,80546275470,RS,Rio Grande,,dirigente,,2020-04-22 14:52:23,2020-04-22 14:52:23,,179.189.153.159
+687,cy38vUaCun,98994290013,RS,Rio Grande,,dirigente,,2020-04-22 14:52:23,2020-04-22 14:52:23,,179.189.153.159
+688,11NVj5dC6A,46957941092,RS,Rio Grande,,dirigente,,2020-04-22 14:52:23,2020-04-22 14:52:23,,179.189.153.159
+689,s4lwDU0dZG,46310249264,RS,Rio Grande,,dirigente,,2020-04-22 14:52:23,2020-04-22 14:52:23,,179.189.153.159
+690,4WQNsuLfPv,80779552091,RS,Rio Grande,,dirigente,,2020-04-22 14:52:24,2020-04-22 14:52:24,,179.189.153.159
+691,G0UwWwyfus,14234448634,RS,Rio Grande,,dirigente,,2020-04-22 14:52:24,2020-04-22 14:52:24,,179.189.153.159
+692,NYpHOBOotP,74288224731,RS,Rio Grande,,dirigente,,2020-04-22 14:52:25,2020-04-22 14:52:25,,179.189.153.159
+693,874gsSzELa,68734307377,RS,Rio Grande,,dirigente,,2020-04-22 14:52:25,2020-04-22 14:52:25,,179.189.153.159
+694,G0Qns2LCvc,85820287298,RS,Rio Grande,,dirigente,,2020-04-22 14:52:25,2020-04-22 14:52:25,,179.189.153.159
+695,3RKuPZEGdY,52901236321,RS,Rio Grande,,dirigente,,2020-04-22 14:52:25,2020-04-22 14:52:25,,179.189.153.159
+696,XN2kQ019NH,38452403675,RS,Rio Grande,,dirigente,,2020-04-22 14:52:26,2020-04-22 14:52:26,,179.189.153.159
+697,OxWTs9Lr8Y,62957656285,RS,Rio Grande,,dirigente,,2020-04-22 14:52:26,2020-04-22 14:52:26,,179.189.153.159
+698,v6o3v3EvSg,22825078880,RS,Rio Grande,,dirigente,,2020-04-22 14:52:26,2020-04-22 14:52:26,,179.189.153.159
+699,DNAPu3g7Tw,44921024711,RS,Rio Grande,,dirigente,,2020-04-22 14:52:26,2020-04-22 14:52:26,,179.189.153.159
+700,kQHzyFyfPi,88967352136,RS,Rio Grande,,dirigente,,2020-04-22 14:52:27,2020-04-22 14:52:27,,179.189.153.159
+701,5emv7khB2u,30298752509,RS,Rio Grande,,dirigente,,2020-04-22 14:52:27,2020-04-22 14:52:27,,179.189.153.159
+702,fEbFmn8Qzf,91857067695,RS,Rio Grande,,dirigente,,2020-04-22 14:52:28,2020-04-22 14:52:28,,179.189.153.159
+703,jXDdD6tTul,72539551900,RS,Júlio de Castilhos,,dirigente,,2020-04-22 14:52:28,2020-04-22 14:52:28,,200.9.134.24
+704,LOKEhCAwAB,37040141420,RS,Rio Grande,,dirigente,,2020-04-22 14:52:28,2020-04-22 14:52:28,,179.189.153.159
+705,gkMDqdyLiJ,85661430913,RS,Rio Grande,,dirigente,,2020-04-22 14:52:28,2020-04-22 14:52:28,,179.189.153.159
+706,mlJGSrAgVB,20454232087,RS,Rio Grande,,dirigente,,2020-04-22 14:52:29,2020-04-22 14:52:29,,179.189.153.159
+707,PyLtpYIwNK,70958302053,RS,Rio Grande,,dirigente,,2020-04-22 14:52:29,2020-04-22 14:52:29,,179.189.153.159
+708,ND8MVk15p6,91289999885,RS,Rio Grande,,dirigente,,2020-04-22 14:52:29,2020-04-22 14:52:29,,179.189.153.159
+709,5caTe4uJZk,29879997111,RS,Rio Grande,,dirigente,,2020-04-22 14:52:30,2020-04-22 14:52:30,,179.189.153.159
+710,cWVsITuvO7,79717460270,RS,Rio Grande,,dirigente,,2020-04-22 14:52:30,2020-04-22 14:52:30,,179.189.153.159
+711,boIzjxDRpl,52268152767,RS,Rio Grande,,dirigente,,2020-04-22 14:52:30,2020-04-22 14:52:30,,179.189.153.159
+712,LTi931EfGa,25265739760,RS,Rio Grande,,dirigente,,2020-04-22 14:52:30,2020-04-22 14:52:30,,179.189.153.159
+713,b4nmcyDiRt,73707228796,RS,Rio Grande,,dirigente,,2020-04-22 14:52:31,2020-04-22 14:52:31,,179.189.153.159
+714,AoKEVu8mQ5,88356587034,RS,Rio Grande,,dirigente,,2020-04-22 14:52:32,2020-04-22 14:52:32,,179.189.153.159
+715,psFK64LfrL,37734062126,RS,Rio Grande,,dirigente,,2020-04-22 14:52:32,2020-04-22 14:52:32,,179.189.153.159
+716,yWiOU2Id8A,31043444373,RS,Rio Grande,,dirigente,,2020-04-22 14:52:33,2020-04-22 14:52:33,,179.189.153.159
+717,CsmE7NUlEy,50518141933,RS,Rio Grande,,dirigente,,2020-04-22 14:52:33,2020-04-22 14:52:33,,179.189.153.159
+718,bSzqQOSOwB,26583852330,RS,Rio Grande,,dirigente,,2020-04-22 14:52:33,2020-04-22 14:52:33,,179.189.153.159
+719,fzZEH5fRw0,96963846557,RS,Rio Grande,,dirigente,,2020-04-22 14:52:33,2020-04-22 14:52:33,,179.189.153.159
+720,bOKlvFuVPL,83163866256,RS,Rio Grande,,dirigente,,2020-04-22 14:52:34,2020-04-22 14:52:34,,179.189.153.159
+721,zOi2WfOqSB,45612363750,DF,Brasília,,empresario,,2020-04-22 14:58:28,2020-04-22 14:58:28,,177.235.30.157
+722,DqeBrywvMS,97326402636,RS,Porto Alegre,,dirigente,,2020-04-22 15:01:11,2020-04-22 15:01:11,,177.79.4.136
+723,7Yn9sFNJpJ,78400480346,MG,Campanha,,dirigente,,2020-04-22 15:14:42,2020-04-22 15:14:42,,177.47.71.38
+724,ZcU2lP56Os,51405614865,DF,Brasília,,dirigente,,2020-04-22 15:20:19,2020-04-22 15:20:19,,177.235.30.157
+725,myfy1GWOAJ,26985681145,RN,Apodi,,empresario,,2020-04-22 15:25:24,2020-04-22 15:25:24,,177.73.9.55
+726,xyJgGmG0V5,83702086112,RN,Apodi,,empresario,,2020-04-22 15:33:02,2020-04-22 15:33:02,,177.73.9.85
+727,9ptdetCgwE,52957815802,DF,Brasília,,dirigente,,2020-04-22 15:33:54,2020-04-22 15:33:54,,189.6.33.52
+728,M7k5BMGhF5,66990294256,RN,Apodi,,empresario,,2020-04-22 15:46:41,2020-04-22 15:46:41,,177.73.9.82
+729,VGnTIRx7pD,96675022980,SP,São Paulo,,empresario,,2020-04-22 15:48:21,2020-04-22 15:48:21,,177.73.9.17
+730,ql2amafJ4C,30588308121,SP,São Paulo,,empresario,,2020-04-22 15:48:21,2020-04-22 15:48:21,,177.73.9.17
+731,EhkpDT1Xe8,43444020175,SP,São Paulo,,empresario,,2020-04-22 15:48:21,2020-04-22 15:48:21,,177.73.9.17
+732,5gGFJDz1lT,36294815801,SP,São Paulo,,empresario,,2020-04-22 15:48:21,2020-04-22 15:48:21,,177.73.9.17
+733,ic0g5ytroU,66983158993,SP,São Paulo,,empresario,,2020-04-22 15:48:21,2020-04-22 15:48:21,,177.73.9.17
+734,xj8CxRcz4H,94695538938,SP,São Paulo,,empresario,,2020-04-22 15:48:22,2020-04-22 15:48:22,,177.73.9.17
+735,67QAunOQ91,73571169469,SP,São Paulo,,empresario,,2020-04-22 15:48:34,2020-04-22 15:48:34,,177.73.9.17
+736,0OF707GAEI,64734439630,PR,Ponta Grossa,,dirigente,,2020-04-22 15:53:53,2020-04-22 15:53:53,,179.216.32.46
+737,ua3aQ5e3oV,14901384096,PR,Pato Branco,,dirigente,,2020-04-22 16:01:00,2020-04-22 16:01:00,,179.229.184.197
+738,x8lYICUkJ1,37503777467,PB,Catolé do Rocha,,empresario,,2020-04-22 16:01:47,2020-04-22 16:01:47,,191.253.86.82
+739,sIZp0LxiR6,33974428526,PB,Catolé do Rocha,,empresario,,2020-04-22 16:02:09,2020-04-22 16:02:09,,191.253.86.82
+740,Z2Cpfwwf7l,15989859299,PR,Curitiba,,dirigente,,2020-04-22 16:07:57,2020-04-22 16:07:57,,179.229.184.197
+741,VfojhyW30Z,36081409361,PB,Uiraúna,,empresario,,2020-04-22 16:13:44,2020-04-22 16:13:44,,191.37.208.123
+742,Jqj0kyRdqp,26542267110,RN,São Francisco do Oeste,,empresario,,2020-04-22 16:15:35,2020-04-22 16:15:35,,177.84.194.8
+743,rEVwSyDtXe,87493247194,RN,Pau dos Ferros,,empresario,,2020-04-22 16:19:50,2020-04-22 16:19:50,,177.37.238.121
+744,d3PwCPtLRN,65504558500,CE,Juazeiro do Norte,,empresario,,2020-04-22 16:25:52,2020-04-22 16:25:52,,177.37.238.121
+745,HSMb192613,92421357030,RN,Pau dos Ferros,,empresario,,2020-04-22 16:32:02,2020-04-22 16:32:02,,177.84.197.23
+746,9LoJkvP6Xl,28999584340,CE,Jaguaribe,,empresario,,2020-04-22 16:38:09,2020-04-22 16:38:09,,187.19.150.110
+747,3Ko1f0vVBA,23749131569,RN,Pau dos Ferros,,empresario,,2020-04-22 16:39:56,2020-04-22 16:39:56,,177.84.197.182
+748,Y6ginSlR67,98942839209,SP,São Paulo,,empresario,,2020-04-22 16:45:06,2020-04-22 16:45:06,,177.84.197.182
+749,wEp1xOY4yJ,73844972299,RN,São Francisco do Oeste,,empresario,,2020-04-22 16:47:56,2020-04-22 16:47:56,,177.84.194.1
+750,NLu16P7udT,99985956875,RS,Flores da Cunha,,dirigente,,2020-04-22 16:51:16,2020-04-22 16:51:16,,45.227.186.195
+751,jLmqdzYMf3,98593954225,RN,Pau dos Ferros,,empresario,,2020-04-22 16:53:52,2020-04-22 16:53:52,,177.37.234.216
+752,epf3T1UHDt,17418922828,RS,Flores da Cunha,,empresario,,2020-04-22 16:54:36,2020-04-22 16:54:36,,189.127.18.125
+753,N7flio9ve1,24998101191,RN,Tenente Ananias,,empresario,,2020-04-22 16:55:23,2020-04-22 16:55:23,,177.75.21.182
+754,OI1dMgwWCE,72125896597,PB,Pombal,,empresario,,2020-04-22 16:57:53,2020-04-22 16:57:53,,177.75.21.182
+755,GaVORvsz7U,30467657833,RN,São Francisco do Oeste,,empresario,,2020-04-22 16:59:01,2020-04-22 16:59:01,,187.40.144.160
+756,YZW93wtZEu,93197353417,SC,Maravilha,,empresario,,2020-04-22 17:00:41,2020-04-22 17:00:41,,187.45.103.185
+757,OQCZcMfVQR,24465824482,SC,Campos Novos,,empresario,,2020-04-22 17:01:19,2020-04-22 17:01:19,,177.37.71.176
+758,morJQNv8MK,81158817117,SC,Campos Novos,,empresario,,2020-04-22 17:04:55,2020-04-22 17:04:55,,177.37.71.176
+759,QhTncT8Bjh,76063982802,PB,Pombal,,empresario,,2020-04-22 17:09:01,2020-04-22 17:09:01,,177.75.21.182
+760,0l3UEf80P7,70407761889,RS,Caxias do Sul,,empresario,,2020-04-22 17:09:44,2020-04-22 17:09:44,,189.7.111.58
+761,tafaQPzItO,22052481900,RN,Marcelino Vieira,,empresario,,2020-04-22 17:11:35,2020-04-22 17:11:35,,177.84.194.6
+762,uYrbPrTpeE,36968817836,RN,Natal,,empresario,,2020-04-22 17:13:17,2020-04-22 17:13:17,,187.40.144.160
+763,lksUHp8Gvd,66634103981,RN,São Francisco do Oeste,,empresario,,2020-04-22 17:13:59,2020-04-22 17:13:59,,187.40.144.160
+764,2vKTWH8M5O,81778088719,SC,Maravilha,,empresario,,2020-04-22 17:22:45,2020-04-22 17:22:45,,201.3.224.61
+765,1xSNuHB4Iq,67433452936,SC,Chapecó,,empresario,,2020-04-22 17:23:26,2020-04-22 17:23:26,,177.75.128.197
+766,m05RMlGh8f,30063846320,SC,Maravilha,,empresario,,2020-04-22 17:23:27,2020-04-22 17:23:27,,177.75.128.252
+767,gjywxOobf2,67551895934,SC,Maravilha,,empresario,,2020-04-22 17:23:38,2020-04-22 17:23:38,,177.75.129.121
+768,wNlysBeCM2,45973765011,SC,Maravilha,,empresario,,2020-04-22 17:24:00,2020-04-22 17:24:00,,187.45.103.170
+769,hicS6BlVjx,83771720156,SC,Maravilha,,empresario,,2020-04-22 17:24:49,2020-04-22 17:24:49,,177.75.128.197
+770,NfJ2Lt7ZLk,59327751998,SC,Chapecó,,empresario,,2020-04-22 17:25:54,2020-04-22 17:25:54,,177.75.128.252
+771,g3v6b0j50O,15628032404,SC,Maravilha,,empresario,,2020-04-22 17:26:42,2020-04-22 17:26:42,,187.45.116.150
+772,moIp2eijmd,10322331073,SC,Chapecó,,empresario,,2020-04-22 17:28:07,2020-04-22 17:28:07,,177.75.129.121
+773,ATqAOhZ74f,50975710363,SC,Maravilha,,empresario,,2020-04-22 17:28:20,2020-04-22 17:28:20,,177.75.129.53
+774,Fey5XgtNIV,87906723334,SC,Chapecó,,empresario,,2020-04-22 17:28:30,2020-04-22 17:28:30,,177.75.129.144
+775,iX6nt4EnRk,57168580782,SC,Maravilha,,empresario,,2020-04-22 17:28:53,2020-04-22 17:28:53,,177.75.129.51
+776,tU3rCzfnfC,93744942438,SC,Maravilha,,empresario,,2020-04-22 17:29:19,2020-04-22 17:29:19,,177.75.128.224
+777,9DXAayc1Sa,84411228816,SC,Maravilha,,empresario,,2020-04-22 17:30:48,2020-04-22 17:30:48,,177.75.129.101
+778,IS1KMIogNc,98379423813,RN,Tenente Ananias,,empresario,,2020-04-22 17:33:22,2020-04-22 17:33:22,,177.75.21.182
+779,N3cUQaxFH9,52946975696,RN,Marcelino Vieira,,empresario,,2020-04-22 17:33:57,2020-04-22 17:33:57,,177.84.194.6
+780,7bLMYucIfb,92694392958,RN,São Francisco do Oeste,,empresario,,2020-04-22 17:36:16,2020-04-22 17:36:16,,177.84.194.1
+781,3svXsJX98m,64450566405,SC,Maravilha,,empresario,,2020-04-22 17:39:26,2020-04-22 17:39:26,,187.45.103.162
+782,K7IBEQ0iNa,15440962072,SP,São Paulo,,empresario,,2020-04-22 17:41:40,2020-04-22 17:41:40,,177.84.194.6
+783,cToIJvF4I2,51903465380,RN,Apodi,,empresario,,2020-04-22 17:44:37,2020-04-22 17:44:37,,177.73.9.98
+784,N7HSSXjEgZ,89436665331,SC,Chapecó,,empresario,,2020-04-22 17:45:42,2020-04-22 17:45:42,,187.45.103.234
+785,q48tNlBnAX,73541264808,SC,Maravilha,,empresario,,2020-04-22 17:46:55,2020-04-22 17:46:55,,187.45.102.78
+786,2q6A4zyiqg,25801725964,SP,São Paulo,,empresario,,2020-04-22 17:50:16,2020-04-22 17:50:16,,177.84.194.1
+787,O5Q5yEOtvS,94721794873,SC,Maravilha,,empresario,,2020-04-22 17:50:25,2020-04-22 17:50:25,,177.0.216.117
+788,WcfYYSuaIG,99479367556,SC,Cunha Porã,,empresario,,2020-04-22 17:52:27,2020-04-22 17:52:27,,191.240.131.119
+789,xIcYpUDLZI,12891001217,SC,Chapecó,,empresario,,2020-04-22 17:55:11,2020-04-22 17:55:11,,177.0.216.117
+790,zQp4vJZfE3,19878374552,SP,São Paulo,,empresario,,2020-04-22 17:59:12,2020-04-22 17:59:12,,177.73.9.98
+791,pxWpcCCb6q,37996063027,RN,Itaú,,empresario,,2020-04-22 18:01:57,2020-04-22 18:01:57,,177.73.13.192
+792,mLBLU6ZVgz,79675293136,SC,Florianópolis,,dirigente,,2020-04-22 18:14:58,2020-04-22 18:14:58,,191.5.144.209
+793,plocfFAJfo,61811417909,SP,São Paulo,,empresario,,2020-04-22 18:21:02,2020-04-22 18:21:02,,45.174.234.180
+794,j9uwe1yvmn,13560224813,SP,São Paulo,,empresario,,2020-04-22 18:21:02,2020-04-22 18:21:02,,45.174.234.180
+795,pWduqWuLaq,11837333291,SP,São Paulo,,empresario,,2020-04-22 18:21:02,2020-04-22 18:21:02,,45.174.234.180
+796,oxch7Q3iu1,35085304323,SP,São Paulo,,empresario,,2020-04-22 18:21:02,2020-04-22 18:21:02,,45.174.234.180
+797,dscmuioyd4,75151497391,SP,São Paulo,,empresario,,2020-04-22 18:21:02,2020-04-22 18:21:02,,45.174.234.180
+798,J6bhyRO520,52481865608,SP,São Paulo,,empresario,,2020-04-22 18:21:03,2020-04-22 18:21:03,,45.174.234.180
+799,GDhpCw4FDt,29728053910,SP,São Paulo,,empresario,,2020-04-22 18:21:03,2020-04-22 18:21:03,,45.174.234.180
+800,SFKQFtu7b0,20371241229,SP,São Paulo,,empresario,,2020-04-22 18:21:03,2020-04-22 18:21:03,,45.174.234.180
+801,X27vbAzWkt,11224862765,SP,São Paulo,,empresario,,2020-04-22 18:21:03,2020-04-22 18:21:03,,45.174.234.180
+802,WKllaJN6zB,76086816070,SP,São Paulo,,empresario,,2020-04-22 18:21:03,2020-04-22 18:21:03,,45.174.234.180
+803,8StPZ8yPJ5,24043364701,SP,São Paulo,,empresario,,2020-04-22 18:21:04,2020-04-22 18:21:04,,45.174.234.180
+804,8ORpppw2jJ,97284331475,SP,São Paulo,,empresario,,2020-04-22 18:21:04,2020-04-22 18:21:04,,45.174.234.180
+805,RTS4sEnbux,63858800437,SP,São Paulo,,empresario,,2020-04-22 18:21:04,2020-04-22 18:21:04,,45.174.234.180
+806,vaXc6MMPXN,44345327815,SP,São Paulo,,empresario,,2020-04-22 18:21:04,2020-04-22 18:21:04,,45.174.234.180
+807,0PpJNyRa9F,35317409490,SP,São Paulo,,empresario,,2020-04-22 18:21:04,2020-04-22 18:21:04,,45.174.234.180
+808,Os2IDFd1Eo,18038479876,SP,São Paulo,,empresario,,2020-04-22 18:21:05,2020-04-22 18:21:05,,45.174.234.180
+809,aegZknOMPm,93295109290,SP,São Paulo,,empresario,,2020-04-22 18:21:05,2020-04-22 18:21:05,,45.174.234.180
+810,rZTTSi7wBD,40228013386,SP,São Paulo,,empresario,,2020-04-22 18:21:05,2020-04-22 18:21:05,,45.174.234.180
+811,2Spr16XeJj,33152605886,SP,São Paulo,,empresario,,2020-04-22 18:21:05,2020-04-22 18:21:05,,45.174.234.180
+812,Xp9ky0UOUT,86077727312,SP,São Paulo,,empresario,,2020-04-22 18:21:06,2020-04-22 18:21:06,,45.174.234.180
+813,jr0P0fktiW,93012916385,SP,São Paulo,,empresario,,2020-04-22 18:21:06,2020-04-22 18:21:06,,45.174.234.180
+814,zQFHdMhQvi,12285819132,SP,São Paulo,,empresario,,2020-04-22 18:21:41,2020-04-22 18:21:41,,45.174.234.180
+815,t1u8wqYie1,81718206140,SP,São Paulo,,empresario,,2020-04-22 18:21:41,2020-04-22 18:21:41,,45.174.234.180
+816,UuFVvPJc8g,87176088173,SP,São Paulo,,empresario,,2020-04-22 18:21:41,2020-04-22 18:21:41,,45.174.234.180
+817,cKX0kMuo2C,35023451703,SP,São Paulo,,empresario,,2020-04-22 18:21:42,2020-04-22 18:21:42,,45.174.234.180
+818,TYFHQtesFN,33510133787,SP,São Paulo,,empresario,,2020-04-22 18:21:42,2020-04-22 18:21:42,,45.174.234.180
+819,GoLkXNGR59,61875625844,SP,São Paulo,,empresario,,2020-04-22 18:21:43,2020-04-22 18:21:43,,45.174.234.180
+820,rdAdTSTZvW,77516246559,SP,São Paulo,,empresario,,2020-04-22 18:21:43,2020-04-22 18:21:43,,45.174.234.180
+821,qsvFKP1YPM,18679608758,SP,São Paulo,,empresario,,2020-04-22 18:21:43,2020-04-22 18:21:43,,45.174.234.180
+822,RoLEDHvuRL,81988337654,SP,São Paulo,,empresario,,2020-04-22 18:21:44,2020-04-22 18:21:44,,45.174.234.180
+823,igvr2WA0xf,36272994438,SP,São Paulo,,empresario,,2020-04-22 18:21:44,2020-04-22 18:21:44,,45.174.234.180
+824,yJi6Gm7FEr,49885710407,SP,São Paulo,,empresario,,2020-04-22 18:21:44,2020-04-22 18:21:44,,45.174.234.180
+825,qakXEjB8fs,47244904725,SP,São Paulo,,empresario,,2020-04-22 18:21:45,2020-04-22 18:21:45,,45.174.234.180
+826,8TAElaMgoP,72223774259,SP,São Paulo,,empresario,,2020-04-22 18:21:45,2020-04-22 18:21:45,,45.174.234.180
+827,LAMidDHz60,58167694169,SP,São Paulo,,empresario,,2020-04-22 18:21:45,2020-04-22 18:21:45,,45.174.234.180
+828,zSqcuBiUVF,71671598870,SP,São Paulo,,empresario,,2020-04-22 18:21:47,2020-04-22 18:21:47,,45.174.234.180
+829,zG9XAzD5kW,13825492309,SP,São Paulo,,empresario,,2020-04-22 18:21:47,2020-04-22 18:21:47,,45.174.234.180
+830,4YxErcXKof,94987211064,SP,São Paulo,,empresario,,2020-04-22 18:21:48,2020-04-22 18:21:48,,45.174.234.180
+831,HnF1pKrvEr,87294044350,SP,São Paulo,,empresario,,2020-04-22 18:21:48,2020-04-22 18:21:48,,45.174.234.180
+832,SHHJTgOAcB,68387627084,SP,São Paulo,,empresario,,2020-04-22 18:21:48,2020-04-22 18:21:48,,45.174.234.180
+833,fbG9FbXNXu,41916677365,SP,São Paulo,,empresario,,2020-04-22 18:21:49,2020-04-22 18:21:49,,45.174.234.180
+834,XKPrn5X2zx,93914178721,SP,São Paulo,,empresario,,2020-04-22 18:21:49,2020-04-22 18:21:49,,45.174.234.180
+835,2LiApAsTig,22288586450,RN,Apodi,,empresario,,2020-04-22 18:22:01,2020-04-22 18:22:01,,45.174.234.180
+836,XQcdEC5f1n,59146519326,SP,São Paulo,,empresario,,2020-04-22 18:22:49,2020-04-22 18:22:49,,45.174.234.180
+837,5yAR5SJc8g,92156147705,SP,São Paulo,,empresario,,2020-04-22 18:22:49,2020-04-22 18:22:49,,45.174.234.180
+838,UYZVtVw44u,25042370003,SP,São Paulo,,empresario,,2020-04-22 18:22:49,2020-04-22 18:22:49,,45.174.234.180
+839,ynKoo2cy6o,51316200327,SP,São Paulo,,empresario,,2020-04-22 18:22:50,2020-04-22 18:22:50,,45.174.234.180
+840,9PB2XdmfXK,80941266161,SP,São Paulo,,empresario,,2020-04-22 18:22:52,2020-04-22 18:22:52,,45.174.234.180
+841,upL4Y3veeJ,72205607490,SP,São Paulo,,empresario,,2020-04-22 18:22:53,2020-04-22 18:22:53,,45.174.234.180
+842,dn0h2n8nUS,53129690540,SP,São Paulo,,empresario,,2020-04-22 18:22:54,2020-04-22 18:22:54,,45.174.234.180
+843,wqBCqxTZjA,65715175233,SP,São Paulo,,empresario,,2020-04-22 18:22:54,2020-04-22 18:22:54,,45.174.234.180
+844,YaF4DzyZgr,70200761319,SP,São Paulo,,empresario,,2020-04-22 18:22:55,2020-04-22 18:22:55,,45.174.234.180
+845,pw1XZsmT6j,93795245257,SP,São Paulo,,empresario,,2020-04-22 18:22:55,2020-04-22 18:22:55,,45.174.234.180
+846,IlvXuwNCbK,42959700566,SP,São Paulo,,empresario,,2020-04-22 18:22:55,2020-04-22 18:22:55,,45.174.234.180
+847,pwuA4ahdDp,19027368347,SP,São Paulo,,empresario,,2020-04-22 18:22:56,2020-04-22 18:22:56,,45.174.234.180
+848,GK23q3YwR6,41129967691,SP,São Paulo,,empresario,,2020-04-22 18:22:56,2020-04-22 18:22:56,,45.174.234.180
+849,Z7Kg7Slnkd,34363420247,SP,São Paulo,,empresario,,2020-04-22 18:22:56,2020-04-22 18:22:56,,45.174.234.180
+850,QBSxcXgDAJ,59300580173,SP,São Paulo,,empresario,,2020-04-22 18:22:57,2020-04-22 18:22:57,,45.174.234.180
+851,Rx9PRN5QGU,94285104926,SP,São Paulo,,empresario,,2020-04-22 18:23:07,2020-04-22 18:23:07,,45.174.234.180
+852,lNyd8pjgpL,54156990298,SC,Chapecó,,empresario,,2020-04-22 18:23:39,2020-04-22 18:23:39,,177.75.128.197
+853,0hkuMsGMzg,51297188159,RN,Apodi,,empresario,,2020-04-22 18:25:33,2020-04-22 18:25:33,,131.161.135.18
+854,91UZ4ct6uU,34024703348,SC,Chapecó,,empresario,,2020-04-22 18:27:04,2020-04-22 18:27:04,,186.226.121.239
+855,efEPBA98p2,19988413518,MG,Uberlândia,,dirigente,,2020-04-22 18:31:38,2020-04-22 18:31:38,,186.210.161.149
+856,lfjfS5fB7V,98998992932,RN,Pau dos Ferros,,empresario,,2020-04-22 18:33:17,2020-04-22 18:33:17,,177.37.189.75
+857,REVKFSZOfi,97420161934,SC,Maravilha,,empresario,,2020-04-22 18:36:13,2020-04-22 18:36:13,,177.75.128.10
+858,Id3iQ8CNaA,97147846976,SC,Chapecó,,empresario,,2020-04-22 18:39:22,2020-04-22 18:39:22,,177.75.128.34
+859,KPcLoH7LJq,13248025155,SC,Maravilha,,empresario,,2020-04-22 18:42:26,2020-04-22 18:42:26,,187.45.103.164
+860,Ebaerxt3tZ,30465797847,SC,Chapecó,,empresario,,2020-04-22 18:46:22,2020-04-22 18:46:22,,187.45.103.164
+861,JwL83NsNLI,98818818978,SC,Maravilha,,empresario,,2020-04-22 19:00:32,2020-04-22 19:00:32,,191.245.77.3
+862,0REzPrPSqf,84132393617,SC,Maravilha,,empresario,,2020-04-22 19:02:28,2020-04-22 19:02:28,,186.226.113.113
+863,chJQFUkcvi,95738103105,PR,Curitiba,,empresario,,2020-04-22 19:03:45,2020-04-22 19:03:45,,191.245.77.3
+864,x0ubOYHGUI,57563737644,SC,Maravilha,,empresario,,2020-04-22 19:06:00,2020-04-22 19:06:00,,191.173.70.132
+865,OSU8u2nWsw,79551763664,SC,Maravilha,,empresario,,2020-04-22 19:06:39,2020-04-22 19:06:39,,200.193.68.131
+866,x6xgTDQvnx,89468771331,SC,Chapecó,,empresario,,2020-04-22 19:08:23,2020-04-22 19:08:23,,168.181.217.187
+867,EJfAd1KE2i,44287312012,RN,Pau dos Ferros,,empresario,,2020-04-22 19:09:38,2020-04-22 19:09:38,,177.37.188.220
+868,dP7No48S4d,86051719859,SC,Maravilha,,empresario,,2020-04-22 19:11:23,2020-04-22 19:11:23,,186.226.127.31
+869,PqL5WHHBob,79556840374,PB,Santa Rita,,empresario,,2020-04-22 19:13:44,2020-04-22 19:13:44,,177.37.188.220
+870,ZYoRRnnO8h,80432284269,SC,Cunha Porã,,empresario,,2020-04-22 19:13:49,2020-04-22 19:13:49,,179.252.213.71
+871,qhkeGvuJ9T,18229263476,SC,Maravilha,,empresario,,2020-04-22 19:16:13,2020-04-22 19:16:13,,177.75.128.205
+872,8cg3Ik7dus,12412383691,RS,Rio Grande,,empresario,,2020-04-22 19:19:21,2020-04-22 19:19:21,,179.189.135.138
+873,KPZRjF2R0L,35958757181,SC,Chapecó,,empresario,,2020-04-22 19:22:01,2020-04-22 19:22:01,,177.75.128.205
+874,yhpngtVZb5,67034854548,SC,Chapecó,,empresario,,2020-04-22 19:29:43,2020-04-22 19:29:43,,179.252.213.71
+875,fR4br4JGmA,41348416851,SC,Maravilha,,empresario,,2020-04-22 19:29:49,2020-04-22 19:29:49,,177.75.129.3
+876,CRhOP1c4YB,63800302841,SC,Chapecó,,empresario,,2020-04-22 19:34:05,2020-04-22 19:34:05,,177.75.129.3
+877,kMCSDPi30S,90325445085,SP,Mococa,,dirigente,,2020-04-22 19:53:57,2020-04-22 19:53:57,,177.54.76.232
+878,ZUJG3wMSjI,18074359954,SC,Maravilha,,empresario,,2020-04-22 20:05:08,2020-04-22 20:05:08,,186.226.127.79
+879,7f5fNVYT4R,62958719739,RS,Caxias do Sul,,dirigente,,2020-04-22 20:24:59,2020-04-22 20:24:59,,152.241.64.69
+880,v6b0MgJOJa,34506381526,SC,Maravilha,,empresario,,2020-04-22 20:32:35,2020-04-22 20:32:35,,177.75.129.172
+881,5KXyYpeMFc,66443501934,PB,Santa Rita,,empresario,,2020-04-22 20:47:15,2020-04-22 20:47:15,,177.37.189.75
+882,691XY60YAL,61737206508,SC,Maravilha,,empresario,,2020-04-22 20:54:27,2020-04-22 20:54:27,,186.226.113.36
+883,8FOHSPA2Fv,58149437503,RN,Pau dos Ferros,,empresario,,2020-04-22 21:09:01,2020-04-22 21:09:01,,177.84.194.69
+884,lp3IwJmYbn,84392050728,PR,Pato Branco,,dirigente,,2020-04-22 21:10:58,2020-04-22 21:10:58,,177.75.106.135
+885,fP14R0UD6s,11635510139,PR,Pato Branco,,dirigente,,2020-04-22 21:17:01,2020-04-22 21:17:01,,177.75.106.135
+886,EB2swo65QA,32740171533,RN,São Francisco do Oeste,,empresario,,2020-04-22 21:17:28,2020-04-22 21:17:28,,177.84.194.1
+887,ElCtVlWKtF,65542224426,SC,Maravilha,,empresario,,2020-04-22 21:17:59,2020-04-22 21:17:59,,168.181.216.14
+888,2zhM0NrrE9,82419598056,SC,Chapecó,,empresario,,2020-04-22 21:20:25,2020-04-22 21:20:25,,168.181.216.14
+889,Oa2aRki7yJ,27707583620,SP,São João da Boa Vista,,dirigente,,2020-04-22 21:32:34,2020-04-22 21:32:34,,170.247.52.158
+890,ik1bjPrCNb,51094674211,SP,São Paulo,,empresario,,2020-04-22 21:32:44,2020-04-22 21:32:44,,177.84.194.1
+891,ZWQH4CruEG,42854581275,RN,São Francisco do Oeste,,empresario,,2020-04-22 21:52:42,2020-04-22 21:52:42,,177.84.194.1
+892,TgXGWOM5oR,68936781217,SC,Maravilha,,empresario,,2020-04-22 22:03:30,2020-04-22 22:03:30,,177.75.128.123
+893,TK5YZ8nUcG,42282705227,SC,Chapecó,,empresario,,2020-04-22 22:11:41,2020-04-22 22:11:41,,177.75.128.123
+894,ZzAsVuzfpM,15956243341,RN,Tenente Ananias,,empresario,,2020-04-22 22:14:36,2020-04-22 22:14:36,,138.219.68.9
+895,SphvvwwS4L,21859306986,RS,Pelotas,,dirigente,,2020-04-23 04:32:47,2020-04-23 04:32:47,,177.7.2.253
+896,z0vjOdS1Z9,97300831126,SC,Maravilha,,empresario,,2020-04-23 06:57:01,2020-04-23 06:57:01,,187.45.123.46
+897,ISONBvabRs,57206547409,RN,Tenente Ananias,,empresario,,2020-04-23 07:44:49,2020-04-23 07:44:49,,191.37.208.123
+898,XcNyrqktOB,58501149872,Pernambuco,Recife,,empresario,,2020-04-23 07:51:05,2020-04-23 07:51:05,,189.40.100.77
+899,GcZ1OmBM4E,68940168973,PB,Santa Rita,,empresario,,2020-04-23 08:06:01,2020-04-23 08:06:01,,177.37.188.1
+900,uppdOF10EQ,49875318817,SP,Mocóca,,empresario,,2020-04-23 08:26:36,2020-04-23 08:26:36,,131.196.76.236
+901,4zJiVZfGLo,73747112322,SP,Taubaté,,empresario,,2020-04-23 08:58:55,2020-04-23 08:58:55,,191.7.118.175
+902,SDQH4tvgVv,28791447896,SC,Jaraguá do Sul,,dirigente,,2020-04-23 09:13:44,2020-04-23 09:13:44,,179.190.117.175
+903,PXEhMwI1lm,78537669973,SP,São Paulo,,empresario,,2020-04-23 09:14:10,2020-04-23 09:14:10,,177.84.194.8
+904,blENgYwihE,53014632156,RN,Apodi,,empresario,,2020-04-23 09:15:17,2020-04-23 09:15:17,,177.73.15.109
+905,x6kdH4s6Ek,54155454188,DF,Brasília,,empresario,,2020-04-23 09:26:29,2020-04-23 09:26:29,,179.10.248.126
+906,IAJjJSIMZN,58663840140,SC,Videira,,empresario,,2020-04-23 10:01:16,2020-04-23 10:01:16,,201.159.251.29
+907,YpdmfqkPcX,64104911764,RN,Tenente Ananias,,empresario,,2020-04-23 10:13:48,2020-04-23 10:13:48,,191.37.215.239
+908,WvKvwEjqx9,96991930208,SC,Videira,,dirigente,,2020-04-23 10:14:39,2020-04-23 10:14:39,,186.225.9.240
+909,J4ABJzjtpL,48829781799,SC,Videira,,empresario,,2020-04-23 10:20:58,2020-04-23 10:20:58,,186.225.9.240
+910,5mx4wBUlv4,27951601608,SC,Videira,,empresario,,2020-04-23 10:23:34,2020-04-23 10:23:34,,186.225.9.240
+911,ZXmS2dtOOX,86238666349,SC,Videira,,empresario,,2020-04-23 10:33:01,2020-04-23 10:33:01,,187.55.21.59
+912,lq2aafjq6R,73388199480,SC,Videira,,dirigente,,2020-04-23 10:33:07,2020-04-23 10:33:07,,177.75.170.134
+913,pY77uBZfpp,59077441715,SC,Curitibanos,,dirigente,,2020-04-23 10:33:44,2020-04-23 10:33:44,,177.37.88.86
+914,ay95KuJxKI,16649073730,SC,Joaçaba,,empresario,,2020-04-23 10:36:03,2020-04-23 10:36:03,,187.55.21.59
+915,P33RCkED85,17525710579,SC,Videira,,empresario,,2020-04-23 10:40:55,2020-04-23 10:40:55,,168.90.171.227
+916,rRFCOtAiOg,14969535632,CE,Jaguaribe,,empresario,,2020-04-23 10:41:52,2020-04-23 10:41:52,,187.19.150.110
+917,kHIk0OkPSL,83536895941,SC,Chapecó,,empresario,,2020-04-23 10:43:55,2020-04-23 10:43:55,,186.226.125.91
+918,e4MKQF4zKE,32952511752,CE,Jaguaribe,,empresario,,2020-04-23 11:01:05,2020-04-23 11:01:05,,187.19.150.110
+919,jrkSju2ZLT,57720574201,SC,Chapecó,,empresario,,2020-04-23 11:25:57,2020-04-23 11:25:57,,187.45.103.234
+920,xfVikUhthc,70703417179,RS,Caxias do Sul,,empresario,,2020-04-23 11:26:10,2020-04-23 11:26:10,,168.197.77.131
+921,puiKstkiJ9,77272034194,RS,Caxias do Sul,,empresario,,2020-04-23 12:00:31,2020-04-23 12:00:31,,187.85.136.145
+922,7LJttTWhqW,22404024451,RS,Caxias do Sul,,empresario,,2020-04-23 12:05:53,2020-04-23 12:05:53,,187.85.136.145
+923,X3ABUCtgrb,78693541898,RS,Caxias do Sul,,empresario,,2020-04-23 12:14:59,2020-04-23 12:14:59,,179.105.225.19
+924,VJoJPfqKbX,77773862383,RS,Caxias do Sul,,empresario,,2020-04-23 12:20:57,2020-04-23 12:20:57,,179.105.225.19
+925,KEeg8Yp24X,22877357187,DF,Brasília,,empresario,,2020-04-23 12:25:40,2020-04-23 12:25:40,,177.235.30.157
+926,F8zDPgyxMS,99688613219,RS,Caxias do Sul,,empresario,,2020-04-23 12:35:53,2020-04-23 12:35:53,,179.216.51.74
+927,QBAFtmuf1b,38387532648,RS,Caxias do Sul,,empresario,,2020-04-23 12:39:22,2020-04-23 12:39:22,,189.103.112.216
+928,KjkyThitsI,83898489275,RS,Caxias do Sul,,empresario,,2020-04-23 12:39:42,2020-04-23 12:39:42,,179.216.51.74
+929,q6bJuJXzs5,51102171111,RS,Porto Alegre,,empresario,,2020-04-23 12:51:05,2020-04-23 12:51:05,,177.79.77.18
+930,2KOcx4BmL5,79626470981,MG,Montes Claros,,empresario,,2020-04-23 12:53:37,2020-04-23 12:53:37,,191.242.114.54
+931,xrpHGJ7NBP,37892756992,DF,Brasília,,dirigente,,2020-04-23 13:00:11,2020-04-23 13:00:11,,177.235.30.157
+932,UQpaLVnx8E,95039982353,RS,Caxias do Sul,,empresario,,2020-04-23 13:13:34,2020-04-23 13:13:34,,189.114.143.176
+933,pWo7DZvPLa,25836562495,RS,Caxias do Sul,,empresario,,2020-04-23 13:20:03,2020-04-23 13:20:03,,189.114.143.176
+934,tyUSFLsbJ0,73475072332,RS,Caxias do Sul,,empresario,,2020-04-23 13:34:37,2020-04-23 13:34:37,,177.79.7.157
+935,iM4zle0aP3,84350356585,RS,Caxias do Sul,,empresario,,2020-04-23 13:37:37,2020-04-23 13:37:37,,189.114.87.102
+936,7uDvdCJzzm,22891036495,SC,Chapecó,,empresario,,2020-04-23 13:38:34,2020-04-23 13:38:34,,186.226.127.31
+937,tQIzjJqa9j,31238252124,RN,Tenente Ananias,,empresario,,2020-04-23 13:38:55,2020-04-23 13:38:55,,177.75.21.182
+938,lNELiXvKqP,14784538606,RS,Caxias do Sul,,empresario,,2020-04-23 13:42:44,2020-04-23 13:42:44,,189.114.87.102
+939,WmwmAj2MWU,28169469945,RS,Caxias do Sul,,empresario,,2020-04-23 13:46:16,2020-04-23 13:46:16,,177.156.35.226
+940,Te8yWkafFB,43187707695,RS,Porto Alegre,,empresario,,2020-04-23 13:47:05,2020-04-23 13:47:05,,177.79.3.71
+941,aZNiUYHRy4,82555472352,RS,Caxias do Sul,,empresario,,2020-04-23 13:48:02,2020-04-23 13:48:02,,187.71.144.110
+942,PsnhCWBoQz,82611796059,RS,Porto Alegre,,empresario,,2020-04-23 13:51:37,2020-04-23 13:51:37,,187.71.144.110
+943,QMi1KtilNe,77293346230,RS,Porto Alegre,,empresario,,2020-04-23 13:53:16,2020-04-23 13:53:16,,187.71.144.110
+944,7elF8lYIXy,75009992886,RS,Porto Alegre,,empresario,,2020-04-23 13:53:32,2020-04-23 13:53:32,,187.71.144.110
+945,dUBahtcuX0,37526949909,RS,Caxias do Sul,,empresario,,2020-04-23 13:53:40,2020-04-23 13:53:40,,177.156.35.226
+946,qPncXzs0iM,22538426509,RS,Caxias do Sul,,empresario,,2020-04-23 13:54:11,2020-04-23 13:54:11,,177.51.70.121
+947,NpZdYBPkNT,19948887731,RS,Caxias do Sul,,empresario,,2020-04-23 13:58:38,2020-04-23 13:58:38,,200.185.195.72
+948,lJkqGnZdiZ,41321002119,RS,Caxias do Sul,,empresario,,2020-04-23 13:58:42,2020-04-23 13:58:42,,187.71.136.244
+949,iwzCkNumMD,39522737716,RS,Caxias do Sul,,empresario,,2020-04-23 13:59:28,2020-04-23 13:59:28,,187.71.145.79
+950,JXgx3bxxWm,98667867020,RS,Caxias do Sul,,empresario,,2020-04-23 14:00:26,2020-04-23 14:00:26,,189.127.17.15
+951,7KjBMjnGPi,47523841303,RS,Farroupilha,,empresario,,2020-04-23 14:01:29,2020-04-23 14:01:29,,200.18.117.247
+952,P7q4iijXa2,77988605443,RS,Porto Alegre,,empresario,,2020-04-23 14:02:57,2020-04-23 14:02:57,,187.71.145.79
+953,Bbz8emEgAL,77881789864,RS,Porto Alegre,,empresario,,2020-04-23 14:03:14,2020-04-23 14:03:14,,187.71.136.244
+954,Qf1GCdS2Ls,91565930503,RS,Caxias do Sul,,empresario,,2020-04-23 14:09:56,2020-04-23 14:09:56,,189.7.111.94
+955,onhfpYVUv2,71309332638,RS,Caxias do Sul,,empresario,,2020-04-23 14:17:02,2020-04-23 14:17:02,,179.235.254.109
+956,2ZIw29YAN9,45220666057,PR,Maringá,,dirigente,,2020-04-23 14:21:39,2020-04-23 14:21:39,,189.58.38.224
+957,jaOGTyCVMY,75294083622,SC,Campos Novos,,empresario,,2020-04-23 14:33:20,2020-04-23 14:33:20,,177.37.71.217
+958,e2ftsZEpJj,59791521821,SC,Campos Novos,,empresario,,2020-04-23 14:34:17,2020-04-23 14:34:17,,170.150.2.34
+959,waKzFZNoFe,54183317562,SC,Campos Novos,,empresario,,2020-04-23 14:38:30,2020-04-23 14:38:30,,177.37.71.217
+960,2SzOr0lMqi,37048408701,RS,Caxias do Sul,,empresario,,2020-04-23 14:39:57,2020-04-23 14:39:57,,186.222.119.22
+961,O3ZqUTwj84,77418375434,SC,Campos Novos,,dirigente,,2020-04-23 14:40:18,2020-04-23 14:40:18,,170.150.2.34
+962,whBykiIMia,68784197052,RS,Caxias do Sul,,empresario,,2020-04-23 14:46:10,2020-04-23 14:46:10,,187.36.17.206
+963,2PQZKLOx3q,53212624904,RS,Caxias do Sul,,empresario,,2020-04-23 14:47:30,2020-04-23 14:47:30,,177.134.94.205
+964,luchkszxts,72604803591,RS,Caxias do Sul,,empresario,,2020-04-23 14:48:12,2020-04-23 14:48:12,,177.10.104.149
+965,mAOhb0AWzN,60175244384,RS,Caxias do Sul,,empresario,,2020-04-23 14:49:39,2020-04-23 14:49:39,,191.245.72.212
+966,ehYQ0ypnGj,64977447013,MA,São Luís,,empresario,,2020-04-23 14:50:20,2020-04-23 14:50:20,,179.220.191.148
+967,URwXWKJGvI,67834908128,PB,Santa Rita,,empresario,,2020-04-23 14:50:32,2020-04-23 14:50:32,,177.37.188.46
+968,B6kFn4QEMB,74025798616,RS,Caxias do Sul,,empresario,,2020-04-23 14:51:04,2020-04-23 14:51:04,,177.10.104.149
+969,dqHJXANIIw,37637294479,PR,Curitiba,,empresario,,2020-04-23 14:56:19,2020-04-23 14:56:19,,191.245.72.212
+970,YySuUkkK47,56201958963,SC,Campos Novos,,empresario,,2020-04-23 15:00:10,2020-04-23 15:00:10,,170.0.123.1
+971,eoAU7b7r7w,56022175522,SC,Campos Novos,,empresario,,2020-04-23 15:01:54,2020-04-23 15:01:54,,177.37.71.176
+972,jXozvVmoVt,22758717508,SC,Curitibanos,,empresario,,2020-04-23 15:05:02,2020-04-23 15:05:02,,170.0.123.1
+973,RkuUi0Mpmv,94678062964,RN,São Francisco do Oeste,,empresario,,2020-04-23 15:06:11,2020-04-23 15:06:11,,177.84.194.1
+974,t6Fz3Uina7,59726148257,RS,Caxias do Sul,,empresario,,2020-04-23 15:06:30,2020-04-23 15:06:30,,177.132.206.249
+975,TCiHUGtyfR,52163764629,SC,Videira,,empresario,,2020-04-23 15:11:43,2020-04-23 15:11:43,,186.225.2.78
+976,tZz6crKqKt,44185497453,RS,Caxias do Sul,,empresario,,2020-04-23 15:22:01,2020-04-23 15:22:01,,177.66.29.37
+977,11rcyZ9VYu,47952548451,SP,São Paulo,,empresario,,2020-04-23 15:27:58,2020-04-23 15:27:58,,177.84.194.1
+978,MrZ6ALjyl7,12813395732,RS,Farroupilha,,empresario,,2020-04-23 15:45:47,2020-04-23 15:45:47,,200.18.117.247
+979,uTVpnuENhI,39442997151,RS,Caxias do Sul,,empresario,,2020-04-23 15:47:48,2020-04-23 15:47:48,,177.203.94.186
+980,47mgDy60t0,85836011706,RS,Farroupilha,,empresario,,2020-04-23 15:54:00,2020-04-23 15:54:00,,200.18.117.247
+981,zdxgClL04Z,17967413952,RS,Caxias do Sul,,empresario,,2020-04-23 16:00:55,2020-04-23 16:00:55,,189.114.124.189
+982,PRya1NPDar,83232541787,RS,Caxias do Sul,,empresario,,2020-04-23 16:05:45,2020-04-23 16:05:45,,187.58.165.216
+983,bLKDkh7NYA,80900008212,RS,Caxias do Sul,,empresario,,2020-04-23 16:07:36,2020-04-23 16:07:36,,189.114.124.189
+984,xGYZrpKVML,95876838061,RS,Caxias do Sul,,empresario,,2020-04-23 16:08:39,2020-04-23 16:08:39,,189.114.124.189
+985,T678uxj28w,95768948970,RS,Caxias do Sul,,empresario,,2020-04-23 16:09:14,2020-04-23 16:09:14,,189.114.124.189
+986,nD6IAQbftG,70567772882,RS,Caxias do Sul,,empresario,,2020-04-23 16:09:38,2020-04-23 16:09:38,,189.114.124.189
+987,paQtDW7Xrx,95274819098,RS,Caxias do Sul,,empresario,,2020-04-23 16:09:56,2020-04-23 16:09:56,,143.255.123.234
+988,QEBpdBGEgH,94556783279,RS,Caxias do Sul,,empresario,,2020-04-23 16:14:19,2020-04-23 16:14:19,,189.114.124.189
+989,3gsVBPfO6s,18881537355,RS,Porto Alegre,,empresario,,2020-04-23 16:25:56,2020-04-23 16:25:56,,179.89.61.227
+991,aNOO7fmgdd,57758700293,RS,Caxias do Sul,,empresario,,2020-04-23 16:53:31,2020-04-23 16:53:31,,177.134.82.176
+992,7E0U7NFPM7,72343779895,RS,Caxias do Sul,,empresario,,2020-04-23 16:56:27,2020-04-23 16:56:27,,177.134.82.176
+993,46vOqfq7lQ,96426909719,SC,Campos Novos,,empresario,,2020-04-23 17:12:14,2020-04-23 17:12:14,,200.101.255.185
+994,TJiVvO7SGW,40243147960,DF,Brasília,,empresario,,2020-04-23 17:24:58,2020-04-23 17:24:58,,177.235.30.157
+995,PiLKDXfVUB,69439882994,RS,Caxias do Sul,,empresario,,2020-04-23 17:35:54,2020-04-23 17:35:54,,191.187.202.140
+996,KA27fiH13V,36962851556,RS,Caxias do Sul,,empresario,,2020-04-23 17:37:44,2020-04-23 17:37:44,,191.187.202.140
+997,QKWwOvgtL6,63185553611,SC,Chapecó,,empresario,,2020-04-23 17:39:18,2020-04-23 17:39:18,,187.45.102.78
+998,8kHzPgclC6,62711241785,SC,Campos Novos,,empresario,,2020-04-23 18:28:50,2020-04-23 18:28:50,,177.37.88.30
+999,yFqaEGA3ek,73790144510,SC,Curitibanos,,empresario,,2020-04-23 18:35:56,2020-04-23 18:35:56,,177.37.88.30
+1000,f4VysCoL2C,82037167940,RS,Caxias do Sul,,empresario,,2020-04-23 18:37:14,2020-04-23 18:37:14,,177.58.249.122
+1001,WFQVSOxI9k,64382109097,SC,Curitibanos,,empresario,,2020-04-23 18:37:46,2020-04-23 18:37:46,,177.37.88.30
+1002,f1lC1zV0UY,33972188420,SC,Curitibanos,,empresario,,2020-04-23 18:37:54,2020-04-23 18:37:54,,177.37.88.30
+1003,1LjzbGgvi6,42569662071,SC,Curitibanos,,empresario,,2020-04-23 18:38:17,2020-04-23 18:38:17,,177.37.88.30
+1004,QgoE61OxQz,21217632442,SC,Curitibanos,,empresario,,2020-04-23 18:39:12,2020-04-23 18:39:12,,177.37.88.30
+1005,fU8sNbdf5g,20905299135,SC,Curitibanos,,empresario,,2020-04-23 18:39:59,2020-04-23 18:39:59,,177.37.88.30
+1006,0WVHQIpmNI,89475987311,RS,Caxias do Sul,,empresario,,2020-04-23 19:03:02,2020-04-23 19:03:02,,177.78.248.148
+1007,ciSdSPMFnn,80330823552,DF,Brasília,,dirigente,,2020-04-23 19:03:56,2020-04-23 19:03:56,,177.235.30.157
+1008,caTutQFwBf,76141789327,RS,Caxias do Sul,,empresario,,2020-04-23 19:23:35,2020-04-23 19:23:35,,179.157.9.12
+1009,4dX1OlSo9L,11181195229,RS,Caxias do Sul,,empresario,,2020-04-23 19:37:39,2020-04-23 19:37:39,,189.32.154.71
+1010,I3VivWBi57,62662387192,RS,Caxias do Sul,,empresario,,2020-04-23 20:07:54,2020-04-23 20:07:54,,189.10.135.254
+1011,rJ1oeLP4PZ,15645202733,RS,Caxias do Sul,,empresario,,2020-04-23 20:15:18,2020-04-23 20:15:18,,187.85.136.145
+1012,dYvd7rbBRm,43778604795,RS,Caxias do Sul,,empresario,,2020-04-23 20:17:49,2020-04-23 20:17:49,,187.85.136.145
+1013,gE1Y5wClOv,51330564017,SC,Campos Novos,,empresario,,2020-04-23 20:28:42,2020-04-23 20:28:42,,191.245.72.106
+1014,tvjkqvhqxP,70059242942,RS,Farroupilha,,empresario,,2020-04-23 20:34:28,2020-04-23 20:34:28,,200.18.117.247
+1015,fwa9srApz3,96773529495,RS,Caxias do Sul,,empresario,,2020-04-23 20:40:06,2020-04-23 20:40:06,,189.32.158.18
+1016,BbI3SuD8Wm,43032956179,RS,Caxias do Sul,,empresario,,2020-04-23 20:45:08,2020-04-23 20:45:08,,189.32.158.18
+1017,SGmbonejGg,18264545588,RS,Caxias do Sul,,empresario,,2020-04-23 20:46:36,2020-04-23 20:46:36,,191.186.229.179
+1018,h5ggJF03ej,11066607572,SC,Araquari,,empresario,,2020-04-23 20:48:00,2020-04-23 20:48:00,,191.177.183.219
+1019,C0HU7vTIiq,46603734521,RS,Caxias do Sul,,empresario,,2020-04-23 20:49:09,2020-04-23 20:49:09,,191.186.229.179
+1020,ToMFdkJDNh,37871060394,PR,Curitiba,,empresario,,2020-04-23 20:53:24,2020-04-23 20:53:24,,191.177.183.219
+1021,RXYAUx30Z6,78868747605,RS,Caxias do Sul,,empresario,,2020-04-23 20:56:12,2020-04-23 20:56:12,,179.172.136.49
+1022,MIZeAdHwja,44568640156,RS,Caxias do Sul,,empresario,,2020-04-23 21:11:12,2020-04-23 21:11:12,,187.58.167.38
+1023,tAQr0SvX1U,22584785139,RS,Porto Alegre,,empresario,,2020-04-23 21:16:10,2020-04-23 21:16:10,,179.224.227.104
+1024,GGUYpHhzml,70499922130,RS,Caxias do Sul,,empresario,,2020-04-23 21:18:14,2020-04-23 21:18:14,,187.58.167.38
+1025,nTSd9GjBM9,91785264750,RS,Caxias do Sul,,empresario,,2020-04-23 21:18:30,2020-04-23 21:18:30,,187.58.167.38
+1026,ChYBYQ92Et,29856641776,RS,Caxias do Sul,,empresario,,2020-04-23 21:19:07,2020-04-23 21:19:07,,187.58.167.38
+1027,sP2kyPjmng,74791522100,RS,Caxias do Sul,,empresario,,2020-04-23 21:20:29,2020-04-23 21:20:29,,179.224.227.104
+1028,0Ed8h1jRZa,57023748075,RS,Caxias do Sul,,empresario,,2020-04-23 21:22:45,2020-04-23 21:22:45,,189.32.141.124
+1029,cGN6rkfMLN,39873868422,RS,Caxias do Sul,,empresario,,2020-04-23 21:26:52,2020-04-23 21:26:52,,189.32.141.124
+1030,stV8WuoNXi,58133880607,RS,Caxias do Sul,,empresario,,2020-04-23 21:39:25,2020-04-23 21:39:25,,187.66.182.162
+1031,hqRGaMsWJG,91767031219,RS,Caxias do Sul,,empresario,,2020-04-23 21:47:01,2020-04-23 21:47:01,,177.79.4.40
+1032,AzJcfotWk4,23057606914,RS,Caxias do Sul,,empresario,,2020-04-23 21:51:17,2020-04-23 21:51:17,,179.105.252.140
+1033,OjiSUED0qa,24780916189,RS,Caxias do Sul,,empresario,,2020-04-23 22:02:26,2020-04-23 22:02:26,,189.127.29.25
+1034,nkdaOzXsUb,86670296434,RS,Porto Alegre,,empresario,,2020-04-23 22:10:36,2020-04-23 22:10:36,,177.79.3.30
+1035,aJP9xdPLIH,76366294203,PR,Apucarana,,empresario,,2020-04-23 22:14:46,2020-04-23 22:14:46,,177.220.177.242
+1036,JHedTJaU25,78730645775,SC,Campos Novos,,empresario,,2020-04-23 22:26:49,2020-04-23 22:26:49,,177.37.90.90
+1037,yLrhSeTIxJ,55089416676,PB,Pombal,,empresario,,2020-04-23 23:18:52,2020-04-23 23:18:52,,177.75.21.182
+1038,iyCWFA1jeZ,43247958784,SC,Campos Novos,,empresario,,2020-04-23 23:25:57,2020-04-23 23:25:57,,177.37.71.172
+1039,y2HiLoOu1I,63213358311,SP,São Paulo,,empresario,,2020-04-24 00:59:05,2020-04-24 00:59:05,,187.19.255.207
+1040,SUtyVucMWC,74240796486,California,Mountain View,,,,2020-04-24 04:26:01,2020-04-24 04:26:01,,66.249.64.36
+1041,OAhr4xTfib,13864401690,California,Mountain View,,,,2020-04-24 05:26:03,2020-04-24 05:26:03,,66.249.64.40
+1042,8vlthmyhrp,11986225857,DF,Brasília,,dirigente,,2020-04-24 07:14:04,2020-04-24 07:14:04,,177.235.30.157
+1043,QLfk3A7ilW,40898901629,SC,Xanxere,,empresario,,2020-04-24 07:55:35,2020-04-24 07:55:35,,179.229.142.13
+1044,381xLau8xu,80636985851,PR,Curitiba,,empresario,,2020-04-24 07:58:10,2020-04-24 07:58:10,,179.229.142.13
+1045,u6XGepNKUO,72460524635,PR,Curitiba,,empresario,,2020-04-24 07:58:30,2020-04-24 07:58:30,,179.229.142.13
+1046,9Q5Ga7PH4z,45709192669,SC,Chapecó,,dirigente,,2020-04-24 08:39:13,2020-04-24 08:39:13,,191.5.178.73
+1047,CemGAk3j6e,89597846185,RS,Caxias do Sul,,empresario,,2020-04-24 08:52:51,2020-04-24 08:52:51,,177.79.4.254
+1048,nKoBLyqOnJ,43964061737,RS,Porto Alegre,,empresario,,2020-04-24 08:57:08,2020-04-24 08:57:08,,177.79.4.254
+1049,fT1H5Dzs0b,51665220051,SC,Florianópolis,,empresario,,2020-04-24 08:57:14,2020-04-24 08:57:14,,186.222.34.232
+1050,ZQhG7MZd9P,54612083425,RS,Campinas,,empresario,,2020-04-24 08:57:53,2020-04-24 08:57:53,,189.4.82.230
+1051,0F3AHmPGJE,34587501040,SC,Maravilha,,empresario,,2020-04-24 08:58:08,2020-04-24 08:58:08,,187.45.103.81
+1052,2JHL9SVt73,82288221530,SC,Urussanga,,dirigente,,2020-04-24 08:59:56,2020-04-24 08:59:56,,201.67.194.33
+1053,ODD4QYHWyt,69639302636,PR,Curitiba,,dirigente,,2020-04-24 09:01:33,2020-04-24 09:01:33,,187.27.98.220
+1054,gd34kVLggP,53480630558,RS,Canoinhas,,dirigente,,2020-04-24 09:02:54,2020-04-24 09:02:54,,179.127.176.87
+1055,diqxBx5kKL,58485702946,SC,Campos Novos,,empresario,,2020-04-24 09:02:55,2020-04-24 09:02:55,,177.37.90.164
+1056,I5AdYivpHN,85635015261,RS,Caxias do Sul,,dirigente,,2020-04-24 09:08:35,2020-04-24 09:08:35,,179.105.232.201
+1057,knfeUzmYjV,76347498749,SC,Rio do Sul,,dirigente,,2020-04-24 09:09:09,2020-04-24 09:09:09,,186.209.30.112
+1058,xuAzj8pSgh,60464502815,SC,Videira,,dirigente,,2020-04-24 09:14:54,2020-04-24 09:14:54,,201.159.251.29
+1059,t70nouFA9D,23226222810,SC,Correia Pinto,,empresario,,2020-04-24 09:18:44,2020-04-24 09:18:44,,138.121.93.192
+1060,ta62M2PKKh,53483837265,SC,Chapecó,,empresario,,2020-04-24 09:32:32,2020-04-24 09:32:32,,187.45.103.81
+1061,GiEelFerq2,78072808324,RS,Caxias do Sul,,empresario,,2020-04-24 09:33:22,2020-04-24 09:33:22,,177.214.54.165
+1062,dQiyJGIuHa,96217879219,SC,Urussanga,,dirigente,,2020-04-24 09:34:34,2020-04-24 09:34:34,,138.117.193.162
+1063,SaBOx9Wc6I,68721084045,SC,Florianópolis,,empresario,,2020-04-24 09:44:27,2020-04-24 09:44:27,,189.34.54.116
+1064,oVQTcjEiUR,51449641860,SC,Pinhalzinho,,dirigente,,2020-04-24 09:48:01,2020-04-24 09:48:01,,187.45.100.36
+1065,6PfR9OcgQh,45073914942,SC,Itaiópolis,,dirigente,,2020-04-24 09:48:20,2020-04-24 09:48:20,,168.232.26.47
+1066,yIfMpM5za7,38599422466,SC,Videira,,empresario,,2020-04-24 10:25:20,2020-04-24 10:25:20,,177.75.167.174
+1067,E4yFql5JDg,57581004030,PB,Campina Grande,,dirigente,,2020-04-24 10:41:38,2020-04-24 10:41:38,,177.37.152.154
+1068,MFIxuNmuQZ,79418830745,RS,Caxias do Sul,,empresario,,2020-04-24 10:44:33,2020-04-24 10:44:33,,187.36.17.206
+1069,StrToALMmz,37184460568,RS,Brusque,,empresario,,2020-04-24 10:53:58,2020-04-24 10:53:58,,177.104.4.227
+1070,KD3MWVL6rm,71685588601,SC,Capinzal,,empresario,,2020-04-24 11:09:12,2020-04-24 11:09:12,,177.84.168.18
+1071,xTyv9tpK8E,79399315370,SP,Ribeirão Preto,,dirigente,,2020-04-24 11:48:09,2020-04-24 11:48:09,,200.100.43.59
+1072,IZe6QuJIVG,43963294960,SC,Maravilha,,empresario,,2020-04-24 11:58:06,2020-04-24 11:58:06,,187.45.103.44
+1073,cy1KE1dES6,84309482569,MG,Nova Lima,,dirigente,,2020-04-24 12:05:08,2020-04-24 12:05:08,,201.17.157.228
+1074,KdCZ6kxQPn,64783971859,MG,Belo Horizonte,,,,2020-04-24 12:11:03,2020-04-24 12:11:03,,201.17.157.228
+1075,GXbw3H3FCb,91384103512,MG,Nova Lima,,empresario,,2020-04-24 12:20:58,2020-04-24 12:20:58,,201.17.157.228
+1076,wsYceL5ToK,31138715683,MG,Belo Horizonte,,empresario,,2020-04-24 12:23:31,2020-04-24 12:23:31,,201.17.157.228
+1077,Ra56Adsrba,54047085484,MG,Belo Horizonte,,empresario,,2020-04-24 12:23:47,2020-04-24 12:23:47,,201.17.157.228
+1078,rramfRcLoL,72372660078,SC,Itapema,,dirigente,,2020-04-24 12:23:56,2020-04-24 12:23:56,,186.251.108.225
+1079,PBKGLNke0N,45922854128,SC,Florianópolis,,empresario,,2020-04-24 12:24:38,2020-04-24 12:24:38,,186.249.200.149
+1080,jMi2Xc42XC,17820720043,RS,Caxias do Sul,,empresario,,2020-04-24 12:26:31,2020-04-24 12:26:31,,179.216.51.74
+1081,LxS3UqkmPl,77200012649,SC,Itapema,,dirigente,,2020-04-24 12:37:30,2020-04-24 12:37:30,,138.59.128.72
+1082,JVFnyFOIPY,51456130668,DF,Brasília,,,,2020-04-24 12:40:56,2020-04-24 12:40:56,,177.235.30.157
+1083,15lyYARaDf,93812235919,MG,Nova Lima,,empresario,,2020-04-24 13:06:53,2020-04-24 13:06:53,,177.182.189.93
+1084,DtW1HgHYmH,83845863915,California,Mountain View,,,,2020-04-24 13:26:03,2020-04-24 13:26:03,,66.249.64.40
+1085,dOxsad2uhm,64651150796,SC,Itapema,,empresario,,2020-04-24 13:40:18,2020-04-24 13:40:18,,177.2.5.26
+1086,RszLznro9z,18554444145,SC,Campos Novos,,dirigente,,2020-04-24 13:40:28,2020-04-24 13:40:28,,177.3.179.90
+1087,RTtKPXRTLF,57343056593,SC,Lages,,dirigente,,2020-04-24 13:53:12,2020-04-24 13:53:12,,177.3.179.90
+1088,7sSpYh7L7G,31745271603,SC,Lages,,dirigente,,2020-04-24 13:54:48,2020-04-24 13:54:48,,177.3.179.90
+1089,h7k4Qi3L4D,67502371836,SC,São Bento do Sul,,empresario,,2020-04-24 13:59:27,2020-04-24 13:59:27,,138.118.31.171
+1090,KbEWvifqaH,30326224616,SC,Arroio Trinta,,dirigente,,2020-04-24 14:24:04,2020-04-24 14:24:04,,187.87.191.52
+1091,oKmmrjVVYt,67670962251,RS,Lajeado,,empresario,,2020-04-24 14:30:30,2020-04-24 14:30:30,,177.85.226.29
+1092,vDSw68Miwx,86222761562,SC,Tubarão,,dirigente,,2020-04-24 14:55:53,2020-04-24 14:55:53,,177.124.51.37
+1093,7Qb9FVUWpG,65475911838,PR,Toledo,,dirigente,,2020-04-24 15:26:54,2020-04-24 15:26:54,,168.181.51.251
+1094,RbVAvBxHTl,24469155617,RS,Caxias do Sul,,empresario,,2020-04-24 15:51:30,2020-04-24 15:51:30,,200.185.195.72
+1095,6t024i7cSO,89253546227,RS,Caxias do Sul,,empresario,,2020-04-24 16:12:07,2020-04-24 16:12:07,,189.32.129.224
+1096,oNl6UDzUIC,49505103440,RS,Caxias do Sul,,empresario,,2020-04-24 16:15:58,2020-04-24 16:15:58,,189.32.129.224
+1097,8e7VBBMBnC,28323732838,RS,Caxias do Sul,,empresario,,2020-04-24 16:30:04,2020-04-24 16:30:04,,179.216.63.190
+1098,1QHzhwX1TX,73041133452,PR,Curitiba,,empresario,,2020-04-24 16:48:55,2020-04-24 16:48:55,,191.245.92.7
+1099,284msOqAkU,19136561998,RS,Caxias do Sul,,dirigente,,2020-04-24 16:52:28,2020-04-24 16:52:28,,189.32.152.231
+1100,TCjcF68Ail,10750521058,RS,Caxias do Sul,,empresario,,2020-04-24 18:23:57,2020-04-24 18:23:57,,201.139.95.63
+1101,7iXUCcVqB3,34254562500,SP,São Paulo,,empresario,,2020-04-24 18:44:17,2020-04-24 18:44:17,,187.19.255.207
+1102,MBgB9YKtz0,21727487770,SC,Jaraguá do Sul,,dirigente,,2020-04-24 19:13:09,2020-04-24 19:13:09,,177.74.212.248
+1103,vVw9Zj5U4c,42762637622,RN,Alexandria,,empresario,,2020-04-24 20:08:40,2020-04-24 20:08:40,,187.19.203.170
+1104,82a57NXsjQ,55763629307,PR,Curitiba,,empresario,,2020-04-24 20:09:03,2020-04-24 20:09:03,,191.245.73.47
+1105,6OmNC5VBtJ,24254241609,PB,Campina Grande,,dirigente,,2020-04-24 20:15:23,2020-04-24 20:15:23,,187.183.197.89
+1106,McWI7S7Oug,14236370897,RS,Rio Grande,,empresario,,2020-04-24 20:52:58,2020-04-24 20:52:58,,179.189.147.85
+1107,UM24hw3fZV,74911029851,RS,Rio Grande,,empresario,,2020-04-24 20:52:58,2020-04-24 20:52:58,,179.189.147.85
+1108,s5DIrUWFrb,62823084285,RS,Rio Grande,,empresario,,2020-04-24 20:52:59,2020-04-24 20:52:59,,179.189.147.85
+1109,Eew9wWHlCb,52570480136,RS,Rio Grande,,empresario,,2020-04-24 20:52:59,2020-04-24 20:52:59,,179.189.147.85
+1110,vfRQSCU38G,36703614965,RS,Rio Grande,,empresario,,2020-04-24 20:52:59,2020-04-24 20:52:59,,179.189.147.85
+1111,glRS9sxE6Q,79834788348,RS,Rio Grande,,empresario,,2020-04-24 20:53:00,2020-04-24 20:53:00,,179.189.147.85
+1112,DjT7HH5Zel,28937088451,RS,Rio Grande,,empresario,,2020-04-24 20:53:00,2020-04-24 20:53:00,,179.189.147.85
+1113,BjBvEpffhQ,25884513603,RS,Rio Grande,,empresario,,2020-04-24 20:53:01,2020-04-24 20:53:01,,179.189.147.85
+1114,df30lDasW2,42497011004,RS,Rio Grande,,empresario,,2020-04-24 20:53:01,2020-04-24 20:53:01,,179.189.147.85
+1115,ljckO4oN8V,33018560102,RS,Rio Grande,,empresario,,2020-04-24 20:53:01,2020-04-24 20:53:01,,179.189.147.85
+1116,5HFGPX1Mil,24465641924,RS,Rio Grande,,empresario,,2020-04-24 20:53:02,2020-04-24 20:53:02,,179.189.147.85
+1117,i6Hn4SqHhS,23436866910,RS,Rio Grande,,empresario,,2020-04-24 20:53:02,2020-04-24 20:53:02,,179.189.147.85
+1118,NNhv4RRqwJ,63879592418,RS,Rio Grande,,empresario,,2020-04-24 20:53:02,2020-04-24 20:53:02,,179.189.147.85
+1119,uVnDRzKAeQ,48003667835,RS,Rio Grande,,empresario,,2020-04-24 20:53:02,2020-04-24 20:53:02,,179.189.147.85
+1120,kJmjfb5pms,15188642814,RS,Rio Grande,,empresario,,2020-04-24 20:53:03,2020-04-24 20:53:03,,179.189.147.85
+1121,ixE0w0HlE5,35045454744,RS,Rio Grande,,empresario,,2020-04-24 20:53:03,2020-04-24 20:53:03,,179.189.147.85
+1122,05XBSGjoZL,31192567525,RS,Rio Grande,,empresario,,2020-04-24 20:53:03,2020-04-24 20:53:03,,179.189.147.85
+1123,qSyZP81I47,78660277309,RS,Rio Grande,,empresario,,2020-04-24 20:53:04,2020-04-24 20:53:04,,179.189.147.85
+1124,E80SYMAGvh,97572504533,RS,Rio Grande,,empresario,,2020-04-24 20:53:05,2020-04-24 20:53:05,,179.189.147.85
+1125,Uhs3KSNTxz,44498090264,RS,Rio Grande,,empresario,,2020-04-24 20:53:05,2020-04-24 20:53:05,,179.189.147.85
+1126,uVCgoOZpwn,81438036710,RS,Rio Grande,,empresario,,2020-04-24 20:53:07,2020-04-24 20:53:07,,179.189.147.85
+1127,pBKPV6FgRp,51793289789,RS,Rio Grande,,empresario,,2020-04-24 20:53:07,2020-04-24 20:53:07,,179.189.147.85
+1128,Vm7ZSUw7OD,62675467110,RS,Rio Grande,,empresario,,2020-04-24 20:53:08,2020-04-24 20:53:08,,179.189.147.85
+1129,BZd7BzW71E,19987371144,RS,Rio Grande,,empresario,,2020-04-24 20:53:08,2020-04-24 20:53:08,,179.189.147.85
+1130,JNm6p8a3NE,23906988371,RS,Rio Grande,,empresario,,2020-04-24 20:53:08,2020-04-24 20:53:08,,179.189.147.85
+1131,NZhfBF0DiO,92135036541,RS,Rio Grande,,empresario,,2020-04-24 20:53:09,2020-04-24 20:53:09,,179.189.147.85
+1132,FVQ3Jl5rVf,36193042523,RS,Rio Grande,,empresario,,2020-04-24 20:53:09,2020-04-24 20:53:09,,179.189.147.85
+1133,0YEjF6eYzI,88461102619,RS,Rio Grande,,empresario,,2020-04-24 20:53:09,2020-04-24 20:53:09,,179.189.147.85
+1134,Xyokn432l5,21063080960,RS,Rio Grande,,empresario,,2020-04-24 20:53:10,2020-04-24 20:53:10,,179.189.147.85
+1135,2ETOj692KW,38997051278,RS,Rio Grande,,empresario,,2020-04-24 20:53:10,2020-04-24 20:53:10,,179.189.147.85
+1136,BbEdYfAAsI,89383898987,RS,Rio Grande,,empresario,,2020-04-24 20:53:10,2020-04-24 20:53:10,,179.189.147.85
+1137,rP62AToacv,98633591742,RS,Rio Grande,,empresario,,2020-04-24 20:53:11,2020-04-24 20:53:11,,179.189.147.85
+1138,CzS6esgSCi,10792247010,RS,Rio Grande,,empresario,,2020-04-24 20:53:17,2020-04-24 20:53:17,,179.189.147.85
+1139,GtgLinPIi2,56904777018,RS,Rio Grande,,empresario,,2020-04-24 20:53:17,2020-04-24 20:53:17,,179.189.147.85
+1140,V4TAlk3n2V,92143294098,RS,Rio Grande,,empresario,,2020-04-24 20:53:17,2020-04-24 20:53:17,,179.189.147.85
+1141,hqxdbNt1hG,88737481040,RS,Rio Grande,,empresario,,2020-04-24 20:53:18,2020-04-24 20:53:18,,179.189.147.85
+1142,Dmo0E2KsCB,91780973174,RS,Rio Grande,,empresario,,2020-04-24 20:53:18,2020-04-24 20:53:18,,179.189.147.85
+1143,qNbnE49kBx,16696965829,RS,Rio Grande,,empresario,,2020-04-24 20:53:18,2020-04-24 20:53:18,,179.189.147.85
+1144,77uTdohXCG,78330693962,RS,Rio Grande,,empresario,,2020-04-24 20:53:19,2020-04-24 20:53:19,,179.189.147.85
+1145,yz47W2rSMc,19011213737,RS,Rio Grande,,empresario,,2020-04-24 20:53:19,2020-04-24 20:53:19,,179.189.147.85
+1146,rfpiraHcRZ,39557911702,RS,Rio Grande,,empresario,,2020-04-24 20:53:19,2020-04-24 20:53:19,,179.189.147.85
+1147,CQbQiD1s77,94390541138,RS,Rio Grande,,empresario,,2020-04-24 20:53:19,2020-04-24 20:53:19,,179.189.147.85
+1148,tIzhVQ7cek,78087163590,RS,Rio Grande,,empresario,,2020-04-24 20:53:20,2020-04-24 20:53:20,,179.189.147.85
+1149,saDjmTN3zF,96354675567,RS,Rio Grande,,empresario,,2020-04-24 20:53:21,2020-04-24 20:53:21,,179.189.147.85
+1150,4srEF6Lmlq,43477906072,RS,Rio Grande,,empresario,,2020-04-24 20:53:21,2020-04-24 20:53:21,,179.189.147.85
+1151,26MRp8fFR8,36777491299,RS,Rio Grande,,empresario,,2020-04-24 20:53:21,2020-04-24 20:53:21,,179.189.147.85
+1152,2mPzm3AvP6,48873161794,RS,Rio Grande,,empresario,,2020-04-24 20:53:21,2020-04-24 20:53:21,,179.189.147.85
+1153,awjPKLgNwZ,74256827631,RS,Rio Grande,,empresario,,2020-04-24 20:53:22,2020-04-24 20:53:22,,179.189.147.85
+1154,Nmq09oadJe,23827090770,RS,Rio Grande,,empresario,,2020-04-24 20:53:22,2020-04-24 20:53:22,,179.189.147.85
+1155,ODcMy6iAMy,20382159287,RS,Rio Grande,,empresario,,2020-04-24 20:53:22,2020-04-24 20:53:22,,179.189.147.85
+1156,vmYOBoYjCt,96318176193,RS,Rio Grande,,empresario,,2020-04-24 20:53:23,2020-04-24 20:53:23,,179.189.147.85
+1157,G2yXak5Rze,90326309637,RS,Rio Grande,,empresario,,2020-04-24 20:53:23,2020-04-24 20:53:23,,179.189.147.85
+1158,gKXKuFGa2s,80429849075,RS,Rio Grande,,empresario,,2020-04-24 20:53:25,2020-04-24 20:53:25,,179.189.147.85
+1159,u8fYM2fvm7,71680020503,DF,Brasília,,dirigente,,2020-04-24 21:24:26,2020-04-24 21:24:26,,177.235.30.157
+1160,AEnLSCR8Kv,29216653211,PB,Catolé do Rocha,,empresario,,2020-04-24 21:25:42,2020-04-24 21:25:42,,191.253.86.226
+1161,KvfoSGFI4Y,33457155087,PR,Almirante Tamandaré,,,,2020-04-24 21:52:20,2020-04-24 21:52:20,,191.177.116.56
+1162,hrM9gbaZ84,33880135258,California,Mountain View,,,,2020-04-24 22:26:04,2020-04-24 22:26:04,,66.249.64.40
+1163,3eWq8rkjz5,22321229143,SC,Chapecó,,empresario,,2020-04-24 23:13:49,2020-04-24 23:13:49,,177.75.129.195
+1164,cmtzOSInYj,72923682327,SC,Chapecó,,empresario,,2020-04-24 23:14:43,2020-04-24 23:14:43,,177.75.129.195
+1165,Kk0yhtR7ZN,52700741700,Berlin,Berlin,,dirigente,,2020-04-25 03:34:45,2020-04-25 03:34:45,,176.9.4.107
+1166,n4a7KaaYub,62945370930,Berlin,Berlin,,empresario,,2020-04-25 03:34:49,2020-04-25 03:34:49,,176.9.4.107
+1167,eQI2g9FYXW,38665159596,Washington,Quincy,,,,2020-04-25 06:18:48,2020-04-25 06:18:48,,207.46.13.136
+1168,AfBhX5Y82C,50872817472,Washington,Quincy,,,,2020-04-25 06:18:49,2020-04-25 06:18:49,,207.46.13.136
+1169,6Nm1jtPW3w,98751603616,MG,Belo Horizonte,,dirigente,,2020-04-25 09:16:18,2020-04-25 09:16:18,,191.208.43.111
+1170,1Vs9L9ekyx,20953002180,SC,Capinzal,,empresario,,2020-04-25 10:59:59,2020-04-25 10:59:59,,177.84.174.64
+1171,GEtv53PZ9t,30452496730,PR,Dois Vizinhos,,dirigente,,2020-04-25 11:32:25,2020-04-25 11:32:25,,190.124.191.92
+1172,obcJI3z6EE,83270072555,SC,Concórdia,,dirigente,,2020-04-25 11:42:36,2020-04-25 11:42:36,,186.226.47.50
+1173,GDKDl6fwzS,18074789862,SP,São Paulo,,empresario,,2020-04-25 15:27:11,2020-04-25 15:27:11,,177.84.194.1
+1174,XUwhPrfj5t,60423665051,SP,São Paulo,,empresario,,2020-04-25 15:54:22,2020-04-25 15:54:22,,177.85.226.29
+1175,g5phi3apSE,40268823993,Île-de-France,Paris,,,,2020-04-26 13:18:01,2020-04-26 13:18:01,,54.36.150.86
+1176,8tULEmIHJ9,53920155558,PB,Santa Rita,,empresario,,2020-04-26 17:14:32,2020-04-26 17:14:32,,177.37.188.46
+1177,yjBEed8Xn3,76296056872,California,Mountain View,,empresario,,2020-04-26 23:54:50,2020-04-26 23:54:50,,66.249.64.36
+1178,alXhuxzQyA,93172766151,Virginia,Ashburn,,,,2020-04-27 05:01:29,2020-04-27 05:01:29,,46.229.168.138
+1179,klEhmrAIB9,36497841966,Virginia,Ashburn,,,,2020-04-27 05:01:30,2020-04-27 05:01:30,,46.229.168.136
+1180,c3bu6WzJAR,86196485678,Virginia,Ashburn,,,,2020-04-27 05:01:31,2020-04-27 05:01:31,,46.229.168.129
+1181,Cu9XA0xOUh,22621755367,Virginia,Ashburn,,,,2020-04-27 05:01:33,2020-04-27 05:01:33,,46.229.168.153
+1182,B71tVV0uiO,85954736461,Virginia,Ashburn,,,,2020-04-27 05:01:34,2020-04-27 05:01:34,,46.229.168.144
+1183,XHzohZXlXs,35524082453,Virginia,Ashburn,,,,2020-04-27 05:01:36,2020-04-27 05:01:36,,46.229.168.135
+1184,v03DMm9kcz,93587417141,Virginia,Ashburn,,,,2020-04-27 05:01:37,2020-04-27 05:01:37,,46.229.168.143
+1185,QuG3xblUNQ,24621856249,RN,Pau dos Ferros,,empresario,,2020-04-27 07:20:46,2020-04-27 07:20:46,,177.37.190.33
+1186,AIGoH6U5TI,75325557459,SC,Urussanga,,dirigente,,2020-04-27 07:57:24,2020-04-27 07:57:24,,189.28.191.90
+1187,rYkUfcxxdd,27836536979,California,Mountain View,,dirigente,,2020-04-27 07:58:55,2020-04-27 07:58:55,,66.249.64.38
+1188,i3VhOpRPys,83757259990,SC,Lages,,empresario,,2020-04-27 08:41:58,2020-04-27 08:41:58,,189.4.101.40
+1189,fJaAEXrOC8,86928588091,SC,Lages,,dirigente,,2020-04-27 08:50:30,2020-04-27 08:50:30,,10.1.1.22
+1190,3dTyqFu2nO,80510418317,DF,Brasília,,dirigente,,2020-04-27 08:57:34,2020-04-27 08:57:34,,177.235.30.157
+1191,ifUaFCsyLU,81461272602,DF,Brasília,,empresario,,2020-04-27 09:00:43,2020-04-27 09:00:43,,177.235.30.157
+1192,Ux8ZGtAdxy,21675924314,SC,Lages,,dirigente,,2020-04-27 09:12:47,2020-04-27 09:12:47,,187.102.2.197
+1193,p71VbhV7Zn,95550019736,DF,Brasília,,dirigente,,2020-04-27 09:16:27,2020-04-27 09:16:27,,177.235.30.157
+1194,GIhKygU1uA,70326621420,SC,Lages,,dirigente,,2020-04-27 09:45:43,2020-04-27 09:45:43,,45.229.107.205
+1195,UJXj1lpM0g,85444385553,Île-de-France,Paris,,,,2020-04-27 10:10:24,2020-04-27 10:10:24,,54.36.149.107
+1196,RpxQE0gqch,83202802250,RS,Caxias do Sul,,empresario,,2020-04-27 11:53:36,2020-04-27 11:53:36,,189.35.221.6
+1197,2WBoETzQSO,63258018977,DF,Brasília,,empresario,,2020-04-27 12:20:38,2020-04-27 12:20:38,,177.235.30.157
+1198,TzRGiXG3rI,74122017752,DF,Brasília,,empresario,,2020-04-27 12:20:52,2020-04-27 12:20:52,,177.235.30.157
+1199,XoQ437VtAq,86111742500,DF,Brasília,,empresario,,2020-04-27 12:23:01,2020-04-27 12:23:01,,177.235.30.157
+1200,mfpFlkKxHb,48718618191,DF,Brasília,,empresario,,2020-04-27 12:24:19,2020-04-27 12:24:19,,177.235.30.157
+1201,wLY6tEubKp,35091858259,MT,Cuiabá,,dirigente,,2020-04-27 12:27:19,2020-04-27 12:27:19,,200.175.240.114
+1202,bmhRa0G9sl,36937348190,MT,Cuiabá,,dirigente,,2020-04-27 12:34:54,2020-04-27 12:34:54,,201.71.165.36
+1203,N5XK1hzQJR,27396108200,PB,Sousa,,empresario,,2020-04-27 13:11:28,2020-04-27 13:11:28,,138.219.68.9
+1204,fu2zkimhG6,43178834738,SC,Caxias do Sul,,empresario,,2020-04-27 13:39:20,2020-04-27 13:39:20,,168.0.120.128
+1205,zesXcMAGJ5,72680058581,DF,Brasília,,empresario,,2020-04-27 19:53:30,2020-04-27 19:53:30,,177.235.30.157
+1206,Cn5GpqLx7o,67726891171,PB,Desterro,,empresario,,2020-04-27 21:03:44,2020-04-27 21:03:44,,187.19.150.110
+1207,a9j0TkJn0P,64600606118,DF,Brasília,,empresario,,2020-04-28 09:05:44,2020-04-28 09:05:44,,177.235.30.157
+1208,B7x5pmV9aV,36309452657,MG,São Roque de Minas,,empresario,,2020-04-28 11:12:10,2020-04-28 11:12:10,,186.232.31.9
+1209,3YejxRU5wb,93747507678,SP,Socorro,,dirigente,,2020-04-28 11:50:52,2020-04-28 11:50:52,,177.86.98.147
+1210,dglWAJfmX7,42665883721,RS,Porto Alegre,,empresario,,2020-04-28 12:14:31,2020-04-28 12:14:31,,216.98.213.79
+1211,D70JChVpaV,78194459746,DF,Brasília,,empresario,,2020-04-28 14:17:08,2020-04-28 14:17:08,,189.94.33.100
+1212,IA6qF4Gp2t,24212104398,RS,Porto Alegre,,empresario,,2020-04-28 14:35:48,2020-04-28 14:35:48,,177.79.3.203
+1213,hu7mTpFWz5,85139550236,RS,Porto Alegre,,empresario,,2020-04-28 15:45:10,2020-04-28 15:45:10,,177.199.147.12
+1214,LAqkwxmbEC,94880686588,DF,Brasília,,empresario,,2020-04-28 15:48:49,2020-04-28 15:48:49,,177.235.30.157
+1215,ulDMAyXgap,83616640195,DF,Brasília,,dirigente,,2020-04-28 15:49:11,2020-04-28 15:49:11,,177.235.30.157
+1216,eQS4NG1PCS,32846251223,DF,Brasília,,dirigente,,2020-04-28 15:49:23,2020-04-28 15:49:23,,177.235.30.157
+1217,oUVkE8gf2N,22964696031,PB,João Pessoa,,dirigente,,2020-04-28 15:55:20,2020-04-28 15:55:20,,170.254.255.128
+1218,EXz7ntjT4j,23682868182,SP,São Paulo,,empresario,,2020-04-28 16:05:09,2020-04-28 16:05:09,,187.87.191.179
+1219,IAyuZ2JPaD,78739854302,SP,São Paulo,,empresario,,2020-04-28 16:16:48,2020-04-28 16:16:48,,45.174.234.59
+1220,kugHg8k7h4,67161205327,PR,Almirante Tamandaré,,,,2020-04-28 17:43:30,2020-04-28 17:43:30,,191.177.116.56
+1221,aRNJc8ivPO,33573202369,RS,Porto Alegre,,empresario,,2020-04-28 20:29:16,2020-04-28 20:29:16,,189.6.238.175
+1222,77G3wHJZVm,86020359178,RS,Caxias do Sul,,empresario,,2020-04-29 03:50:58,2020-04-29 03:50:58,,200.185.219.65
+1223,rpFbxTWQBn,76206543636,Île-de-France,Paris,,,,2020-04-29 06:46:36,2020-04-29 06:46:36,,54.36.148.171
+1224,QfoJyGvrjC,46500363694,SC,Videira,,empresario,,2020-04-29 07:16:21,2020-04-29 07:16:21,,168.232.233.217
+1225,49TkyodIuy,58644368853,RS,Porto Alegre,,empresario,,2020-04-29 09:54:38,2020-04-29 09:54:38,,189.6.239.78
+1226,lu6loq4LqU,44190714643,RS,Porto Alegre,,empresario,,2020-04-29 09:57:42,2020-04-29 09:57:42,,177.142.80.169
+1227,od4ZkC5KZ1,90996677908,RJ,Rio de Janeiro,,empresario,,2020-04-29 10:02:13,2020-04-29 10:02:13,,177.142.80.169
+1228,tyY860ZI04,68029971360,RS,Porto Alegre,,empresario,,2020-04-29 10:03:15,2020-04-29 10:03:15,,186.210.91.83
+1229,iIcUfTNA3O,60717220129,RS,Porto Alegre,,empresario,,2020-04-29 10:30:29,2020-04-29 10:30:29,,191.216.232.1
+1230,2JHCGtj3na,52384014222,RS,Porto Alegre,,empresario,,2020-04-29 10:32:48,2020-04-29 10:32:48,,168.181.39.207
+1231,NUKrpVcOcQ,94156630760,RS,Cachoeirinha,,empresario,,2020-04-29 12:08:08,2020-04-29 12:08:08,,132.255.142.36
+1232,UtAHGM2r7C,37181859202,RS,Porto Alegre,,empresario,,2020-04-29 12:30:09,2020-04-29 12:30:09,,201.37.163.75
+1233,4F2fpPNFcT,62024766220,RS,Porto Alegre,,empresario,,2020-04-29 12:48:46,2020-04-29 12:48:46,,201.21.36.31
+1234,2LBjUw9kVR,88228390980,RS,Porto Alegre,,empresario,,2020-04-29 13:05:50,2020-04-29 13:05:50,,179.219.192.129
+1235,y1tcuuLlYd,77396222525,RS,Porto Alegre,,empresario,,2020-04-29 13:46:15,2020-04-29 13:46:15,,201.37.163.75
+1236,S5OvJmZukP,54070138819,RS,Porto Alegre,,empresario,,2020-04-29 13:57:42,2020-04-29 13:57:42,,201.21.60.43
+1237,vcwlfsWD6Q,29284171243,RS,Porto Alegre,,empresario,,2020-04-29 14:02:14,2020-04-29 14:02:14,,201.21.60.43
+1238,WjB7wQtriG,39637881009,DF,Brasília,,empresario,,2020-04-29 16:52:57,2020-04-29 16:52:57,,177.235.78.253
+1239,ekAKSpDtXV,28559486982,RS,Porto Alegre,,empresario,,2020-04-29 17:05:28,2020-04-29 17:05:28,,179.116.46.129
+1240,9Xbj6mFCGG,36291883434,RS,Rio Grande,,empresario,,2020-04-29 18:33:08,2020-04-29 18:33:08,,179.89.64.113
+1241,o8KqXEU3fU,90702262134,Île-de-France,Paris,,,,2020-04-29 19:33:57,2020-04-29 19:33:57,,54.36.149.35
+1242,Q4C2VABL3v,50354307661,SC,Lages,,dirigente,,2020-04-29 20:06:34,2020-04-29 20:06:34,,179.186.206.12
+1243,3V3nz5dtvV,17098997570,Île-de-France,Paris,,dirigente,,2020-04-29 20:07:05,2020-04-29 20:07:05,,54.36.149.1
+1244,nbr1809vut,47597588431,Île-de-France,Paris,,empresario,,2020-04-29 20:36:47,2020-04-29 20:36:47,,54.36.148.2
+1245,xa7ok9fS8d,86160042043,RS,Capão da Canoa,,empresario,,2020-04-29 20:55:31,2020-04-29 20:55:31,,177.193.240.135
+1246,yNzIgRKgJp,20736253247,SP,São Paulo,,empresario,,2020-04-29 21:16:50,2020-04-29 21:16:50,,177.84.194.6
+1247,9JUaZkng8C,77672038478,RS,São Leopoldo,,empresario,,2020-04-29 21:32:33,2020-04-29 21:32:33,,179.224.239.223
+1248,X6AD7oDrMI,92302091852,RS,Canoas,,empresario,,2020-04-30 00:46:49,2020-04-30 00:46:49,,177.18.135.6
+1249,hTBM0YFpEC,99128902247,SP,Mogi das Cruzes,,dirigente,,2020-04-30 12:34:35,2020-04-30 12:34:35,,177.143.124.11
+1250,aQRVSJZqKk,57363582323,CE,Juazeiro do Norte,,empresario,,2020-04-30 13:43:05,2020-04-30 13:43:05,,177.37.234.192
+1251,herbhH6bpb,98406277168,RS,São Leopoldo,,empresario,,2020-04-30 16:03:52,2020-04-30 16:03:52,,177.204.77.162
+1252,Bnqg3BjwnC,62398615824,RS,São Leopoldo,,empresario,,2020-04-30 16:08:31,2020-04-30 16:08:31,,177.204.77.162
+1253,ZdjMSwGser,90188700496,DF,Brasília,,dirigente,,2020-04-30 16:28:22,2020-04-30 16:28:22,,177.235.30.157
+1254,46g20jWt7r,84249288686,RS,São Leopoldo,,empresario,,2020-04-30 17:02:53,2020-04-30 17:02:53,,177.156.228.49
+1255,hzTKgUHrld,46677255127,RS,Feliz,,empresario,,2020-04-30 17:09:33,2020-04-30 17:09:33,,187.84.55.62
+1256,2nfZlwDmgZ,17965173344,RS,Porto Alegre,,empresario,,2020-04-30 17:50:48,2020-04-30 17:50:48,,177.193.242.117
+1257,y2NqrqUpl7,95466374671,RS,Porto Alegre,,empresario,,2020-04-30 17:51:37,2020-04-30 17:51:37,,201.21.39.63
+1258,QOkkVM9G0z,99267353224,RS,São Leopoldo,,empresario,,2020-04-30 17:52:50,2020-04-30 17:52:50,,201.66.158.187
+1259,Mux6EoAmgo,85087087443,RS,Porto Alegre,,empresario,,2020-04-30 18:02:18,2020-04-30 18:02:18,,201.37.163.75
+1260,mrDeq8PPKu,58180763944,RS,São Leopoldo,,empresario,,2020-04-30 18:10:55,2020-04-30 18:10:55,,177.156.228.94
+1261,GTFuZOvCjL,73634008807,RS,São Leopoldo,,empresario,,2020-04-30 18:15:25,2020-04-30 18:15:25,,187.71.149.9
+1262,Vf3fMLzsRo,58684894475,RS,Porto Alegre,,empresario,,2020-04-30 18:24:42,2020-04-30 18:24:42,,168.181.39.207
+1263,K4JmnDTxYP,46763254040,RS,Sapucaia do Sul,,empresario,,2020-04-30 18:49:06,2020-04-30 18:49:06,,131.72.102.2
+1264,R8OTqofefi,36503641195,RS,Sapucaia,,empresario,,2020-04-30 18:53:45,2020-04-30 18:53:45,,131.72.102.2
+1265,rJwS9rivyf,12351120361,RS,Caxias do Sul,,empresario,,2020-04-30 20:40:51,2020-04-30 20:40:51,,177.156.52.215
+1266,Jsc9xIMtgb,51544763091,RS,Porto Alegre,,empresario,,2020-04-30 20:57:58,2020-04-30 20:57:58,,189.27.147.140
+1267,hQLoRL7RQL,47728864080,Île-de-France,Paris,,dirigente,,2020-05-01 02:22:19,2020-05-01 02:22:19,,54.36.148.224
+1268,JFGMP2ciUf,77250059777,California,Mountain View,,,,2020-05-01 04:17:02,2020-05-01 04:17:02,,66.249.66.70
+1269,Q9MIZrYlJ3,16839579343,California,Mountain View,,,,2020-05-01 05:17:02,2020-05-01 05:17:02,,66.249.66.68
+1270,Y8sECAPoJp,78781972737,Washington,Quincy,,,,2020-05-01 06:32:05,2020-05-01 06:32:05,,157.55.39.107
+1271,LFU3N35WMT,56630704710,Washington,Quincy,,,,2020-05-01 06:32:06,2020-05-01 06:32:06,,157.55.39.107
+1272,hDePwmMSI5,24349654405,Île-de-France,Paris,,empresario,,2020-05-01 06:50:23,2020-05-01 06:50:23,,54.36.150.84
+1273,ReClInGHAr,42024857224,Washington,Quincy,,,,2020-05-01 08:01:06,2020-05-01 08:01:06,,157.55.39.107
+1274,c99OQYzq7T,47280630241,Washington,Quincy,,,,2020-05-01 08:01:07,2020-05-01 08:01:07,,157.55.39.107
+1275,fGtw9ihZWb,86643515834,RS,Porto Alegre,,empresario,,2020-05-01 09:50:09,2020-05-01 09:50:09,,201.37.160.0
+1276,ZJTlS35KGn,63784321150,RS,Porto Alegre,,empresario,,2020-05-01 09:53:29,2020-05-01 09:53:29,,201.37.160.0
+1277,bb4uymaEJo,55292272185,California,Mountain View,,,,2020-05-01 13:17:02,2020-05-01 13:17:02,,66.249.66.66
+1278,NASbbCHZcS,97256673080,RS,Porto Alegre,,empresario,,2020-05-01 17:04:24,2020-05-01 17:04:24,,201.21.34.116
+1279,9wIFPGBIFG,39533755183,RS,Porto Alegre,,empresario,,2020-05-01 17:09:30,2020-05-01 17:09:30,,201.21.34.116
+1280,LPVA9gvVpc,94212214052,CE,Icó,,empresario,,2020-05-01 22:54:11,2020-05-01 22:54:11,,177.37.188.46
+1281,1mJ0RR15GF,11092475969,California,Mountain View,,,,2020-05-02 00:16:10,2020-05-02 00:16:10,,66.249.66.70
+1282,lgOOnQFEDX,89170835828,Virginia,Boydton,,,,2020-05-02 02:15:42,2020-05-02 02:15:42,,40.77.167.146
+1283,Bsiiu8Umo4,18700455515,Virginia,Boydton,,,,2020-05-02 02:15:42,2020-05-02 02:15:42,,40.77.167.146
+1284,kTQRtGAIVx,84005736731,RN,Mossoró,,empresario,,2020-05-02 06:15:22,2020-05-02 06:15:22,,131.161.135.4
+1285,yl96VqmR4V,82349815317,RS,Porto Alegre,,empresario,,2020-05-02 14:07:42,2020-05-02 14:07:42,,177.79.77.182
+1286,gMnJwNCJdM,63448642021,RS,São Leopoldo,,empresario,,2020-05-02 17:25:46,2020-05-02 17:25:46,,187.115.106.131
+1287,Nzm1Yff7JW,61802931735,RS,São Leopoldo,,empresario,,2020-05-02 17:28:23,2020-05-02 17:28:23,,187.115.106.131
+1288,hxgRQTugPz,18476893729,MG,Pouso Alegre,,empresario,,2020-05-02 18:01:44,2020-05-02 18:01:44,,191.131.17.189
+1289,NnMxiutIuZ,84182876772,RS,São Leopoldo,,empresario,,2020-05-02 18:07:53,2020-05-02 18:07:53,,177.143.197.201
+1290,OyXgwi0Any,69319182499,MG,Uberlândia,,empresario,,2020-05-02 18:10:56,2020-05-02 18:10:56,,170.84.81.183
+1291,R5XeQQAhp5,41194250225,RS,Novo Hamburgo,,empresario,,2020-05-02 18:11:40,2020-05-02 18:11:40,,177.143.197.201
+1292,Yb8eFVZzEQ,15011571967,RS,Porto Alegre,,empresario,,2020-05-02 18:43:23,2020-05-02 18:43:23,,179.219.0.114
+1293,YCYEKqoyUo,78948426228,RS,Novo Hamburgo,,empresario,,2020-05-02 19:28:19,2020-05-02 19:28:19,,179.154.255.101
+1294,Up4HP2eWoE,91894906414,RS,Porto Alegre,,empresario,,2020-05-02 19:40:24,2020-05-02 19:40:24,,179.219.0.114
+1295,4ItOITy2qh,73652087398,RS,Porto Alegre,,empresario,,2020-05-02 20:16:24,2020-05-02 20:16:24,,179.219.0.114
+1296,hvmCzrIBrp,55040995217,RS,Porto Alegre,,empresario,,2020-05-02 23:25:17,2020-05-02 23:25:17,,179.219.0.114
+1297,59aMglbskX,95615987535,California,Mountain View,,empresario,,2020-05-03 05:44:49,2020-05-03 05:44:49,,66.249.66.68
+1298,n2ME9jRE2n,89244958003,California,Mountain View,,empresario,,2020-05-03 06:10:14,2020-05-03 06:10:14,,66.249.66.68
+1299,2ETipUsKHN,32664843369,California,Mountain View,,empresario,,2020-05-03 07:39:22,2020-05-03 07:39:22,,66.249.66.70
+1300,dbDJR5YiZZ,70378797384,MG,Cláudio,,empresario,,2020-05-03 07:44:06,2020-05-03 07:44:06,,177.221.179.161
+1301,64x8hP3xAj,38485389859,RN,Mossoró,,empresario,,2020-05-03 08:18:40,2020-05-03 08:18:40,,131.161.135.4
+1302,m7rjxowQ9j,28250711793,MG,Carmópolis de Minas,,empresario,,2020-05-03 08:36:44,2020-05-03 08:36:44,,187.108.82.103
+1303,PGzTMOadUW,13813260933,California,Mountain View,,dirigente,,2020-05-03 08:37:53,2020-05-03 08:37:53,,66.249.66.70
+1304,DVb3dltjX4,29861309658,California,Mountain View,,empresario,,2020-05-03 08:46:02,2020-05-03 08:46:02,,66.249.66.70
+1305,X2QLFAZrb4,25099349888,California,Mountain View,,dirigente,,2020-05-03 09:22:28,2020-05-03 09:22:28,,66.249.66.70
+1306,4tgLsTpbBN,35201882473,SP,São Paulo,,empresario,,2020-05-03 09:33:50,2020-05-03 09:33:50,,187.108.82.122
+1307,08tNd7ibQO,72461581593,MG,Carmópolis de Minas,,empresario,,2020-05-03 09:51:11,2020-05-03 09:51:11,,191.14.180.117
+1308,eThE4y8Lb6,91831332570,PB,Catolé do Rocha,,empresario,,2020-05-03 14:44:44,2020-05-03 14:44:44,,191.253.86.113
+1309,9AF1DKLk7m,80688215624,BA,Jequié,,empresario,,2020-05-03 16:22:38,2020-05-03 16:22:38,,170.84.226.255
+1310,N8DedpE8Ns,73469393760,California,Mountain View,,dirigente,,2020-05-03 17:38:02,2020-05-03 17:38:02,,66.249.64.100
+1311,bYFIcIW8fN,19144823914,California,Mountain View,,empresario,,2020-05-03 17:57:54,2020-05-03 17:57:54,,66.249.64.104
+1312,ie5CBlLd6X,46813882035,RS,Caxias do Sul,,dirigente,,2020-05-03 19:17:46,2020-05-03 19:17:46,,177.204.65.15
+1313,Tvp34oS99r,55509198061,RS,São Leopoldo,,empresario,,2020-05-03 20:11:16,2020-05-03 20:11:16,,179.233.243.125
+1314,lKhh8ZVxYJ,66470896634,SP,São Paulo,,empresario,,2020-05-03 22:31:57,2020-05-03 22:31:57,,45.174.234.59
+1315,ixzuGSZvHf,37037738831,California,Mountain View,,dirigente,,2020-05-04 03:11:41,2020-05-04 03:11:41,,66.249.64.102
+1316,GOgjO5mD3a,27873266101,California,Mountain View,,empresario,,2020-05-04 04:42:42,2020-05-04 04:42:42,,66.249.64.102
+1317,Pwc527ve3u,48569347350,PR,Sertanópolis,,dirigente,,2020-05-04 08:19:42,2020-05-04 08:19:42,,186.251.120.43
+1318,1rJjrjH0YL,54070668346,MG,Carmópolis de Minas,,empresario,,2020-05-04 09:01:42,2020-05-04 09:01:42,,187.108.82.99
+1319,C0K1VWP8ML,42014390490,SP,São Paulo,,empresario,,2020-05-04 09:08:10,2020-05-04 09:08:10,,187.108.82.99
+1320,9uGoKN8Gna,40057246568,RS,Canoas,,dirigente,,2020-05-04 09:08:54,2020-05-04 09:08:54,,191.187.216.84
+1321,JFhqhav6rF,11227403949,MG,Carmópolis de Minas,,empresario,,2020-05-04 09:37:32,2020-05-04 09:37:32,,168.228.119.205
+1322,mkRRiwi1mA,60632192888,MG,Carmópolis de Minas,,empresario,,2020-05-04 09:48:31,2020-05-04 09:48:31,,186.232.112.45
+1323,cI57HFMyJB,31406391803,MG,Carmópolis de Minas,,empresario,,2020-05-04 10:05:48,2020-05-04 10:05:48,,187.108.82.122
+1324,fXkGlAUBTc,87444312637,SC,Chapecó,,dirigente,,2020-05-04 10:56:41,2020-05-04 10:56:41,,187.45.100.36
+1325,W5eP4Kwk28,40328352856,MG,Carmópolis de Minas,,empresario,,2020-05-04 21:19:05,2020-05-04 21:19:05,,187.108.82.99
+1326,brXxCCg07S,52958164825,SP,São Paulo,,empresario,,2020-05-04 21:26:47,2020-05-04 21:26:47,,187.108.82.99
+1327,6TuVp7eaOZ,85996165443,BA,Camaçari,,empresario,,2020-05-04 22:09:11,2020-05-04 22:09:11,,177.25.167.123
+1328,msbwXhYCiz,70697397170,SE,Aracaju,,empresario,,2020-05-04 22:16:02,2020-05-04 22:16:02,,177.25.167.123
+1329,kjmjLxnVcg,83415923411,Berlin,Berlin,,,,2020-05-04 22:42:08,2020-05-04 22:42:08,,94.130.237.168
+1330,uVTquh63Ff,37647808613,RS,Porto Alegre,,empresario,,2020-05-04 22:42:25,2020-05-04 22:42:25,,179.89.27.55
+1331,Nx4WnTGSqi,78702626079,Washington,Quincy,,,,2020-05-05 02:19:50,2020-05-05 02:19:50,,207.46.13.180
+1332,I3DM8zy15Q,58360240776,Washington,Quincy,,,,2020-05-05 02:19:50,2020-05-05 02:19:50,,207.46.13.180
+1333,RRFXYmCKVm,42305209422,RS,Canoas,,empresario,,2020-05-05 07:46:50,2020-05-05 07:46:50,,187.183.7.1
+1334,ya8sTvKY1u,42996945260,RO,Vilhena,,empresario,,2020-05-05 09:43:44,2020-05-05 09:43:44,,177.93.65.193
+1335,S3BgEYx2NS,37883069105,SE,Carmópolis,,empresario,,2020-05-05 10:26:32,2020-05-05 10:26:32,,168.228.119.217
+1336,QsqxvQfN27,24435994881,Île-de-France,Paris,,dirigente,,2020-05-05 14:45:09,2020-05-05 14:45:09,,54.36.148.237
+1337,WRmwLYpYPZ,69484059647,BA,Camaçari,,empresario,,2020-05-05 14:51:08,2020-05-05 14:51:08,,45.168.90.10
+1338,nNwGuFVecJ,16382359811,BA,Camaçari,,empresario,,2020-05-05 14:54:39,2020-05-05 14:54:39,,45.168.90.10
+1339,z7yZaDo3Nx,54967013732,MG,São Gonçalo do Rio Abaixo,,empresario,,2020-05-05 15:00:34,2020-05-05 15:00:34,,131.161.7.182
+1340,rrnjSF5Fmg,87931135585,BA,Camaçari,,empresario,,2020-05-05 15:04:11,2020-05-05 15:04:11,,187.107.2.74
+1341,ss6TbIkAdr,53606522176,BA,Camaçari,,empresario,,2020-05-05 15:10:23,2020-05-05 15:10:23,,45.228.216.98
+1342,qaXy5kXaqf,45674346666,BA,Camaçari,,empresario,,2020-05-05 15:15:15,2020-05-05 15:15:15,,191.44.6.197
+1343,aEQbMwpO8G,70489520775,RS,Viamão,,empresario,,2020-05-05 15:19:55,2020-05-05 15:19:55,,170.239.233.201
+1344,fxxJd7r9Fg,71919508492,BA,Camaçari,,empresario,,2020-05-05 15:30:38,2020-05-05 15:30:38,,191.44.6.197
+1345,TfWrwFg04c,32536390661,SP,São Paulo,,empresario,,2020-05-05 15:39:13,2020-05-05 15:39:13,,177.84.194.1
+1346,haCtL5Tq2L,35682265772,SC,Concórdia,,empresario,,2020-05-05 16:09:56,2020-05-05 16:09:56,,189.91.196.6
+1347,IZxz1DgGDe,37823763326,SC,Concórdia,,dirigente,,2020-05-05 16:11:31,2020-05-05 16:11:31,,189.91.196.6
+1348,UmeLhbGOTZ,55447766464,SC,Concórdia,,empresario,,2020-05-05 16:17:09,2020-05-05 16:17:09,,189.91.196.6
+1349,CS32hCWFna,87208593194,RO,Vilhena,,dirigente,,2020-05-05 16:23:45,2020-05-05 16:23:45,,177.93.65.193
+1350,OE4cY1lvgI,19352176943,RS,Canoas,,empresario,,2020-05-05 16:51:40,2020-05-05 16:51:40,,187.112.94.20
+1351,61xF0IjoL6,94372905446,MG,Itanhandu,,empresario,,2020-05-05 18:31:15,2020-05-05 18:31:15,,45.71.230.57
+1352,mte5ouZBU9,21079594776,MG,São João Del Rei,,empresario,,2020-05-05 20:15:48,2020-05-05 20:15:48,,131.108.200.5
+1353,ACBruyBWbj,60307964151,MG,São João Del Rei,,empresario,,2020-05-05 20:15:51,2020-05-05 20:15:51,,177.126.225.255
+1354,D6RnJNRn0V,88527716831,MG,São João Del Rei,,empresario,,2020-05-05 20:16:09,2020-05-05 20:16:09,,170.246.210.229
+1355,TJ73kEdClQ,33391933529,MG,São João del Rei,,empresario,,2020-05-05 20:16:44,2020-05-05 20:16:44,,177.126.224.30
+1356,Wt4dpyvPoR,89083408596,MG,São João Del Rei,,empresario,,2020-05-05 20:18:44,2020-05-05 20:18:44,,186.194.221.17
+1357,XRyK3EiNpm,98786189318,MG,São João del Rei,,empresario,,2020-05-05 20:24:15,2020-05-05 20:24:15,,179.108.238.50
+1358,kYBmpLCghU,91381680807,BA,Camaçari,,empresario,,2020-05-05 20:55:12,2020-05-05 20:55:12,,177.23.162.2
+1359,HIg4l10Hna,42321444414,BA,Santo Estêvão,,empresario,,2020-05-05 21:01:18,2020-05-05 21:01:18,,177.23.162.2
+1360,tOjhxyIBls,14918539798,SP,São Paulo,,empresario,,2020-05-05 22:06:03,2020-05-05 22:06:03,,45.174.234.59
+1361,COXipFY60g,68062140014,Virginia,Ashburn,,,,2020-05-06 02:41:27,2020-05-06 02:41:27,,46.229.168.147
+1362,8r1T1uLp2C,88580259503,Virginia,Ashburn,,,,2020-05-06 02:41:29,2020-05-06 02:41:29,,46.229.168.135
+1363,wJqTwiCBsw,12498438972,Virginia,Ashburn,,,,2020-05-06 02:41:30,2020-05-06 02:41:30,,46.229.168.162
+1364,EGI2mp8fo1,17915444266,Virginia,Ashburn,,,,2020-05-06 02:41:31,2020-05-06 02:41:31,,46.229.168.134
+1365,waP9tIabYL,82712828209,Virginia,Ashburn,,,,2020-05-06 02:41:32,2020-05-06 02:41:32,,46.229.168.142
+1366,qAx9OKE9Ad,11409553643,Virginia,Ashburn,,,,2020-05-06 02:41:34,2020-05-06 02:41:34,,46.229.168.142
+1367,gpMk9licH7,39174022506,Virginia,Ashburn,,,,2020-05-06 02:41:35,2020-05-06 02:41:35,,46.229.168.144
+1368,UBX4dzbWV3,18692687293,Île-de-France,Paris,,empresario,,2020-05-06 04:42:57,2020-05-06 04:42:57,,54.36.150.46
+1369,HvJDIZstHb,28403539997,Île-de-France,Paris,,dirigente,,2020-05-06 06:41:03,2020-05-06 06:41:03,,54.36.150.6
+1370,h7uaCLZcRm,69718348258,MG,São João Del Rei,,empresario,,2020-05-06 08:04:00,2020-05-06 08:04:00,,179.108.212.83
+1371,fPkBzwE0WL,12889372026,Virginia,Boydton,,,,2020-05-06 09:11:08,2020-05-06 09:11:08,,40.77.167.6
+1372,93yO9lDMQe,90392219307,Virginia,Boydton,,,,2020-05-06 09:11:09,2020-05-06 09:11:09,,40.77.167.6
+1373,b3VUxyKLIF,21353147029,PA,Salinópolis,,empresario,,2020-05-06 12:04:37,2020-05-06 12:04:37,,170.82.183.48
+1374,4G7lyF1W5H,28454195358,MG,Nova Lima,,empresario,,2020-05-06 12:30:04,2020-05-06 12:30:04,,177.182.189.93
+1375,Adj8Ofk7Og,63834672165,PA,Salinópolis,,empresario,,2020-05-06 13:19:51,2020-05-06 13:19:51,,170.82.183.48
+1376,4dQ8BePGBJ,68411081829,New York,New York City,,,,2020-05-06 16:03:26,2020-05-06 16:03:26,,69.174.91.43
+1377,Xqp97d26IH,80978598278,New York,New York City,,,,2020-05-06 16:03:27,2020-05-06 16:03:27,,69.174.91.42
+1378,W5Mtoo5RV6,45296300454,Leinster,Dublin,,,,2020-05-06 16:03:27,2020-05-06 16:03:27,,77.67.20.128
+1379,el8KLWSsCa,65626212521,Virginia,Tysons Corner,,,,2020-05-06 16:03:28,2020-05-06 16:03:28,,70.39.129.107
+1380,8CrM9PthUO,68309821314,Virginia,Tysons Corner,,,,2020-05-06 16:03:28,2020-05-06 16:03:28,,70.39.129.107
+1381,fJVNrw9UAL,48827835605,Leinster,Dublin,,,,2020-05-06 16:03:28,2020-05-06 16:03:28,,77.67.20.133
+1382,Su0q0QPSIm,13218384231,New York,New York City,,,,2020-05-06 16:03:40,2020-05-06 16:03:40,,69.174.91.34
+1383,N4dzcdopGb,36408571638,Leinster,Dublin,,,,2020-05-06 16:03:41,2020-05-06 16:03:41,,77.67.20.130
+1384,6DDNk1FhRd,57417551511,MG,Nova Lima,,empresario,,2020-05-06 21:33:18,2020-05-06 21:33:18,,177.182.189.93
+1385,AA3C5P17rT,63148933202,PR,Maringá,,empresario,,2020-05-06 23:15:34,2020-05-06 23:15:34,,189.7.18.54
+1386,aYYCLVJteO,82031030920,California,Mountain View,,,,2020-05-07 03:34:12,2020-05-07 03:34:12,,66.249.66.66
+1387,MPaZnwFpZd,64681982160,PR,Almirante Tamandaré,,empresario,,2020-05-07 16:57:37,2020-05-07 16:57:37,,191.177.116.56
+1388,VKxB9hphYN,50355513021,Washington,Quincy,,,,2020-05-07 20:45:21,2020-05-07 20:45:21,,207.46.13.8
+1389,oDFIPBKPp0,32589319823,Washington,Quincy,,,,2020-05-07 20:45:22,2020-05-07 20:45:22,,207.46.13.8
+1390,6wANZK7Wp7,11400337866,SC,Chapecó,,empresario,,2020-05-07 22:23:57,2020-05-07 22:23:57,,177.75.128.87
+1391,0WOHsxlawN,67785258470,California,Mountain View,,,,2020-05-08 06:25:48,2020-05-08 06:25:48,,66.249.73.7
+1392,fITorfgQ84,13808151367,California,Mountain View,,,,2020-05-08 06:45:50,2020-05-08 06:45:50,,66.249.73.7
+1393,x0ZaOkctB3,73744849963,California,Mountain View,,,,2020-05-08 13:25:53,2020-05-08 13:25:53,,66.249.73.5
+1394,7xtYT0KRqI,72471093838,BA,Jequié,,empresario,,2020-05-08 18:50:28,2020-05-08 18:50:28,,170.84.226.53
+1395,OWPclU3h1s,49408296146,SC,Rio do Sul,,empresario,,2020-05-08 19:34:25,2020-05-08 19:34:25,,170.150.0.246
+1396,rJ9QRpfTuq,94865086944,AL,São Miguel dos Campos,,empresario,,2020-05-08 21:21:25,2020-05-08 21:21:25,,177.38.198.1
+1397,7DJhRJvkiW,99536393834,AL,São Miguel dos Campos,,empresario,,2020-05-08 21:24:09,2020-05-08 21:24:09,,177.38.198.1
+1398,44JkDanJOB,62619560067,AL,São Miguel dos Campos,,empresario,,2020-05-08 21:31:37,2020-05-08 21:31:37,,177.38.198.1
+1399,1hDQVsJLQP,61113131572,AL,São Miguel dos Campos,,empresario,,2020-05-08 21:33:35,2020-05-08 21:33:35,,177.38.198.1
+1400,kP07t9sRuB,31754903164,AL,Messias,,empresario,,2020-05-08 21:35:28,2020-05-08 21:35:28,,177.38.198.1
+1401,wzTjpHOdEy,82042186018,AL,São Miguel dos Campos,,dirigente,,2020-05-08 21:37:55,2020-05-08 21:37:55,,177.38.198.1
+1402,pltY5eHLmE,27857065224,AL,Arapiraca,,empresario,,2020-05-09 00:03:01,2020-05-09 00:03:01,,186.235.159.198
+1403,doLaQdORy6,97095463434,California,Mountain View,,,,2020-05-09 00:45:35,2020-05-09 00:45:35,,66.249.64.104
+1404,Ph3pNHqKss,31630316022,Virginia,Ashburn,,,,2020-05-09 02:25:36,2020-05-09 02:25:36,,46.229.168.152
+1405,qnU81NyBxw,79571874323,Virginia,Ashburn,,,,2020-05-09 02:25:37,2020-05-09 02:25:37,,46.229.168.162
+1406,Zq3LmNfAB3,54714352576,Virginia,Ashburn,,,,2020-05-09 02:25:39,2020-05-09 02:25:39,,46.229.168.132
+1407,Hx2tvCpX0E,72856239858,Virginia,Ashburn,,,,2020-05-09 02:25:40,2020-05-09 02:25:40,,46.229.168.132
+1408,dZQlxSGDZj,32884071920,Virginia,Ashburn,,,,2020-05-09 02:25:42,2020-05-09 02:25:42,,46.229.168.149
+1409,sDP0fYhFfg,51516038519,Virginia,Ashburn,,,,2020-05-09 02:25:43,2020-05-09 02:25:43,,46.229.168.139
+1410,564k9AcX8s,77880335478,Virginia,Ashburn,,,,2020-05-09 02:25:45,2020-05-09 02:25:45,,46.229.168.131
+1411,J5xKzsG60O,67533988878,MG,São João del Rei,,empresario,,2020-05-09 16:46:52,2020-05-09 16:46:52,,170.246.210.229
+1412,Ws8sB32ntn,29258148199,Kyiv City,Kyiv,,,,2020-05-10 03:53:10,2020-05-10 03:53:10,,178.150.14.250
+1413,sR0TesXcWX,24083702946,Kyiv City,Kyiv,,,,2020-05-10 03:53:12,2020-05-10 03:53:12,,178.150.14.250
+1414,HzxCCOsaZ0,52961610332,Kyiv City,Kyiv,,,,2020-05-10 03:53:15,2020-05-10 03:53:15,,178.150.14.250
+1415,w33eHXO7TF,69079365772,Kyiv City,Kyiv,,,,2020-05-10 03:53:17,2020-05-10 03:53:17,,178.150.14.250
+1416,5gNah9kDxt,71636326941,Kyiv City,Kyiv,,,,2020-05-10 03:53:20,2020-05-10 03:53:20,,178.150.14.250
+1417,xftj8pmW93,74558063549,Kyiv City,Kyiv,,,,2020-05-10 03:53:22,2020-05-10 03:53:22,,178.150.14.250
+1418,LcQJJSxCc9,38329364503,Kyiv City,Kyiv,,,,2020-05-10 03:53:25,2020-05-10 03:53:25,,178.150.14.250
+1419,TCGeJ1tUuR,89167553014,Bavaria,Gunzenhausen,,,,2020-05-10 12:22:54,2020-05-10 12:22:54,,148.251.9.145
+1420,qlzOZexOQi,68596303868,Bavaria,Gunzenhausen,,,,2020-05-10 12:22:56,2020-05-10 12:22:56,,148.251.9.145
+1421,aYscDhtABA,71347437314,Bavaria,Gunzenhausen,,,,2020-05-10 12:22:58,2020-05-10 12:22:58,,148.251.9.145
+1422,E04Coj9WnX,39418494207,Bavaria,Gunzenhausen,,,,2020-05-10 12:22:59,2020-05-10 12:22:59,,148.251.9.145
+1423,gMmqVXiYXC,33550513186,Bavaria,Gunzenhausen,,,,2020-05-10 12:23:01,2020-05-10 12:23:01,,148.251.9.145
+1424,LMNKj1JN6F,21971588195,Bavaria,Gunzenhausen,,,,2020-05-10 12:23:03,2020-05-10 12:23:03,,148.251.9.145
+1425,RoghxDZQFM,49992749616,Bavaria,Gunzenhausen,,,,2020-05-10 12:23:04,2020-05-10 12:23:04,,148.251.9.145
+1426,fB2rF9ABkl,82045769491,Quebec,Montréal,,dirigente,,2020-05-10 20:36:07,2020-05-10 20:36:07,,192.99.10.93
+1427,fjTlreHewc,80237896619,Quebec,Montréal,,dirigente,,2020-05-10 20:36:20,2020-05-10 20:36:20,,192.99.10.93
+1428,SpWmzltP8u,21308417883,Quebec,Montréal,,dirigente,,2020-05-10 20:36:34,2020-05-10 20:36:34,,192.99.10.93
+1429,d86moBQUGX,49415407520,Quebec,Montréal,,dirigente,,2020-05-10 20:36:57,2020-05-10 20:36:57,,192.99.10.93
+1430,eMGAZYW5u4,75110697639,Quebec,Montréal,,dirigente,,2020-05-10 20:37:17,2020-05-10 20:37:17,,192.99.10.93
+1431,Lnw3nILJTZ,21021571974,Quebec,Montréal,,dirigente,,2020-05-10 20:37:47,2020-05-10 20:37:47,,192.99.10.93
+1432,0nOXgP95Qq,19647664637,Quebec,Montréal,,dirigente,,2020-05-10 20:38:10,2020-05-10 20:38:10,,192.99.10.93
+1433,a7oysFFaPA,53295900076,Quebec,Montréal,,empresario,,2020-05-10 20:38:46,2020-05-10 20:38:46,,192.99.10.93
+1434,nJMp4iFMoe,71253220238,Quebec,Montréal,,empresario,,2020-05-10 20:39:12,2020-05-10 20:39:12,,192.99.10.93
+1435,ZZKDYSBZb7,23118887385,Quebec,Montréal,,empresario,,2020-05-10 20:39:33,2020-05-10 20:39:33,,192.99.10.93
+1436,Qhrs3cXL3o,22358476016,Quebec,Montréal,,empresario,,2020-05-10 20:40:01,2020-05-10 20:40:01,,192.99.10.93
+1437,UpDyGL2QoN,86139727705,Quebec,Montréal,,empresario,,2020-05-10 20:40:29,2020-05-10 20:40:29,,192.99.10.93
+1438,ID4vZtEdLe,76057115048,Quebec,Montréal,,empresario,,2020-05-10 20:40:54,2020-05-10 20:40:54,,192.99.10.93
+1439,sYVmOOgEr3,29780088681,Quebec,Montréal,,empresario,,2020-05-10 20:41:20,2020-05-10 20:41:20,,192.99.10.93
+1440,KFCh0NOOq2,82985914302,Île-de-France,Paris,,,,2020-05-10 20:59:36,2020-05-10 20:59:36,,54.36.150.133
+1441,,,,,,,,2020-05-14 14:17:46,2020-05-14 14:17:46,,

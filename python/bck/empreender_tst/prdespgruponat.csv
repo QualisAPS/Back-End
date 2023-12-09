@@ -1,0 +1,118 @@
+idgrupo,idnat,nmnat,ativo,codigo
+00wr4,00s3c,1312 - Dietas LA,true,
+00wr4,0384n,5800 - Costes de consultorías/asistencias técnicas,true,
+00wr4,07dxe,2120 - Vuelos internacionales Continental,true,
+00wr4,0iuaq,5720 - Catering,true,
+00wr4,0zua8,5900 - Actividades de visibilidad,true,
+00yet,00fx6,8006 - Tarifas bancárias,true,8006
+00yet,04lsn,1117 - Project staff CACB,true,1117
+00yet,055jf,"5200 - Studies, research, survey",true,5200
+00yet,06ui3,2210 - Regional Travel Within LA,true,2210
+00yet,071nm,8001 - Despesas não reembolsáveis,true,8001
+00yet,07m6r,8002 - Imposto sobre remessas,true,8002
+00yet,08dbu,8004 - Outros,true,8004
+00yet,091y4,5710 - Workshops / trainings / smaller events,true,5710
+00yet,0aa8r,"4500- Room rent (training, workshop)",true,4500
+00yet,0cgf3,1311 - Perdiem Abroad Europe,true,1311
+00yet,0depl,5510 - Translation,true,5510
+00yet,0e1i0,4700 - Training material,true,4700
+00yet,0f3gp,2110 - International Travel (EU/LA - LA/EU),true,2110
+00yet,0fd6h,5100 - Publications,true,5100
+00yet,0fiki,8005 - Pendência,true,8005
+00yet,0gxa4,8007 - Remessas do AL Invest,true,8007
+00yet,0hcgi,1321 - Perdiem Local LA,true,1321
+00yet,0iil1,"2310 - Local Transportation (Public Transport, taxis, etc)",true,2310
+00yet,0krry,"3500 - Demonstration, Measuring equipment",true,3500
+00yet,0ldhl,8003 - Movimentação temporária,true,8003
+00yet,0mvim,8000 - Aplicação financeira,true,8000
+00yet,0namz,6120 - International experts/consultants,true,6120
+00yet,0nwd0,5850 - Trade Fair participation,true,5850
+00yet,0ony3,"3400- Pinboards, Moderation Kits",true,3400
+00yet,0q3rd,"5830 - Visibility Material (banners, poster, pens etc.)",true,5830
+00yet,0u8jc,5520 - Interpretation,true,5520
+00yet,0ukpb,5840 - Videos,true,5840
+00yet,0uyly,"4600 - Technical equipment rent (training, workshop)",true,4600
+00yet,0wov7,6110 - Regional/Local experts/consultants,true,6110
+041eq,05rfi,Serviços especializados,false,
+041eq,0aq7i,Serviços técnicos,true,
+041eq,scorr,Serviços de correios,true,
+08h7e,03tn0,Estada.,true,
+08h7e,0738w,Combustível.,true,
+08h7e,09yjz,Locação de veículos.,true,
+08h7e,0jo7k,Diárias e hospedagem,true,
+08h7e,0psks,Passagens aéreas,true,
+08h7e,0t58x,Outros meios de transporte,true,
+08h7e,0whfq,Deslocamento terrestre.,true,
+08h7e,0xeoy,Outras despesas de viagens,true,
+0dnfi,07pik,Telefonia,true,
+0dnfi,0t96c,Software,true,
+0g2lz,03ia9,Subsídio/participação local,true,
+0g2lz,050zg,Participação local,true,
+0j01z,0tq4i,Diversos,true,
+0jbew,05qgl,Apoio administrativo,true,
+0mdd4,079f4,TIC,true,
+0mdd4,0m072,Materiais de expediente,true,
+0wmfs,0347x,Prêmios,true,
+0wmfs,08s8t,Materiais diversos,true,
+0wmfs,0b2jv,Materiais de instrução,true,
+0wmfs,0e49f,Material de capacitação,true,
+0wmfs,0g847,Local e equipamentos,true,
+0wmfs,buffe,Buffet,true,
+alugu,aoutr,Outros Alugueis,true,
+alugu,equip,Aluguel de equipamentos,true,
+alugu,espac,Aluguel de espaços em feiras,true,
+alugu,salas,Aluguel de salas,true,
+alugu,veicu,Aluguel de veículos,true,
+dedes,agluz,Agua / Luz (eventos /Feiras),true,
+dedes,combs,Combustiveis e Lubrificantes,true,
+dedes,frete,Fretes,true,
+destr,04t75,Despesas bancárias,true,
+destr,inss ,INSS,true,
+destr,iof  ,IOF,true,
+destr,irapl,IR s/ aplicações financeiras,true,
+destr,iss  ,ISS,true,
+destr,odesp,Outras despesas tributárias e financeiras,true,
+desvi,05q43,Deslocamento terrestre,true,
+desvi,0c3lj,Locação de veículos,true,
+desvi,0dzo5,Combustível,true,
+desvi,0z1qm,Estada,true,
+desvi,aerea,Passagem aérea,true,
+desvi,alime,Alimentação,true,
+desvi,custo,Ajuda de custo,true,
+desvi,diari,Diária,true,
+desvi,hospd,Hospedagem,true,
+desvi,rodov,Passagem rodoviária,true,
+desvi,voutr,Outras despesas de viagem,true,
+divan,odiva,Outros serviços de divulg. publicidade,true,
+divan,pranu,Produção de anúncios,true,
+divan,prban,Produção de banner,true,
+divan,veijo,Veiculação em jornal,true,
+divan,veitv,Veiculação de TV,true,
+divan,verad,Veiculação de rádio,true,
+matco,0kwl1,Materiais Metaplan,true,
+matco,0xfcj,Material de escritório,true,
+matco,matdi,Materiais técnicos e didáticos,true,
+matco,matli,"Materiais de limpeza, copa e refeitório",true,
+matco,omatc,Outros materiais de consumo / expediente,true,
+pesen,benef,Beneficios,true,
+pesen,encar,Encargos sociais,true,
+pesen,pesso,Pessoal,true,
+serco,oserc,Outros serviços de comunicação,true,
+serco,stele,Serviços de telefonia,true,
+sergr,cmult,Cópias multimídia,true,
+sergr,crepg,Cópias reprográficas,true,
+sergr,edito,Editoração gráfica,true,
+sergr,impgr,Impressão gráfica,true,
+sergr,oserv,Outros serviços gráficos de reprodução,true,
+serpr,consu,Consultoria,true,
+serpr,instr,Instrutoria,true,
+serpr,rpale,Realização de palestras,true,
+sertr,maneq,Manutenção de equipamentos,true,
+sertr,manli,Manutenção e limpeza,true,
+sertr,orgpr,Organização e promoção de eventos,true,
+sertr,osert,Outros serviços contratados,true,
+sertr,vigil,Vigilância,true,
+teces,epesq,"Estudos, pesquisas e análise técnica",true,
+teces,eproj,Elaboração de projetos,true,
+teces,otece,Outros serviços técnicos especializados,true,
+teces,tradu,Tradução,true,

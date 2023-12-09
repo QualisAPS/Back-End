@@ -1,0 +1,39 @@
+idtemplrel,nmcampo,nmexibicao,nmvalue,campoagrup
+assxnuc,"cid.iduf, ass.nmrazao",ACE,ace,acerazao
+assxnuc,"cid.iduf, fed.nmrazao",Federação,fed,razaofed
+assxnuc,"cid.iduf, seg.dssegmento",Segmento,seg,dsseg
+empxpro,"cid.iduf, cid.nmcidade",UF/Cidade,ufc,uf
+empxpro,"cid.iduf, cid.nmcidade, nuc.nmnucleo",Núcleo Setorial,nuc,nucleo
+empxpro,"cid.iduf, cid.nmcidade, pro.nmprojeto",Projeto,pro,proj
+empxpro,"cid.iduf, cid.nmcidade, seg.dssegmento, pro.flstatus",Segmento,seg,dsseg
+fedxass,"cid.iduf, fed.nmrazao",Federação,fed,razaofed
+nucxemp,"cidass.iduf, ass.nmrazao",ACE,ace,acerazao
+nucxemp,"cidass.iduf, emp.nurazaosocial ",Empresa,emp,emprazao
+nucxemp,"cidass.iduf, fed.nmrazao",Federação,fed,razaofed
+nucxemp,"cidass.iduf, nuc.nmnucleo",Núcleo Setorial,nuc,nucleo
+nucxemp,"cidemp.iduf, cidemp.nmcidade, emp.nurazaosocial",UF da Empresa,ufe,ufemp
+proxaca,cdd.iduf,UF do Projeto,ufp,uf
+proxaca,"epp.identidadeprop, epp.nmentidade",Entidade Proponente,epp,nmentprop
+proxaca,epp.nmchamada,Chamada,cha,cham
+proxaca,"usu.nucpf, usu.nmusuario",Gestor do Projeto,gpr,nmgest
+_proxlan,"cdd.iduf, epp.identidadeprop, epp.nmentidade, epp.nmchamada, cdd.idcidade, 
+cdd.nmcidade, rcacb.vlrcacb, rceco.vlrceco, rcfin.vlrcfin, rcsub.vlrcsub, 
+rtotal.vlrtot, dcacb.vldcacb, dceco.vldceco, dcfin.vldcfin, dcsub.vldcsub, 
+dtotal.vldtot",UF do Projeto,ufp,uf
+_proxlan,"epp.identidadeprop, epp.nmentidade",Entidade Proponente,epp,nmentprop
+_proxlan,"epp.nmchamada, epp.identidadeprop, epp.nmentidade,  cdd.idcidade, 
+cdd.nmcidade, rcacb.vlrcacb, rceco.vlrceco, rcfin.vlrcfin, rcsub.vlrcsub, 
+rtotal.vlrtot, dcacb.vldcacb, dceco.vldceco, dcfin.vldcfin, dcsub.vldcsub, 
+dtotal.vldtot",Chamada,cha,cham
+_proxlan,"usu.nucpf, usu.nmusuario, epp.identidadeprop, epp.nmentidade, epp.nmchamada,  
+cdd.idcidade, cdd.nmcidade, rcacb.vlrcacb, rceco.vlrceco, rcfin.vlrcfin, 
+rcsub.vlrcsub, rtotal.vlrtot, dcacb.vldcacb, dceco.vldceco, dcfin.vldcfin,  
+dcsub.vldcsub, dtotal.vldtot",Gestor do Projeto,gpr,nmgest
+proxlan,cdd.iduf,UF do Projeto,ufp,uf
+proxlan,"epp.identidadeprop, epp.nmentidade",Entidade Proponente,epp,nmentprop
+proxlan,epp.nmchamada,Chamada,cha,cham
+proxlan,"usu.nucpf, usu.nmusuario",Gestor do Projeto,gpr,nmgest
+proxpar,cdd.iduf,UF do Projeto,ufp,uf
+proxpar,"epp.identidadeprop, epp.nmentidade",Entidade Proponente,epp,nmentprop
+proxpar,epp.nmchamada,Chamada,cha,cham
+proxpar,"usu.nucpf, usu.nmusuario",Gestor do Projeto,gpr,nmgest

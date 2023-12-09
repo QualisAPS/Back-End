@@ -1,0 +1,213 @@
+id,nmpais,sigla,ddi,moeda,moeda_sigla,usuario_criacao,usuario_edicao,data_criacao,data_edicao
+1,Afghanistão,AF,93,Afghani,AFN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+2,África do Sul,ZA,27,Rand,ZAR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+3,Albânia,AL,355,Lek,ALL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+4,Alemanha,DE,49,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+5,Andora,AD,376,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+6,Angola,AO,244,Kwanza,AOA,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+7,Anguilla,AI,1264,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+8,Antarctica,AQ,672,Vazio,Vazio,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+9,Antígua e Barbuda,AG,1268,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+10,Arábia Saudita,SA,966,Rial saudita,SAR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+11,Argélia,DZ,213,Dinar argelino,DZD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+12,Argentina,AR,54,Peso argentino,ARS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+13,Arménia,AM,374,Dram armênio,AMD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+14,Aruba,AW,297,Florim de Aruba,AWG,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+15,Austrália,AU,61,Dólar australiano,AUD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+16,Áustria,AT,43,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+17,Azerbaijão,AZ,994,Manat do Azerbaijão,AZN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+18,Bahamas,BS,1242,Dólar das Bahamas,BSD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+19,Bahrein,BH,973,Dinar do Bahrein,BHD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+20,Bangladesh,BD,880,Taka,BDT,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+21,Barbados,BB,1246,Dólar de Barbados,BBD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+22,Bélgica,BE,32,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+23,Belize,BZ,501,Dólar de Belize,BZD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+24,Benim,BJ,229,CFA Franco BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+25,Bermuda,BM,1441,Dólar das Bermudas,BMD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+26,Bolívia,BO,591,Boliviano,BOB,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+27,Bósnia e Herzegovina,BA,387,Marco conversível,BAM,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+28,Botswana,BW,267,Pula,BWP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+29,Brasil,BR,55,Real brasileiro,BRL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+30,Brunei,BN,673,Dólares de Brunei,BND,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+31,Bulgária,BG,359,Lev búlgaro,BGN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+32,Burkina Faso,BF,226,CFA Franco BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+33,Burundi,BI,257,Franco do Burundi,BIF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+34,Butão,BT,975,Ngultrum,BTN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+35,Cabo Verde,CV,238,Cabo Verde Escudo,CVE,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+36,Camarões,CM,237,CFA Franc BEAC,XAF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+37,Camboja,KH,855,Riel,KHR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+38,Canadá,CA,1,Dólar canadense,CAD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+39,Cazaquistão,KZ,7,Tenge,KZT,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+40,Chad,TD,235,CFA Franc BEAC,XAF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+41,Chile,CL,56,Peso chileno,CLP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+42,China,CN,86,Yuan Renminbi,CNY,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+43,Chipre,CY,357,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+44,Cingapura,SG,65,Dólar de Singapura,SGD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+45,Colômbia,CO,57,Peso colombiano,COP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+46,Comores,KM,269,Franco Comor,KMF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+47,Costa do Marfim,CI,225,CFA Franc BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+48,Costa Rica,CR,506,Colon da Costa Rica,CRC,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+49,Croácia,HR,385,Kuna,HRK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+50,Cuba,CU,53,Peso cubano,CUP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+51,Dinamarca,DK,45,Coroa dinamarquesa,DKK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+52,Djibouti,DJ,253,Franco do Djibouti,DJF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+53,Dominica,DM,1767,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+54,Egito,EG,20,Libra egípcia,EGP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+55,El Salvador,SV,503,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+56,Emirados Árabes Unidos,AE,971,UAE Dirham,AED,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+57,Equador,EC,593,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+58,Eritreia,ER,291,Nakfa,ERN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+59,Espanha,ES,34,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+60,Estados Unidos da América,US,1,Dólar americano,USD,sistema,22895523053,2021-06-25 11:55:25.520311,2021-11-19 09:16:28
+61,Estónia,EE,372,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+62,Etiópia,ET,251,Birr etíope,ETB,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+63,Fiji,FJ,679,Dólar de Fiji,FJD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+64,Filipinas,PH,63,Peso filipino,PHP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+65,Finlândia,FI,358,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+66,França,FR,33,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+67,Gabão,GA,241,CFA Franc BEAC,XAF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+68,Gâmbia,GM,220,Dalasi,GMD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+69,Gana,GH,233,Ghana Cedi,GHS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+70,Geórgia,GE,995,Lari,GEL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+71,Gibraltar,GI,350,Libra De Gibraltar,GIP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+72,Granada,GD,1473,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+73,Grécia,GR,30,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+74,Groelândia,GL,299,Coroa dinamarquesa,DKK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+75,Guam,GU,1671,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+76,Guatemala,GT,502,Quetzal,GTQ,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+77,Guiana,GY,592,Dólar da Guiana,GYD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+78,Guiné,GN,224,Franco da Guiné,GNF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+79,Guiné Equatorial,GQ,240,CFA Franc BEAC,XAF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+80,Guiné-Bissau,GW,245,CFA Franc BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+81,Haiti,HT,509,Gourde,HTG,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+82,Honduras,HN,504,Lempira,HNL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+83,Hong Kong,HK,852,Dólar de Hong Kong,HKD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+84,Hungria,HU,36,Forint,HUF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+85,"Iémen (Iémen, Yemen)",YE,967,Rial Iemenita,YER,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+86,Ilha de Man,IM,44,Libra esterlina,GBP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+87,Ilhas Cayman,KY,1345,Dólar das Ilhas Caimã,KYD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+88,Ilhas Cocos (Keeling),CC,61,Dólar australiano,AUD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+89,Ilhas Cook,CK,682,Dólar da Nova Zelândia,NZD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+90,Ilhas Falkland (Malvinas),FK,500,Libra das Ilhas Falkland,FKP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+91,Ilhas Feroé,FO,298,Coroa dinamarquesa,DKK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+92,Ilhas Mariana do Norte,MP,1670,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+93,Ilhas Marshall,MH,692,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+94,Ilhas Salomão,SB,677,Dólar das Ilhas Salomão,SBD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+95,Ilhas Virgens Americanas,VI,1340,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+96,Ilhas Virgens Britânicas,VG,1284,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+97,India,IN,91,Rupia indiana,INR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+98,Indonésia,ID,62,Rupia,IDR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+99,Irã,IR,98,Rial iraniano,IRR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+100,Iraque,IQ,964,Dinar iraquiano,IQD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+101,Irlanda,IE,353,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+102,Islândia,IS,354,Coroa da Islândia,ISK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+103,Israel,IL,972,Novo Sheqel israelense,ILS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+104,Itália,IT,39,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+105,Jamaica,JM,1876,Dólar jamaicano,JMD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+106,Japão,JP,81,Iene,JPY,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+107,Jersey,JE,,Libra esterlina,GBP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+108,Jordânia,JO,962,Dinar jordaniano,JOD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+109,Kiribati,KI,686,Dólar australiano,AUD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+110,Kuwait,KW,965,O Dinar do Kuwait,KWD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+111,Laos,LA,856,Kip,LAK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+112,Lesoto,LS,266,Loti,LSL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+113,Letônia,LV,371,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+114,Líbano,LB,961,Libra libanesa,LBP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+115,Libéria,LR,231,Dólar liberiano,LRD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+116,Líbia,LY,218,Dinar da Líbia,LYD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+117,Liechtenstein,LI,423,Franco suíço,CHF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+118,Lituânia,LT,370,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+119,Luxemburgo,LU,352,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+120,Macau,MO,853,Pataca,MOP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+121,Macedónia,MK,389,Denar,MKD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+122,Madagáscar,MG,261,Ariary malgaxe,MGA,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+123,Malásia,MY,60,Ringgit da Malásia,MYR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+124,Malawi,MW,265,Kwacha,MWK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+125,Maldivas,MV,960,Rufiyaa,MVR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+126,Mali,ML,223,CFA Franc BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+127,Malta,MT,356,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+128,Marrocos,MA,212,Dirham marroquino,MAD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+129,Maurícia,MQ,230,Rupia das Maurícias,MUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+130,Mauritânia,MR,222,Ouguiya,MRO,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+131,Mayotte,YT,262,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+132,México,MX,52,Peso mexicano,MXN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+133,Micronésia,FM,691,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+134,Moçambique,MZ,258,Moçambique Metical,MZN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+135,Moldávia,MD,373,Leão da Moldávia,MDL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+136,Monaco,MC,377,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+137,Mongólia,MN,976,Tugrik,MNT,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+138,Montenegro,ME,382,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+139,Montserrat,MS,1664,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+140,Myanmar (Burma),MM,95,Kyat,MMK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+141,Namíbia,NA,264,Dólares da Namíbia,NAD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+142,Nauru,NR,674,Dólar australiano,AUD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+143,Nepal,NP,977,Rupia nepalesa,NPR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+144,Nicaragua,NI,505,Cordoba Oro,NIO,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+145,Níger,NE,227,CFA Franc BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+146,Nigéria,NG,234,Naira,NGN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+147,Niue,NU,683,Dólar da Nova Zelândia,NZD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+148,Noruega,NO,47,Coroa norueguesa,NOK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+149,Nova Caledônia,NC,687,CFP Franc,XPF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+150,Nova Zelândia,NZ,64,Dólar da Nova Zelândia,NZD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+151,Omã,OM,968,Rial Omani,OMR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+152,Países Baixos,NL,31,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+153,Palau,PW,680,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+154,Panamá,PA,507,Balboa,PAB,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+155,Papua-Nova Guiné,PG,675,Kina,PGK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+156,Paquistão,PK,92,Rupia do Paquistão,PKR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+157,Paraguai,PY,595,Guarani,PYG,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+158,Peru,PE,51,Nuevo Sol,PEN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+159,Polinésia Francesa,PF,689,CFP Franc,XPF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+160,Polónia,PL,48,Zloty,PLN,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+161,Porto Rico,PR,1,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+162,Portugal,PT,351,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+163,Quénia (Kenya),KE,254,Xelim do Quênia,KES,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+164,Quirguistão,KG,996,Som,KGS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+165,República Checa,CZ,420,Coroa Tcheca,CZK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+166,República Dominicana,DO,1809,Peso dominicano,DOP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+167,Roménia,RO,40,Leu romeno,RON,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+168,Ruanda,RW,250,Rwanda Franc,RWF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+169,São Bertolomeu,BL,590,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+170,Santa Helena,SH,290,Saint Helena Pound,SHP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+171,São Cristóvão e Névis,KN,1869,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+172,Santa Lúcia,LC,1758,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+173,São Martim,MF,1599,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+174,São Pedro e Miqueão,PM,508,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+175,São Vicente e Granadinas,VC,1784,Dólar do Caribe Oriental,XCD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+176,Samoa,WS,685,Tala,WST,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+177,Samoa Americana,AS,1684,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+178,São Marino,SM,378,Euro,EUR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+179,São Tomé e Príncipe,ST,239,Dobra,STD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+180,Senegal,SN,221,CFA Franc BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+181,Serra Leoa,SL,232,Leone,SLL,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+182,Seychelles,SC,248,Rúpia das Seychelles,SCR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+183,Somalia,SO,252,Shilling Somali,SOS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+184,Sri Lanka,LK,94,Rupia do Sri Lanka,LKR,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+185,Sudão,SD,249,Libra sudanesa,SDG,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+186,Suécia,SE,46,Swedish Krona,SEK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+187,Suiça,CH,41,Franco suíço,CHF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+188,Suriname,SR,597,Dólar do Suriname,SRD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+189,Svalbard,SJ,,Coroa norueguesa,NOK,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+190,Tailândia,TH,66,Baht,THB,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+191,Taiwan,TW,886,Novo dólar de Taiwan,TWD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+192,Tajiquistão,TJ,992,Somoni,TJS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+193,Tanzânia,TZ,255,Xelim da Tanzânia,TZS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+194,Timor-Leste,TL,670,Dólar americano,USD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+195,Togo,TG,228,CFA Franc BCEAO,XOF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+196,Toquelau,TK,690,Dólar da Nova Zelândia,NZD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+197,Tonga,TO,676,Pa’anga,TOP,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+198,Trindade e Tobago,TT,1868,Dólar de Trinidad e Tobago,TTD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+199,Tunísia,TN,216,Dinar tunisino,TND,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+200,Turquemenistão,TM,993,Turcomenistão New Manat,TMT,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+201,Turquia,TR,90,Lira turca,TRY,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+202,Tuvalu,TV,688,Dólar australiano,AUD,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+203,Ucrânia,UA,380,Hryvnia,UAH,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+204,Uganda,UG,256,Xelim de Uganda,UGX,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+205,Uruguai,UY,598,Peso Uruguaio,UYU,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+206,Usbequistão,UZ,998,Soma do Uzbequistão,UZS,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+207,Vanuatu,VU,678,Vatu,VUV,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+208,Venezuela,VE,58,Bolívar,VEF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+209,Vietnã (Vietname),VN,84,Dong,VND,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+210,Wallis e Futuna,WF,681,CFP Franc,XPF,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+211,Zâmbia,ZM,260,Zambian Kwacha,ZMW,sistema,sistema,2021-06-25 11:55:25.520311,2021-06-25 11:55:25.520311
+212,Zimbabwe (Zimbabué),ZW,263,Dólar zimbabuano,ZWL,sistema,04473535193,2021-06-25 11:55:25.520311,2021-06-29 12:41:05

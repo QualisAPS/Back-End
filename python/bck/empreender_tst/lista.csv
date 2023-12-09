@@ -1,0 +1,8 @@
+id,nome,ativo,data_inclusao,usuario_inclusao,data_atualizacao,usuario_alteracao
+1,EC2017-Documentos para encerramento de projetos,true,2020-02-27 14:23:03,renato.rossi,2020-03-19 12:06:23,goliveira
+2,Teste,false,2020-03-11 10:18:23,renato.rossi,2020-03-11 10:18:48,renato.rossi
+3,AL - Invest: Documentos Comprobatórios,true,2020-06-18 17:07:56,ogalimberti,2020-06-18 17:07:56,ogalimberti
+4,xxxaj,false,2020-10-30 12:06:41,nmabeck,2020-10-30 12:10:43,nmabeck
+5,E22 - Apoio a demandas - Habilitação de entidades,true,2022-05-18 15:25:09,renato.rossi,2022-05-18 15:25:09,renato.rossi
+6,E2022 - Lista de documentos para encerramento,true,2022-10-25 10:47:18,renato.rossi,2023-03-24 12:46:11,nmabeck
+7,E2022 - Lista de Documentos Comprobatórios,true,2023-02-02 17:27:56,amauger,2023-03-24 11:52:23,nmabeck

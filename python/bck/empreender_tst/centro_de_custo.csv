@@ -1,0 +1,250 @@
+id,idprojeto,descricao,cc1,cc2,data_inclusao,usuario_inclusao,data_atualizacao,usuario_alteracao,status
+1,189,Estruturação - Sem despesa,61.140,A definir,2019-04-15 08:40:49,gabriel.lima,2019-04-15 08:40:49,gabriel.lima,
+2,189,Gestão e monitoramento - Apoio administrativo,62.010,Pessoal,2019-04-15 08:40:49,gabriel.lima,2019-04-15 08:40:49,gabriel.lima,
+3,189,Gestão e monitoramento - Consultoria,62.020,Pessoal,2019-04-15 08:40:49,gabriel.lima,2019-04-15 08:40:49,gabriel.lima,
+4,189,Gestão e monitoramento - Estada,62.050,Viagens,2019-04-15 08:40:49,gabriel.lima,2019-04-15 08:40:49,gabriel.lima,
+5,189,Gestão e monitoramento - Material de escritório,62.110,Infraestrutura,2019-04-15 08:40:49,gabriel.lima,2019-04-15 08:40:49,gabriel.lima,
+6,189,Gestão e monitoramento - Passagens aéreas,62.120,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+7,189,Gestão e monitoramento - TIC,62.190,Infraestrutura,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+8,189,Gestão e monitoramento - Fretes e correio,62.060,Serviços,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+9,189,Gestão e monitoramento - Instalações,62.070,Infraestrutura,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+10,189,Mensuração - Serviços especializados,63.160,Serviços,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+11,189,Prêmio empreender - Consultoria,64.020,Pessoal,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+12,189,Avaliação - Sem despesa,64.140,Avaliação - Sem despesa,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+13,189,Chamada de projetos - Consultoria,65.020,Pessoal,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+14,189,Chamada de projetos - Estada,65.050,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+15,189,Chamada de projetos - Local e equipamentos,65.080,Eventos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+16,189,Chamada de projetos - Passagens aéreas,65.120,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+17,189,Chamada de projetos - Material de capacitação,65.100,Eventos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+18,189,Portal do Empreender - Serviços especializados,66.160,Serviços,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+19,189,Prêmio empreender - Estada,67.050,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+20,189,Prêmio empreender - Local e equipamentos,67.080,Eventos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+21,189,Prêmio empreender - Passagens aéreas,67.120,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+22,189,Prêmio empreender - Serviços gráficos,67.170,Serviços,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+23,189,Prêmio empreender - Prêmios,67.130,Outros,2019-04-15 08:40:50,gabriel.lima,2021-07-07 10:12:45,renato.rossi,S
+24,189,Prêmio empreender - Material de capacitação,67.100,Eventos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+25,189,Prêmio empreender - Materiais diversos,67.090,Eventos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+26,189,Prêmio empreender - Serviços de cerimonial,67.150,Serviços,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+27,189,Desenvolvimento dos projetos - Consultoria,68.020,Pessoal,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+28,189,Desenvolvimento dos projetos - Deslocamento terrestre,68.040,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+29,189,Desenvolvimento dos projetos - Estada,68.050,Viagens,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+30,189,Desenvolvimento dos projetos - Local e equipamentos,68.080,Eventos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+31,189,Desenvolvimento dos projetos - Passagens aéreas,68.120,Viagens,2019-04-15 08:40:50,gabriel.lima,2020-12-15 14:06:18,renato.rossi,S
+32,189,Desenvolvimento de projetos - Subsídio-BR-BrasíliaMulher empresária,6818.1001,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+33,189,Desenvolvimento de projetos - Subsídio-MT-RondonópolisSalões de beleza /cabeleireiros,6818.1002,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+34,189,"Desenvolvimento de projetos - Subsídio-BA-CamaçariBares, restaurantes e lanchonetes",6818.1007,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+35,189,Desenvolvimento de projetos - Subsídio-MG-João PinheiroFruticultura,6818.1024,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+36,189,"Desenvolvimento de projetos - Subsídio-MG-JuruaiaBares, restaurantes e lanchonetes",6818.1028,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+37,189,"Desenvolvimento de projetos - Subsídio-MG-PatrocínioBares, restaurantes e lanchonetes",6818.1036,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+38,189,Desenvolvimento de projetos - Subsídio-MG-PatrocínioInformática (serviços),6818.1037,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+39,189,Desenvolvimento de projetos - Subsídio-MG-UberlândiaMercados e mercearias e supermercados,6818.1052,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+40,189,"Desenvolvimento de projetos - Subsídio-MG-UberlândiaBares, restaurantes e lanchonetes",6818.1053,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+41,189,Desenvolvimento de projetos - Subsídio-SC-Jaraguá do Sul-Auto mecânicas,6818.1059,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+42,189,Desenvolvimento de projetos - Subsídio-SC-Jaraguá do Sul-Panificadoras e confeitarias,6818.1061,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+43,189,Desenvolvimento de projetos - Subsídio-SC-Canoinhas e Três Barras-Tecnologia e Inovação,6818.1065,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+44,189,Desenvolvimento de projetos - Subsídio-SC-Chapecó-Tecnologia e Inovação,6818.1066,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+45,189,Desenvolvimento de projetos - Subsídio-SC-Concórdia-Feirantes e pequenos produtores rurais,6818.1067,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+46,189,Desenvolvimento de projetos - Subsídio-SC-Iporã do Oeste-Confecções (comércio),6818.1070,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+47,189,Desenvolvimento de projetos - Subsídio-SC-Lages-Tecnologia e Inovação,6818.1075,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+48,189,Desenvolvimento de projetos - Subsídio-SC-Quilombo-Vitivinicultores,6818.1079,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+49,189,Desenvolvimento de projetos - Subsídio-SC-Rio do Sul-Construção Civil,6818.1080,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+50,189,"Desenvolvimento de projetos - Subsídio-SC-Rio do Sul-Bares, restaurantes e lanchonetes",6818.1081,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+51,189,Desenvolvimento de projetos - Subsídio-SC-Rio do Sul-Tecnologia e Inovação,6818.1082,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+52,189,Desenvolvimento de projetos - Subsídio-SC-São Lourenço do Oeste-Diversos,6818.1086,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+53,189,Desenvolvimento de projetos - Subsídio-SC-São Lourenço do Oeste-Móveis (Indústria),6818.1087,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+54,189,Desenvolvimento de projetos - Subsídio-SC-São Miguel do Oeste-Escritórios de contabilidade e contadores,6818.1089,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+55,189,Desenvolvimento de projetos - Subsídio-SC-São Miguel do Oeste-Auto mecânicas,6818.1091,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+56,189,Desenvolvimento de projetos - Subsídio-SC-São Miguel do Oeste-Mercados e mercearias e supermercados,6818.1092,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+57,189,Desenvolvimento de projetos - Subsídio-SC-São Miguel do Oeste-Tecnologia e Inovação,6818.1093,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+58,189,Desenvolvimento de projetos - Subsídio-SC-Brusque-Confecções (indústria e comércio),6818.1096,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+59,189,Desenvolvimento de projetos - Subsídio-SC-Brusque-Panificadoras e confeitarias,6818.1098,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+60,189,Desenvolvimento de projetos - Subsídio-SC-Campos Novos-Auto mecânicas,6818.1101,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+61,189,Desenvolvimento de projetos - Subsídio-SC-Florianópolis-Auto mecânicas,6818.1113,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+62,189,Desenvolvimento de projetos - Subsídio-SC-Iporã do Oeste-Auto mecânicas,6818.1118,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+63,189,Desenvolvimento de projetos - Subsídio-SC-Ituporanga-Turismo,6818.1119,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+64,189,Desenvolvimento de projetos - Subsídio-SC-São Miguel do Oeste-Mulher Empresária,6818.1125,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+65,189,Desenvolvimento de projetos - Subsídio-PR-Assis Chateaubriand-Mulher Empresária,6818.1129,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+66,189,Desenvolvimento de projetos - Subsídio-PR-Guarapuava-Mulher Empresária,6818.1133,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+67,189,Desenvolvimento de projetos - Subsídio-PR-Londrina-Engenheiros e arquitetos,6818.1136,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+68,189,"Desenvolvimento de projetos - Subsídio-PR-Marechal Candido Rondon-Bares, restaurantes e lanchonetes",6818.1137,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+69,189,Desenvolvimento de projetos - Subsídio-PR-Marechal Candido Rondon-Imobiliárias,6818.1138,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+70,189,Desenvolvimento de projetos - Subsídio-PR-Marechal Candido Rondon-Informática (serviços),6818.1139,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+71,189,Desenvolvimento de projetos - Subsídio-PR-Marechal Candido Rondon-Auto elétrica,6818.1141,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+72,189,Desenvolvimento de projetos - Subsídio-PR-Marechal Candido Rondon-Móveis (Indústria),6818.1142,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+73,189,Desenvolvimento de projetos - Subsídio-PR-Maringá-Auto mecânicas,6818.1150,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+74,189,Desenvolvimento de projetos - Subsídio-PR-Maringá-Confecções (indústria),6818.1151,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+75,189,Desenvolvimento de projetos - Subsídio-PR-Medianeira-Imobiliárias,6818.1155,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+76,189,Desenvolvimento de projetos - Subsídio-PR-Quedas do Iguaçu-Imobiliárias e corretores,6818.1158,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+77,189,Desenvolvimento de projetos - Subsídio-PR-Toledo-Imobiliárias,6818.1161,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+78,189,Desenvolvimento de projetos - Subsídio-PR-Toledo-Materiais de construção (loja),6818.1162,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+79,189,"Desenvolvimento de projetos - Subsídio-SP-Barra Bonita-Bares, restaurantes e lanchonetes",6818.1166,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+80,189,Desenvolvimento de projetos - Subsídio-SP-Franca-Materiais de construção (comércio),6818.1170,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+81,189,"Desenvolvimento de projetos - Subsídio-SP-Franca-Bares, restaurantes e lanchonetes",6818.1172,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+82,189,Desenvolvimento de projetos - Subsídio-SP-Franca-Informática (serviços),6818.1173,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+83,189,Desenvolvimento de projetos - Subsídio-SP-José Bonifácio-Auto mecânicas,6818.1176,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+84,189,Desenvolvimento de projetos - Subsídio-SP-José Bonifácio-Informática (serviços),6818.1178,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+85,189,Desenvolvimento de projetos - Subsídio-SP-José Bonifácio-Confecções (comércio),6818.1179,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+86,189,Desenvolvimento de projetos - Subsídio-SP-Lençóis Paulista-Feirantes e pequenos produtores rurais,6818.1180,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+87,189,Desenvolvimento de projetos - Subsídio-SP-Marília-Informática (serviços),6818.1182,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+88,189,Desenvolvimento de projetos - Subsídio-SP-Mogi das Cruzes-Academias de ginástica,6818.1183,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+89,189,Desenvolvimento de projetos - Subsídio-SP-Presidente Prudente-Auto mecânicas,6818.1184,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+90,189,Desenvolvimento de projetos - Subsídio-SP-Ribeirão Preto-Clínicas veterinárias,6818.1188,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+91,189,Desenvolvimento de projetos - Subsídio-SP-Santo André-Mulher Empresária,6818.1192,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+92,189,Desenvolvimento de projetos - Subsídio-SP-São José do Rio Preto-Escolas Infantis,6818.1193,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+93,189,Desenvolvimento de projetos - Subsídio-SP-Socorro-Artesanato,6818.1194,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+94,189,"Desenvolvimento de projetos - Subsídio-BA-Paulo Afonso-Bares, restaurantes e lanchonetes",6818.1200,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+95,189,Desenvolvimento de projetos - Subsídio-RN-Apodi-Confecções (comércio),6818.1206,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+96,189,Desenvolvimento de projetos - Subsídio-MG-Carmópolis de Minas-Salões de beleza /cabeleireiros,6818.1218,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+97,189,Desenvolvimento de projetos - Subsídio-MG-Carmópolis de Minas-Feirantes e pequenos produtores rurais,6818.1219,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+98,189,Desenvolvimento de projetos - Subsídio-MG-Nova Lima-Farmácias e drogarias,6818.1223,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+99,189,Desenvolvimento de projetos - Subsídio-MG-São João Del-Rei-Confecções (comércio),6818.1228,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+100,189,Desenvolvimento de projetos - Subsídio-RS-Caxias do Sul-Artesanato,6818.1235,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+101,189,Desenvolvimento de projetos - Subsídio-RS-Caxias do Sul-Economia Criativa,6818.1237,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+102,189,"Desenvolvimento de projetos - Subsídio-RS-Caxias do Sul-Bares, restaurantes e lanchonetes",6818.1240,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+103,189,Desenvolvimento de projetos - Subsídio-RS-Caxias do Sul-Metalmecânica,6818.1241,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+104,189,Desenvolvimento de projetos - Subsídio-RS-Caxias do Sul-Marcenaria,6818.1242,Apoio a projetos,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+105,189,Outras saídas - Movimentação temporária,6991.0000,Outras saídas - Movimentação temporária,2019-07-16 10:49:53,gabriel.lima,2019-07-16 10:49:53,gabriel.lima,
+106,189,Outras saídas - Outros,6992.0000,Outras saídas - Outros,2019-06-21 12:17:04,gabriel.lima,2019-06-21 12:17:04,gabriel.lima,
+107,189,Outras saídas - Pendências,6993.0000,Outras saídas - Pendências,2019-06-21 12:17:04,gabriel.lima,2019-06-21 12:17:04,gabriel.lima,
+108,189,Outras saídas - Tarifas bancárias,6994.0000,Outras saídas - Tarifas bancárias,2019-06-21 12:17:04,gabriel.lima,2019-06-21 12:17:04,gabriel.lima,
+109,189,Outras saídas - Aplicação financeira,6996.0000,Outras saídas - Aplicação financeira,2019-06-21 12:17:04,gabriel.lima,2019-06-21 12:17:04,gabriel.lima,
+110,189,Desenvolvimento de projetos - subsídio,6818.9997,Apoio a projetos,2019-06-21 12:17:04,gabriel.lima,2019-06-21 12:17:04,gabriel.lima,
+111,189,Desenvolvimento de projetos - participação local,6818.9998,Apoio a projetos,2019-06-21 12:17:04,gabriel.lima,2019-06-21 12:17:04,gabriel.lima,
+112,2004,Personal técnico socio LA,1112,Pessoal,2020-06-18 09:02:57,gabriel.lima,2020-06-18 09:02:57,gabriel.lima,
+113,2004,Project manager socio LA,1114,Pessoal,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+114,2004,Director socio LA (10%),1116,Pessoal,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+115,2004,Personal administrativo y de apoyo LA (20%),1122,Pessoal,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+116,2004,Dietas UE,1311,Dietas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+117,2004,Dietas LA,1312,Dietas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+118,2004,Dietas LA Local,1321,Dietas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+119,2004,Velho Catering,1332,Catering,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+120,2004,Dietas LA Consultorias,1341,Dietas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+121,2004,Vuelos internacionales Intercontinental,2110,Viagens aéreas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+122,2004,Vuelos internacionales Continental,2120,Viagens aéreas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+123,2004,Vuelos locales (Nacional),2210,Viagens aéreas,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+124,2004,Transporte terrestre ,2220,Viagens terrestres,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+125,2004,"Mobiliario, equipos informáticas eventos internacionales",3210,Mobiliário,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+126,2004,"Mobiliario, equipos informáticas eventos nacionales",3220,Mobiliário,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+127,2004,Otros (alquiler de stands),3500,Outros,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+128,2004,Material de capacitación,4310,Materiais,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+129,2004,Material de oficina,4320,Materiais,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+130,2004,"Otros servicios(tel, etc.)",4400,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+131,2004,Publicaciones,5100,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+132,2004,"Estúdios, investigatición",5200,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+133,2004,Costes de verificación de gastos_auditoria,5300,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+134,2004,Costes de evaluación,5400,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+135,2004,Traducion,5500,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+136,2004,Servícios financieros (costes de garantia banco),5600,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+137,2004,Costes de conferencias/seminarios,5700,Eventos,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+138,2004,Organización de Conferencias y Seminários ,5710,Eventos,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+139,2004,Catering,5720,Catering,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+140,2004,Costes de consultorías/asistencias técnicas,5800,Serviços,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+141,2004,Actividades de visibilidad,5900,Actividades de visibilidad,2020-06-18 09:02:58,gabriel.lima,2020-06-18 09:02:58,gabriel.lima,
+142,2004,Catering,5720,Catering,2020-11-17 12:52:28,gabriel.lima,2020-11-17 12:52:28,gabriel.lima,
+143,189,Gestão e monitoramento - despesas bancárias,62.130,Infraestrutura,2021-02-19 13:19:30,renato.rossi,2021-02-19 13:22:28,renato.rossi,S
+145,189,Chamada de projetos - ajuste para conciliação com Prestecontas,65.999,Eventos,2021-05-13 07:18:46,renato.rossi,2021-05-13 08:32:38,renato.rossi,S
+146,189,Desenvolvimento de projetos - ajuste para conciliação com Prestecontas,6818.9996,A definir,2021-05-13 08:34:21,renato.rossi,2021-05-21 07:36:24,renato.rossi,S
+147,2028,Empreender nos Estados e Municípios - combustíveis,211010500000,Viagens,2022-01-27 14:24:35,lsoares,2022-02-16 17:31:03,renato.rossi,S
+148,2028,Empreender nos Estados e Municípios - Consultoria,211010200000,Pessoal,2022-01-27 14:38:59,lsoares,,lsoares,S
+149,2028,Empreender nos Estados e Municípios - outros meios de transporte,211010300000,Viagens,2022-01-27 14:40:51,lsoares,2022-02-02 09:09:15,lsoares,S
+150,2028,Empreender nos Estados e Municípios - Local para eventos,211011700000,Eventos,2022-01-27 14:42:41,lsoares,,lsoares,S
+151,2028,Empreender nos Estados e Municípios - Material de escritório,211010900000,Infraestrutura,2022-01-27 14:44:51,lsoares,2022-02-02 10:29:36,renato.rossi,S
+152,2028,Empreender nos Estados e Municípios - Materiais de instrução,211011000000,Eventos,2022-01-27 14:48:24,lsoares,,lsoares,S
+153,2028,Empreender nos Estados e Municípios - TIC,211011200000,Infraestrutura,2022-01-27 14:49:16,lsoares,,lsoares,S
+154,2028,Revisão da metodologia - Consultoria,211020200000,Pessoal,2022-01-27 14:56:10,lsoares,,lsoares,S
+155,2028,Revisão da metodologia - Estada,211020600000,Viagens,2022-01-27 14:58:10,lsoares,,lsoares,S
+156,2028,Revisão da metodologia - Local para eventos,211021700000,Eventos,2022-01-27 14:59:20,lsoares,,lsoares,S
+157,2028,Revisão da metodologia - Passagens aéreas,211020700000,Viagens,2022-01-27 15:01:27,lsoares,,lsoares,S
+158,2028,Capacitação - Consultoria,211030200000,Pessoal,2022-01-27 15:03:55,lsoares,,lsoares,S
+159,2028,Capacitação - Deslocamento terrestre,211030400000,Viagens,2022-01-27 15:04:48,lsoares,,lsoares,S
+160,2028,Capacitação - Estada,211030600000,Viagens,2022-01-27 15:05:49,lsoares,,lsoares,S
+161,2028,Capacitação - Local para eventos,211031700000,Eventos,2022-01-27 15:06:33,lsoares,,lsoares,S
+162,2028,Capacitação - Materiais de instrução,211031000000,Eventos,2022-01-27 15:07:30,lsoares,,lsoares,S
+163,2028,Capacitação - Passagens aéreas,211030700000,Viagens,2022-01-27 15:08:28,lsoares,,lsoares,S
+164,2028,Capacitação - Serviços técnicos,211031300000,Serviços,2022-01-27 15:09:53,lsoares,,lsoares,S
+165,2028,Capacitação - TIC,211031200000,Infraestrutura,2022-01-27 15:10:50,lsoares,,lsoares,S
+166,2028,Intercâmbio e valorização - Consultoria,211040200000,Pessoal,2022-01-27 15:11:43,lsoares,,lsoares,S
+167,2028,Intercâmbio e valorização - Deslocamento terrestre,211040400000,Viagens,2022-01-27 15:12:25,lsoares,,lsoares,S
+168,2028,Intercâmbio e valorização - Estada,211040600000,Viagens,2022-01-27 15:13:15,lsoares,,lsoares,S
+169,2028,Intercâmbio e valorização - Local para eventos,211041700000,Eventos,2022-01-27 15:14:14,lsoares,,lsoares,S
+170,2028,Intercâmbio e valorização - Materiais de instrução,211041000000,Eventos,2022-01-27 15:15:05,lsoares,,lsoares,S
+171,2028,Intercâmbio e valorização - Palestras,211040100000,Eventos,2022-01-27 15:16:18,lsoares,,lsoares,S
+172,2028,Intercâmbio e valorização - Passagens aéreas,211040700000,Viagens,2022-01-27 15:17:27,lsoares,,lsoares,S
+173,2028,Intercâmbio e valorização - Prêmios,211041500000,Eventos,2022-01-27 15:20:01,lsoares,,lsoares,S
+174,2028,Intercâmbio e valorização - Serviços técnicos,211041300000,Serviços,2022-01-27 15:21:04,lsoares,,lsoares,S
+175,2028,Apoio a demandas - Apoio a demandas das empresas,212013000000,Apoio a demandas,2022-01-27 15:22:16,lsoares,2022-02-02 14:35:11,renato.rossi,S
+176,2028,Apoio a demandas - Consultoria,212010200000,Pessoal,2022-01-27 15:22:58,lsoares,,lsoares,S
+177,2028,Apoio a demandas - Deslocamento terrestre,212010400000,Viagens,2022-01-27 15:31:14,lsoares,,lsoares,S
+178,2028,Apoio a demandas - Estada,212010600000,Viagens,2022-01-27 15:32:14,lsoares,,lsoares,S
+179,2028,Apoio a demandas - Passagens aéreas,212010700000,Viagens,2022-01-27 15:33:10,lsoares,,lsoares,S
+180,2028,Sensibilização de dirigentes - Deslocamento terrestre,213010400000,Viagens,2022-01-27 15:33:51,lsoares,,lsoares,S
+181,2028,Sensibilização de dirigentes - Estada,213010600000,Viagens,2022-01-27 15:34:54,lsoares,,lsoares,S
+182,2028,Sensibilização de dirigentes - Local para eventos,213011700000,Eventos,2022-01-27 15:35:25,lsoares,,lsoares,S
+183,2028,Sensibilização de dirigentes - Palestras,213010100000,Pessoal,2022-01-27 15:36:04,lsoares,,lsoares,S
+184,2028,Sensibilização de dirigentes - Passagens aéreas,213010700000,Viagens,2022-01-27 15:36:52,lsoares,,lsoares,S
+185,2028,Capacitação de executivos - Consultoria,213020200000,Pessoal,2022-01-27 15:37:24,lsoares,,lsoares,S
+186,2028,Capacitação de executivos - Deslocamento terrestre,213020400000,Viagens,2022-01-27 15:38:23,lsoares,,lsoares,S
+187,2028,Capacitação de executivos - Estada,213020600000,Viagens,2022-01-27 15:39:11,lsoares,,lsoares,S
+188,2028,Capacitação de executivos - Local para eventos,213021700000,Eventos,2022-01-27 15:40:28,lsoares,,lsoares,S
+189,2028,Capacitação de executivos - Materiais de instrução,213021000000,Eventos,2022-01-27 15:41:49,lsoares,,lsoares,S
+190,2028,Capacitação de executivos - Passagens aéreas,213020700000,Viagens,2022-01-27 15:42:54,lsoares,,lsoares,S
+191,2028,Planejamento estratégico - Combustível,213030500000,Viagens,2022-01-27 15:43:31,lsoares,,lsoares,S
+192,2028,Planejamento estratégico - Consultoria,213030200000,Pessoal,2022-01-27 15:44:14,lsoares,,lsoares,S
+193,2028,Planejamento estratégico - Estada,213030600000,Viagens,2022-01-27 15:44:58,lsoares,,lsoares,S
+194,2028,Planejamento estratégico - Locação de veículos,213030300000,Viagens,2022-01-27 15:45:36,lsoares,,lsoares,S
+195,2028,Planejamento estratégico - Local para eventos,213031700000,Eventos,2022-01-27 15:46:14,lsoares,,lsoares,S
+196,2028,Planejamento estratégico - Materiais de instrução,213031000000,Eventos,2022-01-27 15:46:48,lsoares,,lsoares,S
+197,2028,Planejamento estratégico - Passagens aéreas,213030700000,Viagens,2022-01-27 15:47:39,lsoares,,lsoares,S
+198,2028,Gestão & Monitoramento - Consultoria,214010200000,Pessoal,2022-01-27 15:49:53,lsoares,,lsoares,S
+199,2028,Gestão & Monitoramento - Estada,214010600000,Viagens,2022-01-27 15:50:27,lsoares,,lsoares,S
+200,2028,Gestão & Monitoramento - Fretes e correio,214010800000,Serviços,2022-01-27 15:51:04,lsoares,2022-02-02 10:33:54,renato.rossi,S
+201,2028,Gestão & Monitoramento - Instalações,214011100000,Infraestrutura,2022-01-27 15:51:43,lsoares,,lsoares,S
+202,2028,Gestão & Monitoramento - Material de escritório,214010900000,Infraestrutura,2022-01-27 15:52:39,lsoares,2022-02-02 10:29:12,renato.rossi,S
+203,2028,Gestão & Monitoramento - Passagens aéreas,214010700000,Viagens,2022-01-27 15:53:15,lsoares,,lsoares,S
+204,2028,Gestão & Monitoramento - TIC,214011200000,Infraestrutura,2022-01-27 15:53:59,lsoares,,lsoares,S
+205,2028,Mensuração - Consultoria,214020200000,Pessoal,2022-01-27 15:54:36,lsoares,,lsoares,S
+206,2028,Comunicação - Consultoria,214030200000,Pessoal,2022-01-27 15:55:46,lsoares,,lsoares,S
+207,2028,Comunicação - Serviços gráficos,214031400000,Serviços,2022-01-27 15:56:24,lsoares,,lsoares,S
+208,2028,Comunicação - Serviços técnicos,214031300000,Serviços,2022-01-27 15:57:16,lsoares,,lsoares,S
+209,2028,PDE - Consultoria,214040200000,Pessoal,2022-01-27 15:57:56,lsoares,,lsoares,S
+210,2028,PDE - TIC,214041200000,Infraestrutura,2022-01-27 15:58:52,lsoares,,lsoares,S
+212,2028,Gastos com tarifas bancárias,A definir,CC2 a definir,2022-05-18 13:23:38,renato.rossi,,renato.rossi,S
+213,2029,Gestão e monitoramento - Consultoria,1,Pessoal,2022-07-14 16:23:15,lsoares,,lsoares,S
+214,2029,Gestão e monitoramento - Instalações,2,Infraestrutura,2022-07-14 16:24:04,lsoares,,lsoares,S
+215,2029,Mensuração - Consultoria,3,Pessoal,2022-07-14 16:24:41,lsoares,,lsoares,S
+216,2029,Estudos e pesquisas - Consultoria,4,Pessoal,2022-07-14 16:25:28,lsoares,,lsoares,S
+217,2029,Estudos e pesquisas - Serviços,5,Serviços,2022-07-14 16:26:28,lsoares,,lsoares,S
+218,2029,Governança e sensibilização - Consultoria,6,Pessoal,2022-07-14 16:27:05,lsoares,,lsoares,S
+219,2029,Governança e sensibilização - Diárias,7,Viagens,2022-07-14 16:27:53,lsoares,,lsoares,S
+220,2029,Governança e sensibilização - Instalações,8,Eventos,2022-07-14 16:28:32,lsoares,,lsoares,S
+221,2029,Governança e sensibilização - Materiais de instrução,9,Eventos,2022-07-14 16:29:06,lsoares,,lsoares,S
+222,2029,Governança e sensibilização - Passagens aéreas,10,Viagens,2022-07-14 16:30:13,lsoares,,lsoares,S
+223,2029,Governança e sensibilização - Serviços,11,Serviços,2022-07-14 16:30:48,lsoares,,lsoares,S
+224,2029,Governança e sensibilização - TIC,12,Infraestrutura,2022-07-14 16:31:22,lsoares,,lsoares,S
+225,2029,Atuação em rede - Consultoria,13,Pessoal,2022-07-14 16:32:00,lsoares,,lsoares,S
+226,2029,Atuação em rede - Diárias,14,Viagens,2022-07-14 16:33:16,lsoares,,lsoares,S
+227,2029,Atuação em rede - Instalações,15,Eventos,2022-07-14 16:34:06,lsoares,,lsoares,S
+228,2029,Atuação em rede - Materiais de instrução,16,Eventos,2022-07-14 16:35:06,lsoares,,lsoares,S
+229,2029,Atuação em rede - Passagens aéreas,17,Viagens,2022-07-14 16:36:12,lsoares,,lsoares,S
+230,2029,Atuação em rede - Serviços,18,Serviços,2022-07-14 16:36:46,lsoares,,lsoares,S
+231,2029,Desenvolvimento de competências - Consultoria,19,Pessoal,2022-07-14 16:37:54,lsoares,,lsoares,S
+232,2029,Desenvolvimento de competências - Diárias,20,Viagens,2022-07-14 16:39:29,lsoares,,lsoares,S
+233,2029,Desenvolvimento de competências - Instalações,21,Eventos,2022-07-14 16:42:53,lsoares,,lsoares,S
+234,2029,Desenvolvimento de competências - Materiais de instrução,22,Eventos,2022-07-14 16:44:12,lsoares,,lsoares,S
+235,2029,Desenvolvimento de competências - Passagens aéreas,23,Viagens,2022-07-14 16:44:56,lsoares,,lsoares,S
+236,2029,Desenvolvimento de competências - Serviços,24,Serviços,2022-07-14 16:45:57,lsoares,,lsoares,S
+237,2029,Desenvolvimento de competências - Transporte local,25,Viagens,2022-07-14 16:46:42,lsoares,,lsoares,S
+238,2029,Mercado - Consultoria,26,Pessoal,2022-07-14 16:47:19,lsoares,,lsoares,S
+239,2029,Mercado - Diárias,27,Viagens,2022-07-14 16:47:50,lsoares,,lsoares,S
+240,2029,Mercado - Instalações,28,Eventos,2022-07-14 16:48:41,lsoares,,lsoares,S
+241,2029,Mercado - Materiais de instrução,29,Eventos,2022-07-14 16:49:19,lsoares,,lsoares,S
+242,2029,Mercado - Passagens aéreas,30,Viagens,2022-07-14 16:49:52,lsoares,,lsoares,S
+243,2029,Mercado - Serviços,31,Serviços,2022-07-14 16:50:26,lsoares,,lsoares,S
+244,2029,Despesas bancárias - não previstas nas proposta aprovada,A definir,A definir,2022-10-24 11:01:56,renato.rossi,,renato.rossi,S
+245,2028,Materiais Metaplan,211011100000,Infraestrutura,2022-12-05 16:01:52,renato.rossi,,renato.rossi,S
+246,2029,Fomento - Infraestrutura,32,Infraestrutura,2023-01-24 10:44:48,renato.rossi,,renato.rossi,S
+247,2029,Fomento - viagens - passagens aéreas,33,Viagens,2023-01-24 10:48:53,renato.rossi,,renato.rossi,S
+248,2029,Fomento - viagens - estada,34,Viagens,2023-01-24 10:49:40,renato.rossi,,renato.rossi,S
+249,2029,Fomento - Consultoria,35,Pessoal,2023-01-24 10:54:51,renato.rossi,,renato.rossi,S
+998,189,Desenvolvimento de projetos - Projeto a identificar,6818.9999,A definir,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,
+999,189,A definir,9999.9999,A definir,2019-04-15 08:40:50,gabriel.lima,2019-04-15 08:40:50,gabriel.lima,

@@ -1,0 +1,29 @@
+id,abrangencia,codigo,data_inclusao,data_alteracao,nome,usuario_inclusao,usuario_alteracao,status
+1,nacional,mastr,2020-09-22 00:00:15,,Master,emanoel,,S
+2,nacional,cacb1,2020-09-22 00:00:15,2020-11-06 13:35:13,Analista técnico nacional,emanoel,renato.rossi,S
+3,nacional,cacb2,2020-09-22 00:00:15,2022-12-16 12:49:37,Nacional2,emanoel,renato.rossi,N
+4,nacional,cacb3,2020-09-22 00:00:15,2022-12-16 12:49:50,Nacional3,emanoel,renato.rossi,N
+5,nacional,cacb4,2020-09-22 00:00:15,2022-12-16 12:50:02,Nacional4,emanoel,renato.rossi,N
+6,nacional,cacb5,2020-09-22 00:00:15,2022-12-16 12:50:15,Nacional5,emanoel,renato.rossi,N
+7,local,feder,2020-09-22 00:00:15,2022-05-13 08:11:27,Federação,emanoel,renato.rossi,N
+8,local,assoc,2020-09-22 00:00:15,2021-04-08 08:53:28,Entidade,emanoel,renato.rossi,S
+9,nacional,cacb-gf,2020-09-22 00:00:15,2020-11-06 13:35:42,Analista financeiro nacional,emanoel,renato.rossi,S
+10,nacional,visitante_nacional,2020-09-22 00:00:15,2020-09-23 13:57:23,Visitante Nacional,emanoel,renato.rossi,S
+11,nacional,empresario,2020-09-22 00:00:15,,Empresário,emanoel,,S
+12,nacional,adm1,2020-09-22 00:00:15,2022-04-20 14:52:18,Apoio administrativo,emanoel,renato.rossi,S
+13,nacional,adm-2,2020-09-22 00:00:15,,Administrativo 2,emanoel,,S
+14,local,visitante_local,2020-09-22 00:06:26,2020-10-20 15:20:24,Visitante Local,gabriel.lima,renato.rossi,S
+34,nacional,adm_e,2020-09-29 08:36:51,2020-09-29 08:37:59,Adm-Empreender,renato.rossi,renato.rossi,S
+35,nacional,adm_3,2021-02-08 18:23:57,2021-02-08 18:23:57,Administrativo 3,renato.rossi,,S
+36,nacional,bas,2021-02-18 17:28:26,2021-02-18 17:28:26,Base,renato.rossi,,S
+37,local,ace_g_ad,2021-04-16 11:49:40,2022-05-13 08:11:40,ACE-Gestor-Adicional,eduardo.assis,renato.rossi,N
+38,nacional,e_comunicacao,2021-04-16 12:51:05,2021-04-20 10:13:08,E-Comunicação,eduardo.assis,renato.rossi,S
+39,nacional,p21_aval,2021-06-30 17:37:58,2021-06-30 17:37:58,Prêmio 21 - avaliador,renato.rossi,,S
+40,nacional,dir_cacb,2022-01-12 11:41:31,2022-01-12 11:41:31,Dir CACB,renato.rossi,,S
+41,nacional,dir_ass,2022-02-04 15:23:13,2022-02-04 15:24:25,DIr - Assessoria,renato.rossi,renato.rossi,S
+42,local,fornecedor,2022-05-18 07:32:49,2022-06-07 08:50:59,Fornecedor,renato.rossi,renato.rossi,S
+43,nacional,p_serv_I,2022-10-03 14:52:13,2022-10-03 14:52:13,Prestador de serviços I,renato.rossi,,S
+44,nacional,adm_cmec,2022-11-17 08:08:31,2022-11-17 12:02:14,ADM-CMEC,renato.rossi,renato.rossi,S
+45,nacional,sebrae_189,2023-01-02 22:58:44,2023-01-11 07:08:55,Sebrae 189,gabriel.lima,renato.rossi,S
+46,nacional,sebrae_e2022,2023-03-14 04:57:45,2023-03-14 05:04:59,Sebrae E2022,renato.rossi,renato.rossi,S
+47,nacional,c_ger_I,2023-06-06 09:00:29,2023-06-06 09:00:29,CACB - Geral I,jose.filipi,,S

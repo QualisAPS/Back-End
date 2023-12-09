@@ -1,0 +1,83 @@
+idusuario,idlingua,idformacao,dsintitu,dtini,dtfim,cdtitulo,dsarea
+5,pt,1,FACDO - Faculdade Católica Dom Orione,01/2006,12/2009,gradu,Administração de Empresas
+5,pt,2,UFT - UNIVERSIDADE FEDERAL DO TOCANTINS,02/2000,12/2011,gradu,Ciencias Matematica
+7,pt,1,FEF FACULDADE DE FERNANDOPOLIS,03/2009,07/2010,espec,GESTÃO DE PESSOAS E MARKETING
+7,pt,2,FTM- FACULDADE TRIANGULO MINEIRO,01/2001,12/2007,gradu,ADMINISTRAÇAO DE EMPRESAS
+8,pt,1,Univille - Universidade da Região de Joinville,02/2000,02/2004,gradu,Ciências Econômicas
+9,pt,1,universidade salgado de oliveira,01/2003,01/2008,espec,civil
+13,en,1,UNIT - CENTRO UNIVERSITARIO DO TRIANGULO,01/1999,12/2003,gradu,LAW
+13,pt,1,UNIT - CENTRO UNIVERSITARIO DO TRIANGULO,01/1999,12/2003,gradu,DIREITO
+14,pt,1,Escola Superior de Agricultura e Ciencias de Machado,02/1984,07/1988,gradu,Agronômia
+14,pt,2,Centro de Ensino Superior de Catalão,03/2001,03/2002,espec,Gestão Empresárial
+19,pt,1,Universidade Ferderal de Uberlandia,03/1995,08/2003,gradu,Engenharia agronomica
+19,pt,2,"Universidade para o Desenvolvimento do Estado e da Região do Pantanal, UNIDERP",03/2005,11/2007,mestr,Produção e Gestão
+21,pt,1,UGF - UNIVERSIDADE GAMA FILHO,07/2006,12/2007,espec,ESTRATÉGIA E GESTÃO EMPRESARIAL
+22,pt,1,Universidade Estadual de Maringá,03/1993,12/1999,gradu,Administração
+22,pt,2,Universidade Estadual de Maringá,03/2001,12/2003,espec,Educação
+22,pt,3,Universidade Estadual de Maringá (apenas os créditos),03/2002,12/2004,mestr,Gestão de negócios
+24,es,1,Fundación Álvares Penteado,01/2002,12/2004,espec,Dirección y desarrollo de personas
+25,pt,1,FATI - Faculdade de Administração de Timbauba,02/1999,12/2002,gradu,Administração
+26,pt,1,UNIVALI,01/2003,02/2007,gradu,Administração hab. Comércio Exterior
+27,pt,1,Universidade Estadual do Maranhão,03/2002,05/2004,gradu,Administração
+29,pt,1,Universidade Paulista,06/2000,06/2007,gradu,direito
+31,pt,1,UNIVERSIDADE DA AMAZONIA,01/2004,01/2008,gradu,CIENCIAS CONTABEIS
+32,pt,1,FESURV - Fundação do Ensino Superior de Rio Verde - GO,08/1994,07/1998,gradu,Administração
+32,pt,2,FESURV,04/2006,04/2008,espec,Gestão de Pessoas
+33,pt,1,FACEPAL,02/1992,12/1996,gradu,ADM.RURAL
+33,pt,2,UNIOES,02/2003,12/2008,gradu,ADMISTRAÇÃO EMPRESA
+33,pt,3,FACEPAL,02/1997,12/1998,espec,GERENCIAMENTO EMPRESARIAL
+35,es,1,FGV - Fundacao Getulio Vargas,02/2007,03/2008,espec,Administrativa
+35,es,2,FAMEG - Faculdade Metropolitana de Guaramirim,02/2002,02/2006,gradu,Arministrativa
+36,pt,1,Universidade de Ribeirão Preto - UNAERP,02/1990,12/1994,gradu,Administração de Empresas
+38,pt,1,UNIDESC Universidade,07/2002,07/2006,gradu,Administração
+39,pt,1,Faculdade de Ciências Econômicas da Universidade Federal de Minas Gerais,06/1966,06/1971,gradu,Administração
+40,pt,1,Universidade Federal de Minas Gerais - Faculdade de ciência Econômica,08/1987,02/1992,gradu,Administração
+40,pt,2,Faculdades Milton Campos,08/2003,04/2009,gradu,Direito
+43,pt,1,UNC - UNIVERSIDADE DO CONTESTADO,07/1990,06/2000,espec,ADMINISTRAÇÃO
+43,pt,2,UNOESC,07/1999,11/2000,espec,ADMINISTRAÇÃO
+44,pt,1,Universidad Interamericana de Panamá,01/2009,10/2009,espec,Gerencia de Projetos
+50,pt,1,Instituto de Ensino Superior COC,01/2007,12/2010,gradu,Administração de Empresas
+51,es,1,Escuela Complutense de Verano - Universidad Complutense de Madrid - España,07/2005,07/2005,espec,"Comunicación Corporativa, Publicitária y Política"
+51,es,2,Fundace / USP - Ribeirão Preto,07/2001,07/2003,espec,Marketing
+51,es,3,Universidad de Ribeirão Preto,02/1993,12/1996,gradu,Comunicação Social - Publicidade e Propaganda
+51,pt,1,Escuela Complutense de Verano - Universidad Complutense de Madrid - Espanha,07/2005,07/2005,espec,"Comunicação Corporativa, Publicitária e Política"
+51,pt,2,Fundace / USP - Ribeirão Preto,07/2001,07/2003,espec,Marketing
+51,pt,3,Universidade de Ribeirão Preto,02/1993,12/1996,gradu,Comunicação Social - Publicidade e Propaganda
+52,es,1,Universidad de Antioquia,03/2003,07/2007,gradu,Comunicación Social - Periodismo
+52,es,2,Secretaria Especial dos Direitos Humanos da Presidência da República. Brasil,10/2008,02/2009,espec,Curso: Derechos Humanos y resolución de conflictos
+52,es,3,Servicio Nacional de Aprendizaje SENA. Colombia. 2008,02/2008,04/2008,espec,Curso ZEstrategias pedagógicas para el desarrollo del pensamiento
+52,es,4,"Concejo de Medellín, Escuela de Gobierno y Políticas Públicas de Antioquia. Colombia",08/2007,09/2007,espec,"Curso Elaboración, formulación y seguimiento de proyectos de desarrollo"
+52,pt,1,Universidad de Antioquia,03/2003,07/2007,gradu,Comunicação Social - Jornalismo
+52,pt,2,Secretaria Especial dos Direitos Humanos da Presidência da República. Brasil,10/2008,10/2009,espec,Curso ZDireitos Humanos e Mediação de Conflitos
+52,pt,3,Servicio Nacional de Aprendizaje SENA. Colômbia. 2008,02/2008,04/2008,espec,Curso ZEstratégias pedagógicas para el desarrollo del pensamientoZ.
+52,pt,4,"Concejo de Medellín, Escuela de Gobierno y Políticas Públicas de Antioquia. Colombia",08/2007,09/2007,espec,"Elaboración, formulación y seguimiento de proyectos de desarrollo"
+55,pt,1,"Universidade Federal de Uberlândia, UFU",02/2000,06/2004,gradu,Ciências Econômicas
+55,pt,2,"Fundação Getulio Vargas, FGV-SP",02/2006,06/2008,espec,MBA em Gestão Empresarial
+55,pt,3,"Universidade Federal de Uberlândia, UFU",02/2012,10/2014,mestr,Administração
+56,es,1,Fundación Getúlio Vargas - FGV,04/2004,07/2005,espec,Gestão Estratégica de Marketing
+56,es,2,Faculdades Integradas UPIS,03/1997,07/2001,gradu,Secretariado Ejecutivo
+57,es,1,Integrale/Fecap,01/2004,12/2006,espec,Bauru - San Paolo
+58,pt,1,UFSC/SEaD-Universidade Federal de Santa Catarina/Ministério do Turismo,07/2010,11/2010,espec,Turismo
+58,pt,2,UEMA/EaD - Universidade Estadual do Maranhão,11/2009,12/2013,gradu,Licenciatura em Pedagogia
+59,pt,1,Unitins - Fundação da Universidade do Tocantins,03/2007,12/2010,gradu,Administração de empresa
+60,pt,1,UFPA - Universidade Federal do Pará,02/2004,04/2009,mestr,Planejamento do Desenvolvimento Regional
+61,en,1,FACULDADE ESTÁCIO DE SÁ DE SANTA CATARINA,02/2007,08/2009,espec,HUMAN RESOURCE MANAGEMENT
+61,en,2,FACULDADE ESTÁCIO DE SÁ DE SANTA CATARINA,02/2002,07/2006,gradu,ADMINISTRATION EMPHASIS ON FOREIGN TRADE
+61,pt,1,FACULDADE ESTÁCIO DE SÁ DE SANTA CATARINA,02/2007,08/2009,espec,GESTÃO DE RECURSOS HUMANOS
+61,pt,2,FACULDADE ESTÁCIO DE SÁ DE SANTA CATARINA,02/2002,07/2006,gradu,ADMINISTRAÇÃO COM HABILITAÇÃO EM COMÉRCIO EXTERIOR
+64,pt,1,Faculdade de Ciências da Administração de Pernambuco - FCAP/UPE,02/2008,01/2009,espec,Planejamento e Gestão Organizacional
+64,pt,2,Universidade Católica de Pernambuco,08/2002,12/2006,gradu,Comunicação Social - Jornalismo
+66,pt,1,União de Negócios em Administração - UNA,01/1999,07/2001,gradu,Gestão Empresarial
+67,pt,1,Faculdade Internacional de Curitiba - FACINTER,02/2011,12/2013,gradu,Secretariado Executivo
+71,pt,1,UNOESC -Joaçaba,02/1997,11/2000,gradu,Administração
+73,es,1,UNIVILLE - Universidad de la Región de Joinville,02/2000,02/2004,gradu,Ciencias Económicas
+74,pt,1,Faculdade de Direito de Teófilo Otoni,01/1995,12/1999,gradu,Direito
+74,pt,2,Faculdade de Processamento de Dados,01/1997,12/1998,gradu,TI
+74,pt,3,Faculdade de Direito Vale do Rio Doce,01/1998,12/1999,espec,Direito Público
+74,pt,4,Fundação Getúlio Vargas,01/2007,12/2009,espec,Gestão Empresarial
+75,pt,1,Univille,01/2005,12/2008,gradu,Administração com habilitação em Marketing
+80,pt,1,FUNDACAO UNIVERSIDADE REGIONAL DE BLUMENAU (FURB),03/2010,06/2012,mestr,DESENVOLVIMENTO REGIONAL
+80,pt,2,FUNDACAO UNIVERSIDADE REGIONAL DE BLUMENAU (FURB),08/2006,12/2009,gradu,ECONOMIA
+81,es,1,ANHANGUERA,08/2011,08/2012,espec,MBA em estratégia de Negocios
+81,pt,1,Plinio Leite - Anhaguera,06/2011,06/2012,espec,MBA - estratégia de negocios
+83,pt,1,UNIVERSIDADE CANDIDO MENDES,01/1998,08/2002,espec,ADMINISTRAÇÃO

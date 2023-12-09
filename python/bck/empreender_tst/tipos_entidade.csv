@@ -1,0 +1,8 @@
+id,nome,status,data_inclusao,usuario_inclusao,data_atualizacao,usuario_alteracao
+1,ACE,true,2022-02-18 22:50:37,,2022-02-18 22:50:37,
+2,Entidade Nacional,true,2022-02-18 22:50:37,,2022-02-18 22:50:37,renato.rossi
+3,Entidade estrangeira,true,2022-02-18 22:50:37,,2022-02-18 22:50:37,renato.rossi
+4,Federação,true,2022-02-18 22:50:37,,2022-02-18 22:50:37,
+5,ACE/Fed não filiada,true,2022-04-22 11:26:45,renato.rossi,2022-04-22 11:26:45,renato.rossi
+6,CACB-Interno,true,2022-05-21 12:04:53,renato.rossi,2022-05-21 12:04:53,renato.rossi
+7,CMEC M,true,2022-11-12 09:18:46,renato.rossi,2022-11-12 09:18:46,renato.rossi
