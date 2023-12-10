@@ -1,9 +1,0 @@
-id,nome,descricao,peso_categoria,id_concurso,categoria_logica,avaliacao_unica
-1,Técnica,,5,1,false,false
-2,Financeira,,5,1,false,false
-3,Homologação,,0,1,true,true
-4,Geral,Categoria dos avaliadores da banca julgadora (Fase I).,1,1,false,false
-5,Final,Avaliação final realizada no evento. Apenas para vinculação dos participantes da banca no evento,1,1,false,false
-6,Homologação,,1,2,true,true
-7,Habilitação de entidade,,1,2,true,true
-8,Avaliação técnica,,1,2,false,false

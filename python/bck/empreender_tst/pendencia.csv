@@ -1,7 +1,0 @@
-id,titulo,descricao,descricao_editada,status,data_solucao,bloqueio_financeiro,tipo_vinculo,id_vinculo,data_bloqueio,usuario_bloqueio,data_liberacao,usuario_liberacao,data_inclusao,usuario_inclusao,data_atualizacao,usuario_alteracao,autor,usuario_solucao,data_prevista_solucao,id_vinculo_aux
-1,Documentação,Está faltando o acordo de resultados. Se comprometeram a entregar no dia 31/03,false,nr,,de,projeto,2013,,,,,2021-03-31 12:30:22,rezende,2021-03-31 12:30:22,rezende,46705171634,,2021-04-09,
-2,Pendência de entidade,Pendência de entidade,false,nr,,de,entidade,2585,,,,,2022-07-05 13:41:40,renato.rossi,2022-07-05 13:41:40,renato.rossi,22895523053,,2022-07-08,
-3,Pendência de teste 1,Há que resolver a pendência,false,nr,,de,projeto,2034,,,,,2023-05-09 11:36:32,renato.rossi,2023-05-09 11:36:32,renato.rossi,22895523053,,2023-05-19,
-4,Teste pendencia  projeto teste,Teste pendencia  projeto teste,false,nr,,de,projeto,2044,,,,,2023-05-16 14:54:29,gabriel.lima,2023-05-16 14:54:29,gabriel.lima,04473535193,,2023-05-30,
-5,Vistoria dos dados,Falta uma evidência sobre o andamento da aç,false,nr,,bo,acao,2046,2023-05-22 15:19:32,22895523053,,,2023-05-22 18:19:32,renato.rossi,2023-05-22 18:19:32,renato.rossi,22895523053,,2023-05-26,1
-6,Pagamento pendente,a,false,nr,,bo,projeto,2049,2023-06-01 08:54:10,70633372110,,,2023-06-01 11:54:10,jose.filipi,2023-06-01 11:54:10,jose.filipi,70633372110,,2023-06-02,

@@ -1,6 +1,0 @@
-idpreferencia,nome,descricao,tipo,valor,grupo
-3,Lista de lançamentos - nº de itens por página,Indica o número de itens por página a figurar na lista de lançamentos,logico,"10,25,50,100,Todos",Listas
-4,Lista de lançamentos - opções de pré-filtros,Define a situação inicial dos pré-filtros da lista de lançamentos - em desenvolvimento,logico,"Nenhum pré-filtro ativado,Liberáveis - apresenta apenas os lançamentos aprovados passíveis de liberação,Automáticos - apresenta os lançamentos automáticos,Pagos - apresenta os lançamentos pagos,Todos - apresenta todos os lançamentos",Lista de lançamentos
-5,Projetos preferidos,"Projetos mais usados pelo usuário. Os códigos dos projetos devem ser informados, separados por "","" (vírgulas).",numerico,Não há,Projeto
-7,Nº de  itens nas listas - geral,Indica o número de itens apresentados nas listas paginas quando não há preferência específica. Implementação paulatina até cobrir todas as listas disponíveis - em implantação gradual,logico,"10,25,50,100,Todos",Listas
-8,Datas na lista de lançamentos,"Indica se na lista de lançamentos de um projeto, deve ser apresentada a data da última alteração ou a data do pagamento.",logico,"Data da última alteração,Data do pagamento",Projeto

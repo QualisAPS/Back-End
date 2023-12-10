@@ -1,6 +1,6 @@
 import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 
-import Equipe from 'App/Models/equipe'
+import Equipe from 'App/Models/Equipe'
 
 export default class EquipeController {
   public async index() {
