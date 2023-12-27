@@ -1,5 +1,5 @@
 import { BaseModel, column, belongsTo, BelongsTo } from '@ioc:Adonis/Lucid/Orm'
-export default class Equipe extends BaseModel {
+export default class Documentos extends BaseModel {
   
   public static table = 'documentos'
 
@@ -10,9 +10,14 @@ export default class Equipe extends BaseModel {
   public nome: string
 
   @column()
-  public url: string
+  public descricao: string
 
   @column()
   public categoria: string
+
+  @column()
+  public url: string
+
+
 
 }

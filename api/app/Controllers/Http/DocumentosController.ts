@@ -1,6 +1,6 @@
 import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 
-import Equipe from 'App/Models/Equipe'
+import Documentos from 'App/Models/Documentos'
 
 export default class EquipeController {
   public async index() {
@@ -8,7 +8,7 @@ export default class EquipeController {
     // const data = await UBS.all()
     // return data
 
-    const data = await Equipe.all()
+    const data = await Documentos.all()
     return data
     
   }

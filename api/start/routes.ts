@@ -9,4 +9,5 @@ Route.resource('regiao-admin', 'RegiaoAdminController').apiOnly()
 Route.resource('gsap', 'GsapController').apiOnly()
 Route.resource('ubs', 'UBSController').apiOnly()
 Route.resource('equipe', 'EquipeController').apiOnly()
+Route.resource('documentos', 'DocumentosController').apiOnly()
 
