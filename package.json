@@ -1,5 +1,5 @@
 {
-  "name": "qualis-aps-back-end",
+  "name": "back-end",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -24,11 +24,10 @@
     "@nestjs/config": "^3.2.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
-    "@supabase/supabase-js": "^2.39.7",
+    "pg": "^8.11.3",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
-    "typeorm": "^0.3.20",
-    "zod": "^3.22.4"
+    "typeorm": "^0.3.20"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
