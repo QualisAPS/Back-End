@@ -10,11 +10,11 @@ export default class  RegiaoAdmin extends BaseModel {
   @column({ isPrimary: true })
   public id: number
 
-  @column({ isPrimary: true })
+  @column()
   public nome: string
 
   @column()
-  public regiaoSaudeId: number | null
+  public regiaoSaude: number | null
 
   @belongsTo(() => RegiaoSaude)
   public regiao_saude: BelongsTo<typeof RegiaoSaude>
