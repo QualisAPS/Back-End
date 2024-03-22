@@ -8,7 +8,6 @@ export default class RegiaoAdminController {
     return await RegiaoAdmin.query()
   }
 
-  // Criar uma nova região administrativa
   public async store({ request, response }: HttpContextContract) {
     const dados = request.only(['nome', 'regiaoSaude'])
 
@@ -20,7 +19,6 @@ export default class RegiaoAdminController {
     return regiaoAdmin
   }
 
-  // Obter uma região administrativa pelo ID
   public async show({ params, response }: HttpContextContract) {
     try {
       const regiaoAdmin = await RegiaoAdmin.findOrFail(params.id)
@@ -30,7 +28,6 @@ export default class RegiaoAdminController {
     }
   }
 
-  // Atualizar uma região administrativa
   public async update({ params, request, response }: HttpContextContract) {
     let regiaoAdmin
     try {
@@ -41,7 +38,6 @@ export default class RegiaoAdminController {
 
     const dados = request.only(['nome', 'regiaoSaude'])
 
-    // Verifica se regiaoSaudeId foi fornecido e se é válido
     if (dados.regiaoSaude && !(await RegiaoSaude.find(dados.regiaoSaude))) {
       return response.status(404).send({ error: 'Região de Saúde não encontrada.' })
     }
@@ -51,7 +47,6 @@ export default class RegiaoAdminController {
     return regiaoAdmin
   }
 
-  // Deletar uma região administrativa
   public async destroy({ params, response }: HttpContextContract) {
     try {
       const regiaoAdmin = await RegiaoAdmin.findOrFail(params.id)

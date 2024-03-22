@@ -9,7 +9,6 @@ export default class RegiaoSaudeController {
     return data
   }
 
-  // Visualizar uma única região de saúde pelo ID
   public async show({ params }: HttpContextContract) {
     try {
       const regiaoSaude = await RegiaoSaude.findOrFail(params.id)
@@ -19,7 +18,6 @@ export default class RegiaoSaudeController {
     }
   }
 
-  // Deletar uma região de saúde com base no ID
   public async destroy({ params }: HttpContextContract) {
     try {
       const regiaoSaude = await RegiaoSaude.findOrFail(params.id)
@@ -30,7 +28,6 @@ export default class RegiaoSaudeController {
     }
   }
 
-  // Atualizar uma região de saúde com base no ID
   public async update({ params, request }: HttpContextContract) {
     try {
       const regiaoSaude = await RegiaoSaude.findOrFail(params.id)
@@ -43,7 +40,6 @@ export default class RegiaoSaudeController {
     }
   }
 
-  // Função para criar uma nova região de saúde
   public async store({ request }: HttpContextContract) {
     const dados = request.only(['nome', 'sigla'])
     const regiaoSaude = await RegiaoSaude.create(dados)
