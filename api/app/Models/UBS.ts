@@ -12,7 +12,7 @@ export default class  RegiaoAdmin extends BaseModel {
   public nome: string
 
   @column()
-  public gsap: number
+  public gsapId: number
 
   @column()
   public sigla: string

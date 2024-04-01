@@ -17,4 +17,7 @@ export default class Gsap extends BaseModel {
 
   @belongsTo(() => RegiaoAdmin)
   public regiao_admin: BelongsTo<typeof RegiaoAdmin>
+
+  @hasMany(() => UBS)
+  public ubs: HasMany<typeof UBS>
 }
