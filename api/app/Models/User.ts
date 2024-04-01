@@ -19,6 +19,7 @@ import Role from './Role'
 
 export default class User extends BaseModel {
 
+  public static table = 'usuarios'
   @column({ isPrimary: true })
   public id: number
 
@@ -30,6 +31,9 @@ export default class User extends BaseModel {
 
   @column()
   public nome: string
+
+  @column()
+  public matricula: string
 
   @column()
   public cpf: string
@@ -47,7 +51,7 @@ export default class User extends BaseModel {
   public updatedAt: DateTime
 
   @manyToMany(() => Role, {
-    pivotTable: 'usuario_equipes',
+    pivotTable: 'usuarios_roles',
   })
   public roles: ManyToMany<typeof Role>
 
@@ -56,6 +60,7 @@ export default class User extends BaseModel {
   public static async hashPassword(user: User) {
     if (user.$dirty.password) {
       user.password = await Hash.make(user.password)
+      
     }
   }
 }

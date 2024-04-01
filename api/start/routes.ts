@@ -10,4 +10,9 @@ Route.resource('gsap', 'GsapController').apiOnly()
 Route.resource('ubs', 'UBSController').apiOnly()
 Route.resource('equipe', 'EquipeController').apiOnly()
 Route.resource('documentos', 'DocumentosController').apiOnly()
+Route.resource('usuarios', 'UsersController').apiOnly()
+
+Route.post('auth/login', 'AuthController.login')
+
+
 
