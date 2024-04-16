@@ -1,9 +1,6 @@
-import { DateTime } from 'luxon'
-import { BaseModel, column, hasMany,HasMany, belongsTo,BelongsTo } from '@ioc:Adonis/Lucid/Orm'
-import UBS from './UBS'
-import RegiaoAdmin from './RegiaoAdmin'
-export default class Gsap extends BaseModel {
+import { BaseModel, column } from '@ioc:Adonis/Lucid/Orm'
 
+export default class Gsap extends BaseModel {
   public static table = 'gsap'
 
   @column({ isPrimary: true })
@@ -13,11 +10,5 @@ export default class Gsap extends BaseModel {
   public nome: string
 
   @column()
-  public regiaoAdmin: number | null
-
-  @belongsTo(() => RegiaoAdmin)
-  public regiao_admin: BelongsTo<typeof RegiaoAdmin>
-
-  @hasMany(() => UBS)
-  public ubs: HasMany<typeof UBS>
+  public regiaoAdmin: number
 }
