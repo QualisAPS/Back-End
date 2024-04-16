@@ -1,9 +1,8 @@
 import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext';
-import Ubs from 'App/Models/Ubs'; // Usando Ubs como o modelo correto para UBS
-
+import UBS from 'App/Models/UBS'
 export default class UbsController {
   public async index({}: HttpContextContract) {
-    return await Ubs.query();
+    return await UBS.query();
   }
 
   public async store({ request, response }: HttpContextContract) {
@@ -31,7 +30,7 @@ export default class UbsController {
 
   public async show({ params, response }: HttpContextContract) {
     try {
-      const ubs = await Ubs.findOrFail(params.id);
+      const ubs = await UBS.findOrFail(params.id);
       return ubs;
     } catch (error) {
       return response.status(404).send({ error: 'UBS não encontrada.' });
@@ -41,7 +40,7 @@ export default class UbsController {
   public async update({ params, request, response }: HttpContextContract) {
     let ubs;
     try {
-      ubs = await Ubs.findOrFail(params.id);
+      ubs = await UBS.findOrFail(params.id);
     } catch (error) {
       return response.status(404).send({ error: 'UBS não encontrada.' });
     }
@@ -60,7 +59,7 @@ export default class UbsController {
 
   public async destroy({ params, response }: HttpContextContract) {
     try {
-      const ubs = await Ubs.findOrFail(params.id);
+      const ubs = await UBS.findOrFail(params.id);
       await ubs.delete();
       return { message: 'UBS deletada com sucesso.' };
     } catch (error) {
