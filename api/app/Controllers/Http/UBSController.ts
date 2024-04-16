@@ -1,8 +1,16 @@
 import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext';
 import UBS from 'App/Models/UBS'
+import Database from '@ioc:Adonis/Lucid/Database';
 export default class UbsController {
   public async index({}: HttpContextContract) {
-    return await UBS.query();
+    return await Database.query()
+    .from('ubs')
+    .select('ubs.*', 'gsap.nome as gsap_nome', 'regiao_admin.nome as ra_nome', 'regiao_saude. nome as rs_nome') 
+    .leftJoin('gsap', 'ubs.gsap_id', '=', 'gsap.id')
+    .leftJoin('regiao_admin', 'gsap.regiao_admin', '=', 'regiao_admin.id')
+    .leftJoin('regiao_saude', 'regiao_admin.regiao_saude', '=', 'regiao_saude.id');
+
+
   }
 
   public async store({ request, response }: HttpContextContract) {
@@ -30,8 +38,14 @@ export default class UbsController {
 
   public async show({ params, response }: HttpContextContract) {
     try {
-      const ubs = await UBS.findOrFail(params.id);
-      return ubs;
+      const ubs = await Database
+      .from('ubs')
+      .select('ubs.*', 'gsap.nome as gsap_nome', 'regiao_admin.nome as ra_nome', 'regiao_saude.nome as rs_nome')
+      .leftJoin('gsap', 'ubs.gsap_id', '=', 'gsap.id')
+      .leftJoin('regiao_admin', 'gsap.regiao_admin', '=', 'regiao_admin.id')
+      .leftJoin('regiao_saude', 'regiao_admin.regiao_saude', '=', 'regiao_saude.id')
+      .where('ubs.id', params.id)
+      return ubs
     } catch (error) {
       return response.status(404).send({ error: 'UBS não encontrada.' });
     }
