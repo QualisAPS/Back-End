@@ -6,7 +6,7 @@ export default class EquipesController {
   public async index({}: HttpContextContract) {
     return await Database.query()
     .from('equipes')
-    .select('equipes.*', 'gsap.nome as gsap_nome', 'regiao_admin.nome as ra_nome', 'regiao_saude. nome as rs_nome')
+    .select('equipes.*', 'ubs.nome as ubs_nome', 'gsap.nome as gsap_nome', 'regiao_admin.nome as ra_nome', 'regiao_saude. nome as rs_nome')
     .leftJoin('ubs', 'equipes.cnes', '=', 'ubs.cnes') 
     .leftJoin('gsap', 'ubs.gsap_id', '=', 'gsap.id')
     .leftJoin('regiao_admin', 'gsap.regiao_admin', '=', 'regiao_admin.id')
@@ -23,7 +23,7 @@ export default class EquipesController {
     try {
       const equipe = await Database
       .from('equipes')
-      .select('equipes.*', 'gsap.nome as gsap_nome', 'regiao_admin.nome as ra_nome', 'regiao_saude. nome as rs_nome')
+      .select('equipes.*', 'ubs.nome as ubs_nome', 'gsap.nome as gsap_nome', 'regiao_admin.nome as ra_nome', 'regiao_saude. nome as rs_nome')
       .leftJoin('ubs', 'equipes.cnes', '=', 'ubs.cnes') 
       .leftJoin('gsap', 'ubs.gsap_id', '=', 'gsap.id')
       .leftJoin('regiao_admin', 'gsap.regiao_admin', '=', 'regiao_admin.id')
