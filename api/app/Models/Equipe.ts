@@ -1,30 +1,25 @@
-import { DateTime } from 'luxon'
-import { BaseModel, column, belongsTo, BelongsTo } from '@ioc:Adonis/Lucid/Orm'
-import UBS from './UBS'
+import { BaseModel, column } from '@ioc:Adonis/Lucid/Orm'
 export default class Equipe extends BaseModel {
-  
-  public static table = 'equipe'
+  public static table = 'equipes'
 
   @column({ isPrimary: true })
   public id: number
 
   @column()
+  public ine: string
+
+  @column()
   public nome: string
 
   @column()
-  public ubsId: number
+  public cert_1_ciclo: string
 
   @column()
-  public tx_ine: string
-
-
-  @column()
-  public ciclo_1: string
-
+  public cert_nota_1_ciclo: number
 
   @column()
-  public equipe: string
+  public cert_2_ciclo: string
 
-  @belongsTo(() => UBS)
-  public ubs: BelongsTo<typeof UBS>
+  @column()
+  public cert_nota_2_ciclo: number
 }
